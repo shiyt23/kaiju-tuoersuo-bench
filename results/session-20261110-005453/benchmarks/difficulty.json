@@ -1,0 +1,414 @@
+{
+  "sum_ten_patterns_verified": 41,
+  "feasible_price_vectors": 16,
+  "boards": 58,
+  "upper_bound_below_150": 11,
+  "rows": [
+    {
+      "round": "round-002",
+      "relaxed_upper_bound": 160,
+      "planned_score": 145,
+      "gap_to_bound": 15,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-003",
+      "relaxed_upper_bound": 151,
+      "planned_score": 124,
+      "gap_to_bound": 27,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-004",
+      "relaxed_upper_bound": 150,
+      "planned_score": 135,
+      "gap_to_bound": 15,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-005",
+      "relaxed_upper_bound": 158,
+      "planned_score": 139,
+      "gap_to_bound": 19,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-006",
+      "relaxed_upper_bound": 156,
+      "planned_score": 125,
+      "gap_to_bound": 31,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-007",
+      "relaxed_upper_bound": 159,
+      "planned_score": 124,
+      "gap_to_bound": 35,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-008",
+      "relaxed_upper_bound": 160,
+      "planned_score": 138,
+      "gap_to_bound": 22,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-009",
+      "relaxed_upper_bound": 160,
+      "planned_score": 141,
+      "gap_to_bound": 19,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-010",
+      "relaxed_upper_bound": 160,
+      "planned_score": 144,
+      "gap_to_bound": 16,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-011",
+      "relaxed_upper_bound": 154,
+      "planned_score": 134,
+      "gap_to_bound": 20,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-012",
+      "relaxed_upper_bound": 155,
+      "planned_score": 121,
+      "gap_to_bound": 34,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-013",
+      "relaxed_upper_bound": 151,
+      "planned_score": 120,
+      "gap_to_bound": 31,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-014",
+      "relaxed_upper_bound": 156,
+      "planned_score": 133,
+      "gap_to_bound": 23,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-015",
+      "relaxed_upper_bound": 160,
+      "planned_score": 147,
+      "gap_to_bound": 13,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-016",
+      "relaxed_upper_bound": 150,
+      "planned_score": 139,
+      "gap_to_bound": 11,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-017",
+      "relaxed_upper_bound": 160,
+      "planned_score": 149,
+      "gap_to_bound": 11,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-018",
+      "relaxed_upper_bound": 150,
+      "planned_score": 122,
+      "gap_to_bound": 28,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-019",
+      "relaxed_upper_bound": 160,
+      "planned_score": 142,
+      "gap_to_bound": 18,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-020",
+      "relaxed_upper_bound": 147,
+      "planned_score": 128,
+      "gap_to_bound": 19,
+      "not_ruled_out_150": false
+    },
+    {
+      "round": "round-021",
+      "relaxed_upper_bound": 157,
+      "planned_score": 149,
+      "gap_to_bound": 8,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-022",
+      "relaxed_upper_bound": 151,
+      "planned_score": 118,
+      "gap_to_bound": 33,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-023",
+      "relaxed_upper_bound": 155,
+      "planned_score": 139,
+      "gap_to_bound": 16,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-024",
+      "relaxed_upper_bound": 153,
+      "planned_score": 133,
+      "gap_to_bound": 20,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-025",
+      "relaxed_upper_bound": 159,
+      "planned_score": 131,
+      "gap_to_bound": 28,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-026",
+      "relaxed_upper_bound": 154,
+      "planned_score": 139,
+      "gap_to_bound": 15,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-027",
+      "relaxed_upper_bound": 158,
+      "planned_score": 133,
+      "gap_to_bound": 25,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-028",
+      "relaxed_upper_bound": 160,
+      "planned_score": 145,
+      "gap_to_bound": 15,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-029",
+      "relaxed_upper_bound": 147,
+      "planned_score": 125,
+      "gap_to_bound": 22,
+      "not_ruled_out_150": false
+    },
+    {
+      "round": "round-030",
+      "relaxed_upper_bound": 160,
+      "planned_score": 149,
+      "gap_to_bound": 11,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-031",
+      "relaxed_upper_bound": 140,
+      "planned_score": 121,
+      "gap_to_bound": 19,
+      "not_ruled_out_150": false
+    },
+    {
+      "round": "round-032",
+      "relaxed_upper_bound": 147,
+      "planned_score": 123,
+      "gap_to_bound": 24,
+      "not_ruled_out_150": false
+    },
+    {
+      "round": "round-033",
+      "relaxed_upper_bound": 160,
+      "planned_score": 148,
+      "gap_to_bound": 12,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-034",
+      "relaxed_upper_bound": 148,
+      "planned_score": 127,
+      "gap_to_bound": 21,
+      "not_ruled_out_150": false
+    },
+    {
+      "round": "round-035",
+      "relaxed_upper_bound": 154,
+      "planned_score": 145,
+      "gap_to_bound": 9,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-036",
+      "relaxed_upper_bound": 150,
+      "planned_score": 116,
+      "gap_to_bound": 34,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-037",
+      "relaxed_upper_bound": 155,
+      "planned_score": 122,
+      "gap_to_bound": 33,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-038",
+      "relaxed_upper_bound": 158,
+      "planned_score": 138,
+      "gap_to_bound": 20,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-039",
+      "relaxed_upper_bound": 150,
+      "planned_score": 123,
+      "gap_to_bound": 27,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-040",
+      "relaxed_upper_bound": 150,
+      "planned_score": 115,
+      "gap_to_bound": 35,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-041",
+      "relaxed_upper_bound": 153,
+      "planned_score": 138,
+      "gap_to_bound": 15,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-042",
+      "relaxed_upper_bound": 149,
+      "planned_score": 121,
+      "gap_to_bound": 28,
+      "not_ruled_out_150": false
+    },
+    {
+      "round": "round-043",
+      "relaxed_upper_bound": 160,
+      "planned_score": 145,
+      "gap_to_bound": 15,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-044",
+      "relaxed_upper_bound": 157,
+      "planned_score": 130,
+      "gap_to_bound": 27,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-045",
+      "relaxed_upper_bound": 159,
+      "planned_score": 136,
+      "gap_to_bound": 23,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-046",
+      "relaxed_upper_bound": 152,
+      "planned_score": 131,
+      "gap_to_bound": 21,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-047",
+      "relaxed_upper_bound": 160,
+      "planned_score": 147,
+      "gap_to_bound": 13,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-048",
+      "relaxed_upper_bound": 155,
+      "planned_score": 138,
+      "gap_to_bound": 17,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-049",
+      "relaxed_upper_bound": 148,
+      "planned_score": 118,
+      "gap_to_bound": 30,
+      "not_ruled_out_150": false
+    },
+    {
+      "round": "round-050",
+      "relaxed_upper_bound": 146,
+      "planned_score": 113,
+      "gap_to_bound": 33,
+      "not_ruled_out_150": false
+    },
+    {
+      "round": "round-051",
+      "relaxed_upper_bound": 147,
+      "planned_score": 120,
+      "gap_to_bound": 27,
+      "not_ruled_out_150": false
+    },
+    {
+      "round": "round-052",
+      "relaxed_upper_bound": 151,
+      "planned_score": 127,
+      "gap_to_bound": 24,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-053",
+      "relaxed_upper_bound": 157,
+      "planned_score": 135,
+      "gap_to_bound": 22,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-054",
+      "relaxed_upper_bound": 159,
+      "planned_score": 146,
+      "gap_to_bound": 13,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-055",
+      "relaxed_upper_bound": 147,
+      "planned_score": 124,
+      "gap_to_bound": 23,
+      "not_ruled_out_150": false
+    },
+    {
+      "round": "round-056",
+      "relaxed_upper_bound": 160,
+      "planned_score": 149,
+      "gap_to_bound": 11,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-057",
+      "relaxed_upper_bound": 146,
+      "planned_score": 135,
+      "gap_to_bound": 11,
+      "not_ruled_out_150": false
+    },
+    {
+      "round": "round-058",
+      "relaxed_upper_bound": 156,
+      "planned_score": 139,
+      "gap_to_bound": 17,
+      "not_ruled_out_150": true
+    },
+    {
+      "round": "round-059",
+      "relaxed_upper_bound": 160,
+      "planned_score": 156,
+      "gap_to_bound": 4,
+      "not_ruled_out_150": true
+    }
+  ]
+}

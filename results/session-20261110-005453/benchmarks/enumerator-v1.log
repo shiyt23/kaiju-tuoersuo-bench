@@ -1,0 +1,20 @@
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/open3.rb:213:in `spawn': No such file or directory - <HOME>/code-reading/Solver (Errno::ENOENT)
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/open3.rb:213:in `popen_run'
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/open3.rb:101:in `popen3'
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/open3.rb:281:in `capture3'
+	from results/session-20261110-005453/benchmarks/enumerator-v1/compare.rb:14:in `block (3 levels) in <main>'
+	from results/session-20261110-005453/benchmarks/enumerator-v1/compare.rb:13:in `each'
+	from results/session-20261110-005453/benchmarks/enumerator-v1/compare.rb:13:in `block (2 levels) in <main>'
+	from results/session-20261110-005453/benchmarks/enumerator-v1/compare.rb:11:in `each'
+	from results/session-20261110-005453/benchmarks/enumerator-v1/compare.rb:11:in `block in <main>'
+	from results/session-20261110-005453/benchmarks/enumerator-v1/compare.rb:9:in `each'
+	from results/session-20261110-005453/benchmarks/enumerator-v1/compare.rb:9:in `each_with_index'
+	from results/session-20261110-005453/benchmarks/enumerator-v1/compare.rb:9:in `<main>'
+{"board":"015","strategy":"repair","trials":100000,"identical_path":true,"original_seconds":5.56478,"optimized_seconds":5.40949,"speedup":1.028706957587499,"score":143}
+{"board":"015","strategy":"fastrepair","trials":100000,"identical_path":true,"original_seconds":5.03616,"optimized_seconds":4.90035,"speedup":1.0277143469344026,"score":143}
+{"board":"017","strategy":"repair","trials":100000,"identical_path":true,"original_seconds":5.81631,"optimized_seconds":5.48959,"speedup":1.059516284458402,"score":145}
+{"board":"017","strategy":"fastrepair","trials":100000,"identical_path":true,"original_seconds":5.21454,"optimized_seconds":4.91155,"speedup":1.0616892834237666,"score":145}
+{"board":"018","strategy":"repair","trials":100000,"identical_path":true,"original_seconds":4.07675,"optimized_seconds":3.95439,"speedup":1.0309428255685453,"score":122}
+{"board":"018","strategy":"fastrepair","trials":100000,"identical_path":true,"original_seconds":3.66202,"optimized_seconds":3.60083,"speedup":1.0169933043215036,"score":122}
+{"board":"024","strategy":"repair","trials":100000,"identical_path":true,"original_seconds":5.10756,"optimized_seconds":5.13196,"speedup":0.9952454812586224,"score":132}
+{"board":"024","strategy":"fastrepair","trials":100000,"identical_path":true,"original_seconds":4.57489,"optimized_seconds":4.69821,"speedup":0.9737517054367514,"score":132}

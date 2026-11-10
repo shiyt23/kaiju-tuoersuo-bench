@@ -1,0 +1,59 @@
+{
+  "checked_at": "2026-11-09T23:56:31Z",
+  "rounds_seen": 183,
+  "settled_rounds_checked": 183,
+  "required_files_per_settled_round": [
+    "execution.log",
+    "settlement.png",
+    "settlement.ocr.json",
+    "result.json"
+  ],
+  "fully_verified_rounds_checked": 179,
+  "required_files_per_verified_round": [
+    "initial-board.txt",
+    "initial.png",
+    "plan.json",
+    "checkpoint.json",
+    "execution.log",
+    "settlement.png",
+    "result.json"
+  ],
+  "unverified_settlements": [
+    {
+      "round": "round-001",
+      "score": 0,
+      "errors": [
+        "Error: Initial grid was not completely recognized (0/160). Start on a full board and check grid bounds."
+      ]
+    },
+    {
+      "round": "round-002",
+      "score": 0,
+      "errors": [
+        "Error: Observed board differs from expected board; stopping rather than clicking with stale data.",
+        "Error: Game is no longer foreground or its window moved; stopping mouse input."
+      ]
+    },
+    {
+      "round": "round-077",
+      "score": 0,
+      "errors": [
+        "Error: No complete initial board appeared within four seconds; saved screenshot for review."
+      ]
+    },
+    {
+      "round": "round-078",
+      "score": 0,
+      "errors": [
+        "Error: No complete initial board appeared within four seconds; saved screenshot for review."
+      ]
+    }
+  ],
+  "empty_round_directories": [
+
+  ],
+  "issues": [
+
+  ],
+  "passed": true
+}

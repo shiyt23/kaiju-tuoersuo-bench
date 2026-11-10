@@ -1,0 +1,57 @@
+{
+  "random_price_vectors_checked": 10000,
+  "fixed_trial_boards": 6,
+  "all_passed": true,
+  "reference_sha256": "8cce8b7c79fd2acd8e49e969bad9592290b8c6323dfe459f86af2c48a1e48ecc",
+  "candidate_sha256": "8dd3170fe86fb9751af858e46536b70a8515e3520e672c3a9f986e8c5d34decd",
+  "rows": [
+    {
+      "round": 59,
+      "score": 151,
+      "trials": 10000,
+      "identical_path": true,
+      "reference_seconds": 0.74585,
+      "candidate_seconds": 0.738991
+    },
+    {
+      "round": 33,
+      "score": 146,
+      "trials": 10000,
+      "identical_path": true,
+      "reference_seconds": 0.770956,
+      "candidate_seconds": 0.777146
+    },
+    {
+      "round": 36,
+      "score": 114,
+      "trials": 10000,
+      "identical_path": true,
+      "reference_seconds": 0.492112,
+      "candidate_seconds": 0.472884
+    },
+    {
+      "round": 41,
+      "score": 136,
+      "trials": 10000,
+      "identical_path": true,
+      "reference_seconds": 0.658036,
+      "candidate_seconds": 0.660936
+    },
+    {
+      "round": 47,
+      "score": 145,
+      "trials": 10000,
+      "identical_path": true,
+      "reference_seconds": 0.747547,
+      "candidate_seconds": 0.730972
+    },
+    {
+      "round": 51,
+      "score": 112,
+      "trials": 10000,
+      "identical_path": true,
+      "reference_seconds": 0.482444,
+      "candidate_seconds": 0.475358
+    }
+  ]
+}

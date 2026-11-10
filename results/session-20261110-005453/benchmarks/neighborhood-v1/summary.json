@@ -1,0 +1,11 @@
+{
+  "boards": 8,
+  "budget_seconds": 32,
+  "all_independently_validated": true,
+  "repair_mean": 138.5,
+  "neighborhood_mean": 138.875,
+  "wins": 3,
+  "ties": 3,
+  "losses": 2,
+  "decision": "暂不替换repair；均分优势有限且存在退步，补充新棋盘验证。"
+}

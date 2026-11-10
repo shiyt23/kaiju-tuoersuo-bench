@@ -1,0 +1,26 @@
+{
+  "recorded_at": "2026-11-10T05:55:11Z",
+  "files": {
+    "Solver.cpp": "b601d4409ebe2d339c304b33d68c341c770d42ac8be4c50b55e66b2cda694ebf",
+    "BeamSearch.hpp": "5f2c0e54ab3a513f91609b5f1c5a65d7a4da265e860997d348c47df22e47cbfa",
+    "Planner.swift": "20b01a47c11e2dfe59fe1dadd8d1b2489a7d5b97ff8465689482a48597baf9be",
+    "GameRun.swift": "199352f24478d261d48fe96f9a1a6e5c2d5b22f5ef0b78f07f76e57ddcef925d",
+    "GameAssistant.swift": "a7b1671608ee9baeadf30aa7d24ceedec09fab2917e92f19934c62f557cbc4ab",
+    "Session.swift": "7d8b74faacef52876faf6450a3197fa58ed059a2335c266961234b5d47278428",
+    "BoardVerification.swift": "10e6574c5fd31f313ed9ac2d3ec2a64af5c31cdbbd95b1f480693716f85e5a03",
+    "report.rb": "1a5a53b016d6b54d29d2b917e4ed099f0b501c41915cfedf47575e7f81f7f492",
+    "audit.rb": "5ee134d31e81c4baacc9a2197283ad378ca30b763e65fcb8799d3af3f32bacf4",
+    "build.sh": "d861f6b32361ff32467e43dc57372f19d448b0ba799038f2e13d7ac67d69d4f5",
+    "README.md": "8f63a461caff61f71381d1cb98fce1c5a37f651c6f6148717d830250e89bf244",
+    "Solver": "0775ba1ef6281ea5a0f17da706f09cf80f55ea26049ed0bfa4cad9b720b05050",
+    "GameAssistant": "84f976c39b4a62c035a1c07c3bcbd56e6609fa59399b18dbcee23b80b4c6b69f"
+  },
+  "configuration": {
+    "strategy": "portfolio8",
+    "search_seconds": 60,
+    "target": 160,
+    "full_clear_focus": true,
+    "skip_impossible_full_clear": true,
+    "full_clear_only": true
+  }
+}

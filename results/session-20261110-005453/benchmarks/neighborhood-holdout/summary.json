@@ -1,0 +1,11 @@
+{
+  "boards": 5,
+  "budget_seconds": 32,
+  "all_independently_validated": true,
+  "repair_mean": 134,
+  "neighborhood_mean": 132,
+  "wins": 1,
+  "ties": 0,
+  "losses": 4,
+  "decision": "继续使用repair；neighborhood未展示稳定优势。"
+}

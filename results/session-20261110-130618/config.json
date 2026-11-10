@@ -1,0 +1,8 @@
+{
+  "strategy": "portfolio8",
+  "search_seconds": 60,
+  "target": 160,
+  "full_clear_focus": true,
+  "skip_impossible_full_clear": true,
+  "full_clear_only": true
+}

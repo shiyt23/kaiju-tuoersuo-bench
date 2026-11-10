@@ -1,0 +1,12 @@
+{
+  "boards": 6,
+  "budget_seconds": 32,
+  "fastrepair_mean": 145.16666666666666,
+  "portfolio_mean": 147,
+  "wins": 5,
+  "ties": 1,
+  "losses": 0,
+  "max_portfolio_seconds": 31.9553,
+  "mean_trial_ratio": 3.871753757058922,
+  "decision": "启用4路并行组合：2路fastrepair与2路tailrepair，共享32秒预算，选择经过独立验证的最高分完整路径。"
+}

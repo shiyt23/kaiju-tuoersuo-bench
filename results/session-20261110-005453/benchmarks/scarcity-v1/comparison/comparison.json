@@ -1,0 +1,74 @@
+{
+  "baseline": "portfolio",
+  "candidate": "scarcityportfolio",
+  "paired_boards": 6,
+  "baseline_mean": 135.33333333333334,
+  "candidate_mean": 136.66666666666666,
+  "improved": 2,
+  "tied": 3,
+  "regressed": 1,
+  "max_candidate_seconds": 31.9508,
+  "mean_trials_ratio": 0.9548971229976511,
+  "pairs": [
+    {
+      "board": "results/session-20261110-005453/round-033/initial-board.txt",
+      "seed": 1601,
+      "baseline": 150,
+      "candidate": 150,
+      "delta": 0,
+      "baseline_seconds": 31.9511,
+      "candidate_seconds": 31.9508,
+      "trials_ratio": 0.9436773008044227
+    },
+    {
+      "board": "results/session-20261110-005453/round-036/initial-board.txt",
+      "seed": 1602,
+      "baseline": 116,
+      "candidate": 116,
+      "delta": 0,
+      "baseline_seconds": 31.9501,
+      "candidate_seconds": 31.9501,
+      "trials_ratio": 0.9594869868032552
+    },
+    {
+      "board": "results/session-20261110-005453/round-039/initial-board.txt",
+      "seed": 1603,
+      "baseline": 125,
+      "candidate": 125,
+      "delta": 0,
+      "baseline_seconds": 31.9501,
+      "candidate_seconds": 31.9501,
+      "trials_ratio": 0.9770329729260407
+    },
+    {
+      "board": "results/session-20261110-005453/round-041/initial-board.txt",
+      "seed": 1604,
+      "baseline": 138,
+      "candidate": 137,
+      "delta": -1,
+      "baseline_seconds": 31.9501,
+      "candidate_seconds": 31.9501,
+      "trials_ratio": 0.9544756720174402
+    },
+    {
+      "board": "results/session-20261110-005453/round-043/initial-board.txt",
+      "seed": 1605,
+      "baseline": 138,
+      "candidate": 144,
+      "delta": 6,
+      "baseline_seconds": 31.9501,
+      "candidate_seconds": 31.9501,
+      "trials_ratio": 0.9534221594985987
+    },
+    {
+      "board": "results/session-20261110-005453/round-047/initial-board.txt",
+      "seed": 1606,
+      "baseline": 145,
+      "candidate": 148,
+      "delta": 3,
+      "baseline_seconds": 31.9511,
+      "candidate_seconds": 31.9504,
+      "trials_ratio": 0.9412876459361491
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "BoardVerification.swift_sha256" : "10e6574c5fd31f313ed9ac2d3ec2a64af5c31cdbbd95b1f480693716f85e5a03",
+  "full_clear_focus" : true,
+  "GameAssistant_sha256" : "dc43f88a87712bce614333618f65b296ef6e012effe4fb59757cda48b2c60605",
+  "GameRun.swift_sha256" : "c255dd1f4b16617363e48e5d9c9370385576d60c0960aec2246c61164d3c29a0",
+  "Planner.swift_sha256" : "da36693017acc1498346e4dc42943c4cf9863640c54981719a2e07c652fdc3f8",
+  "search_seconds" : 60,
+  "seed" : 113,
+  "Session.swift_sha256" : "a3b2ea45f4dedde93d63fbb3c05c6d7950c90504f0ecfb9dfba0004f1ace158a",
+  "skip_impossible_full_clear" : true,
+  "Solver_sha256" : "598eb33f7773403b9e43b24656a31cbe01448203e6c5bc28634cc10e9416dc0f",
+  "Solver.cpp_sha256" : "856224dd756a662aeb1e1c2a7344060cdb29d53b68f9aecbc57501c5a6d5ee36",
+  "started_at" : "2026-11-10T05:27:02Z",
+  "strategy" : "perfect8",
+  "target" : 160
+}

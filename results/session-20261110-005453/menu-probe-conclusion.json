@@ -1,0 +1,15 @@
+{
+  "recorded_at": "2026-11-09T20:03:33Z",
+  "early_finish_enabled": false,
+  "abandonment_confirmed": false,
+  "inconclusive_probe_rounds": [
+    "round-075",
+    "round-076"
+  ],
+  "affected_rounds": [
+    "round-077",
+    "round-078"
+  ],
+  "cause": "放弃挑战确认框在自然到时后保留，遮挡后续棋盘，初始识别保护停止了操作。未确认放弃。",
+  "fix": "清除残留确认框；开局前识别并点击再试试，排除结算页背后的按钮。真实截图回归通过。"
+}

@@ -1,0 +1,1 @@
+{"score":6,"winningSeed":"1301","winningWorker":0,"seconds":0.000422834,"seed":1301,"moves":[{"top":0,"bottom":0,"left":0,"count":2,"right":1},{"top":1,"bottom":1,"left":1,"count":2,"right":2},{"top":0,"bottom":1,"left":0,"count":2,"right":2}],"workerScores":[6,6,6,6],"workers":4,"strategy":"portfolio","trials":4}

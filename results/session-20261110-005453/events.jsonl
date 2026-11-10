@@ -1,0 +1,833 @@
+{"event":"session_started","round":"round-001","search_budget_seconds":32,"time":"2026-11-09T16:58:51Z","until_epoch":1794257693}
+{"event":"settled","round":"round-001","score_confirmed":true,"settled_at":"2026-11-09T16:58:51Z","settlement_score":0,"settlement_text":"Ji 开.•• - ◎ 128 本轮智力等级 新生儿 智力总分数为0 再次挑战 让好友也挑战一 1 最强大脑 23h2m 返回主界面","time":"2026-11-09T16:58:51Z"}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-002","time":"2026-11-09T16:58:51Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":1,"round":"round-002","time":"2026-11-09T16:58:54Z"}
+{"event":"session_started","round":"round-002","search_budget_seconds":32,"time":"2026-11-09T17:01:55Z","until_epoch":1794268493}
+{"event":"settled","plan_completed":false,"round":"round-002","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:01:55Z","settlement_score":0,"settlement_text":"Ji 开.•• - ◎ 128 本轮智力等级 新生儿 智力总分数为0 再次挑战 让好友也挑战一 1 最强大脑 $22h59m 返回主界面","time":"2026-11-09T17:01:55Z","verified_moves":0,"verified_score":0}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-003","time":"2026-11-09T17:01:55Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-003","time":"2026-11-09T17:03:45Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-003","time":"2026-11-09T17:04:01Z"}
+{"event":"settled","plan_completed":true,"round":"round-003","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:04:04Z","settlement_score":124,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 1=2 智力总分数为124 再次挑战 让好友也挑战一 1 最强大脑 22h55m 返回主界面","time":"2026-11-09T17:04:04Z","verified_moves":56,"verified_score":124}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-004","time":"2026-11-09T17:04:04Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-004","time":"2026-11-09T17:05:51Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-004","time":"2026-11-09T17:06:11Z"}
+{"event":"settled","plan_completed":true,"round":"round-004","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:06:14Z","settlement_score":135,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为135 再次挑战 让好友也挑战一 1 最强大脑 22h53m 返回主界面","time":"2026-11-09T17:06:14Z","verified_moves":64,"verified_score":135}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-005","time":"2026-11-09T17:06:14Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-005","time":"2026-11-09T17:08:03Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-005","time":"2026-11-09T17:08:22Z"}
+{"event":"settled","plan_completed":true,"round":"round-005","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:08:25Z","settlement_score":139,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为139 再次挑战 让好友也挑战一 1 最强大脑 S22h51m 返回主界面","time":"2026-11-09T17:08:25Z","verified_moves":64,"verified_score":139}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-006","time":"2026-11-09T17:08:25Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-006","time":"2026-11-09T17:10:05Z"}
+{"event":"stop_file_detected","round":"round-006","time":"2026-11-09T17:10:18Z"}
+{"event":"session_started","round":"round-006","search_budget_seconds":32,"time":"2026-11-09T17:10:32Z","until_epoch":1794268493}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-006","time":"2026-11-09T17:10:32Z"}
+{"event":"settled","plan_completed":true,"round":"round-006","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:10:35Z","settlement_score":125,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为125 再次挑战 让好友也挑战一 1 最强大脑 22h49m 返回主界面","time":"2026-11-09T17:10:35Z","verified_moves":55,"verified_score":125}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-007","time":"2026-11-09T17:10:35Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-007","time":"2026-11-09T17:12:17Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-007","time":"2026-11-09T17:12:43Z"}
+{"event":"settled","plan_completed":true,"round":"round-007","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:12:46Z","settlement_score":124,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为124 再次挑战 让好友也挑战一 1 最强大脑 22h47m 返回主界面","time":"2026-11-09T17:12:46Z","verified_moves":58,"verified_score":124}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-008","time":"2026-11-09T17:12:46Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-008","time":"2026-11-09T17:14:43Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-008","time":"2026-11-09T17:14:52Z"}
+{"event":"settled","plan_completed":true,"round":"round-008","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:14:55Z","settlement_score":138,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为138 再次挑战 让好友也挑战一 1 最强大脑 22h45m 返回主界面","time":"2026-11-09T17:14:55Z","verified_moves":64,"verified_score":138}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-009","time":"2026-11-09T17:14:55Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-009","time":"2026-11-09T17:16:44Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-009","time":"2026-11-09T17:17:02Z"}
+{"event":"settled","plan_completed":true,"round":"round-009","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:17:05Z","settlement_score":141,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为141 再次挑战 让好友也挑战一 1 最强大脑 22h42m 返回主界面","time":"2026-11-09T17:17:05Z","verified_moves":66,"verified_score":141}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-010","time":"2026-11-09T17:17:05Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-010","time":"2026-11-09T17:18:56Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-010","time":"2026-11-09T17:19:11Z"}
+{"event":"settled","plan_completed":true,"round":"round-010","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:19:14Z","settlement_score":144,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为144 再次挑战 让好友也挑战一 1 最强大脑 22h40m 返回主界面","time":"2026-11-09T17:19:14Z","verified_moves":68,"verified_score":144}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-011","time":"2026-11-09T17:19:14Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-011","time":"2026-11-09T17:20:58Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-011","time":"2026-11-09T17:21:20Z"}
+{"event":"settled","plan_completed":true,"round":"round-011","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:21:23Z","settlement_score":134,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为134 再次挑战 让好友也挑战一 1 最强大脑 22h38m 返回主界面","time":"2026-11-09T17:21:23Z","verified_moves":61,"verified_score":134}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-012","time":"2026-11-09T17:21:23Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-012","time":"2026-11-09T17:23:01Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-012","time":"2026-11-09T17:23:29Z"}
+{"event":"settled","plan_completed":true,"round":"round-012","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:23:32Z","settlement_score":121,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为121 再次挑战 让好友也挑战一 1 最强大脑 $22h36m 返回主界面","time":"2026-11-09T17:23:32Z","verified_moves":53,"verified_score":121}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-013","time":"2026-11-09T17:23:32Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-013","time":"2026-11-09T17:25:22Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-013","time":"2026-11-09T17:25:38Z"}
+{"event":"settled","plan_completed":true,"round":"round-013","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:25:41Z","settlement_score":120,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为120 再次挑战 让好友也挑战一 1 最强大脑 22h34m 返回主界面","time":"2026-11-09T17:25:41Z","verified_moves":53,"verified_score":120}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-014","time":"2026-11-09T17:25:41Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-014","time":"2026-11-09T17:27:25Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-014","time":"2026-11-09T17:27:47Z"}
+{"event":"settled","plan_completed":true,"round":"round-014","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:27:50Z","settlement_score":133,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为133 再次挑战 让好友也挑战一 1 最强大脑 22h32m 返回主界面","time":"2026-11-09T17:27:50Z","verified_moves":60,"verified_score":133}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-015","time":"2026-11-09T17:27:50Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-015","time":"2026-11-09T17:29:42Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-015","time":"2026-11-09T17:29:56Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-015","time":"2026-11-09T17:29:59Z"}
+{"event":"stop_file_detected","round":"round-015","time":"2026-11-09T17:32:12Z"}
+{"event":"session_started","round":"round-015","search_budget_seconds":32,"time":"2026-11-09T17:32:32Z","until_epoch":1794268493}
+{"event":"click","label":"确定","purpose":"dismiss_tournament_result","round":"round-015","time":"2026-11-09T17:32:32Z","x":0.50142045477627839,"y":0.88490283983557538}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-015","time":"2026-11-09T17:32:36Z"}
+{"event":"click","label":"确定","purpose":"dismiss_certificate","round":"round-015","time":"2026-11-09T17:32:39Z","x":0.47159090978084417,"y":0.86472346810805034}
+{"event":"settled","plan_completed":true,"round":"round-015","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:32:42Z","settlement_score":147,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为147 再次挑战 让好友也挑战一 1 最强大脑 S22h30m 返回主界面","time":"2026-11-09T17:32:42Z","verified_moves":67,"verified_score":147}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-016","time":"2026-11-09T17:32:42Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-016","time":"2026-11-09T17:33:58Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-016","time":"2026-11-09T17:34:50Z"}
+{"event":"settled","plan_completed":true,"round":"round-016","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:34:53Z","settlement_score":139,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为139 再次挑战 让好友也挑战一 1 最强大脑 22h25m 返回主界面","time":"2026-11-09T17:34:53Z","verified_moves":65,"verified_score":139}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-017","time":"2026-11-09T17:34:53Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-017","time":"2026-11-09T17:36:10Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-017","time":"2026-11-09T17:36:59Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-017","time":"2026-11-09T17:37:02Z"}
+{"event":"click","label":"确定","purpose":"dismiss_tournament_result","round":"round-017","time":"2026-11-09T17:37:05Z","x":0.50142045477627839,"y":0.88490283983557538}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-017","time":"2026-11-09T17:37:08Z"}
+{"event":"click","label":"确定","purpose":"dismiss_certificate","round":"round-017","time":"2026-11-09T17:37:11Z","x":0.47159090978084417,"y":0.86472346810805034}
+{"event":"settled","plan_completed":true,"round":"round-017","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:37:14Z","settlement_score":149,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为149 再次挑战 让好友也挑战一 1 最强大脑 22h23m 返回主界面","time":"2026-11-09T17:37:14Z","verified_moves":68,"verified_score":149}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-018","time":"2026-11-09T17:37:14Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-018","time":"2026-11-09T17:38:20Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-018","time":"2026-11-09T17:39:21Z"}
+{"event":"settled","plan_completed":true,"round":"round-018","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:39:24Z","settlement_score":122,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为122 再次挑战 让好友也挑战一 1 最强大脑 22h20m 返回主界面","time":"2026-11-09T17:39:24Z","verified_moves":57,"verified_score":122}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-019","time":"2026-11-09T17:39:24Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-019","time":"2026-11-09T17:40:33Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-019","time":"2026-11-09T17:41:31Z"}
+{"event":"settled","plan_completed":true,"round":"round-019","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:41:34Z","settlement_score":142,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为142 再次挑战 让好友也挑战一 1 最强大脑 S22h18m 返回主界面","time":"2026-11-09T17:41:34Z","verified_moves":65,"verified_score":142}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-020","time":"2026-11-09T17:41:34Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-020","time":"2026-11-09T17:42:40Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-020","time":"2026-11-09T17:43:41Z"}
+{"event":"settled","plan_completed":true,"round":"round-020","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:43:44Z","settlement_score":128,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为128 再次挑战 让好友也挑战一 1 最强大脑 S22h16m 返回主界面","time":"2026-11-09T17:43:44Z","verified_moves":59,"verified_score":128}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-021","time":"2026-11-09T17:43:44Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-021","time":"2026-11-09T17:44:56Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-021","time":"2026-11-09T17:45:52Z"}
+{"event":"settled","plan_completed":true,"round":"round-021","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:45:55Z","settlement_score":149,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为149 再次挑战 让好友也挑战一 1 最强大脑 S22h14m 返回主界面","time":"2026-11-09T17:45:55Z","verified_moves":72,"verified_score":149}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-022","time":"2026-11-09T17:45:55Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-022","time":"2026-11-09T17:47:04Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-022","time":"2026-11-09T17:48:02Z"}
+{"event":"settled","plan_completed":true,"round":"round-022","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:48:05Z","settlement_score":118,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数据分析师 智力总分数为118 再次挑战 让好友也挑战一 1 最强大脑 S22h11m 返回主界面","time":"2026-11-09T17:48:05Z","verified_moves":53,"verified_score":118}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-023","time":"2026-11-09T17:48:05Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-023","time":"2026-11-09T17:49:14Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-023","time":"2026-11-09T17:50:12Z"}
+{"event":"settled","plan_completed":true,"round":"round-023","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:50:15Z","settlement_score":139,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为139 再次挑战 让好友也挑战一 1 最强大脑 22h9m 返回主界面","time":"2026-11-09T17:50:15Z","verified_moves":65,"verified_score":139}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-024","time":"2026-11-09T17:50:15Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-024","time":"2026-11-09T17:51:22Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-024","time":"2026-11-09T17:52:21Z"}
+{"event":"settled","plan_completed":true,"round":"round-024","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:52:24Z","settlement_score":133,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为133 再次挑战 让好友也挑战一 1 最强大脑 22h7m 返回主界面","time":"2026-11-09T17:52:24Z","verified_moves":61,"verified_score":133}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-025","time":"2026-11-09T17:52:24Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-025","time":"2026-11-09T17:53:30Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-025","time":"2026-11-09T17:54:31Z"}
+{"event":"settled","plan_completed":true,"round":"round-025","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:54:33Z","settlement_score":131,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为 131 再次挑战 让好友也挑战一 1 最强大脑 22h5m 返回主界面","time":"2026-11-09T17:54:33Z","verified_moves":59,"verified_score":131}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-026","time":"2026-11-09T17:54:33Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-026","time":"2026-11-09T17:55:43Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-026","time":"2026-11-09T17:56:39Z"}
+{"event":"settled","plan_completed":true,"round":"round-026","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:56:42Z","settlement_score":139,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为139 再次挑战 让好友也挑战一 1 最强大脑 22h3m 返回主界面","time":"2026-11-09T17:56:42Z","verified_moves":66,"verified_score":139}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-027","time":"2026-11-09T17:56:42Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-027","time":"2026-11-09T17:57:58Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-027","time":"2026-11-09T17:58:48Z"}
+{"event":"settled","plan_completed":true,"round":"round-027","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T17:58:51Z","settlement_score":133,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为133 再次挑战 让好友也挑战一 1 最强大脑 22h1m 返回主界面","time":"2026-11-09T17:58:51Z","verified_moves":61,"verified_score":133}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-028","time":"2026-11-09T17:58:51Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-028","time":"2026-11-09T18:00:10Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-028","time":"2026-11-09T18:00:58Z"}
+{"event":"settled","plan_completed":true,"round":"round-028","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:01:01Z","settlement_score":145,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为145 再次挑战 让好友也挑战一 1 最强大脑 21h59m 返回主界面","time":"2026-11-09T18:01:01Z","verified_moves":67,"verified_score":145}
+{"event":"drained_after_settlement","round":"round-028","time":"2026-11-09T18:01:01Z"}
+{"event":"session_started","round":"round-028","search_budget_seconds":32,"time":"2026-11-09T18:02:39Z","until_epoch":1794268493}
+{"event":"settled","plan_completed":true,"round":"round-028","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:02:39Z","settlement_score":145,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为145 再次挑战 让好友也挑战一 1 最强大脑 21h59m 返回主界面","time":"2026-11-09T18:02:39Z","verified_moves":67,"verified_score":145}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-029","time":"2026-11-09T18:02:39Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-029","time":"2026-11-09T18:03:52Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-029","time":"2026-11-09T18:04:45Z"}
+{"event":"settled","plan_completed":true,"round":"round-029","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:04:48Z","settlement_score":125,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为125 再次挑战 让好友也挑战一 1 最强大脑 21h55m 返回主界面","time":"2026-11-09T18:04:48Z","verified_moves":57,"verified_score":125}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-030","time":"2026-11-09T18:04:48Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-030","time":"2026-11-09T18:06:08Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-030","time":"2026-11-09T18:06:56Z"}
+{"event":"settled","plan_completed":true,"round":"round-030","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:06:59Z","settlement_score":149,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为149 再次挑战 让好友也挑战一 1 最强大脑 21h53m 返回主界面","time":"2026-11-09T18:06:59Z","verified_moves":70,"verified_score":149}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-031","time":"2026-11-09T18:06:59Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-031","time":"2026-11-09T18:08:12Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-031","time":"2026-11-09T18:09:07Z"}
+{"event":"settled","plan_completed":true,"round":"round-031","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:09:10Z","settlement_score":121,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为121 再次挑战 让好友也挑战一 1 最强大脑 21h50m 返回主界面","time":"2026-11-09T18:09:10Z","verified_moves":57,"verified_score":121}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-032","time":"2026-11-09T18:09:10Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-032","time":"2026-11-09T18:10:24Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-032","time":"2026-11-09T18:11:18Z"}
+{"event":"settled","plan_completed":true,"round":"round-032","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:11:20Z","settlement_score":123,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为123 再次挑战 让好友也挑战一 1 最强大脑 21h48m 返回主界面","time":"2026-11-09T18:11:20Z","verified_moves":57,"verified_score":123}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-033","time":"2026-11-09T18:11:20Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-033","time":"2026-11-09T18:12:30Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-033","time":"2026-11-09T18:13:26Z"}
+{"event":"settled","plan_completed":true,"round":"round-033","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:13:29Z","settlement_score":148,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为148 再次挑战 让好友也挑战一 1 最强大脑 21h46m 返回主界面","time":"2026-11-09T18:13:29Z","verified_moves":67,"verified_score":148}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-034","time":"2026-11-09T18:13:29Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-034","time":"2026-11-09T18:14:35Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-034","time":"2026-11-09T18:15:36Z"}
+{"event":"settled","plan_completed":true,"round":"round-034","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:15:39Z","settlement_score":127,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为127 再次挑战 让好友也挑战一 1 最强大脑 21h44m 返回主界面","time":"2026-11-09T18:15:39Z","verified_moves":58,"verified_score":127}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-035","time":"2026-11-09T18:15:39Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-035","time":"2026-11-09T18:16:49Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-035","time":"2026-11-09T18:17:46Z"}
+{"event":"settled","plan_completed":true,"round":"round-035","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:17:49Z","settlement_score":145,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为145 再次挑战 让好友也挑战一 1 最强大脑 21h42m 返回主界面","time":"2026-11-09T18:17:49Z","verified_moves":68,"verified_score":145}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-036","time":"2026-11-09T18:17:49Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-036","time":"2026-11-09T18:19:00Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-036","time":"2026-11-09T18:19:55Z"}
+{"event":"settled","plan_completed":true,"round":"round-036","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:19:58Z","settlement_score":116,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数据分析师 智力总分数为116 再次挑战 让好友也挑战一 1 最强大脑 21h40m 返回主界面","time":"2026-11-09T18:19:58Z","verified_moves":53,"verified_score":116}
+{"event":"click","label":"返回主界面","purpose":"check_and_renew_unlimited_challenges","round":"round-036","time":"2026-11-09T18:19:58Z","x":0.51988636196338378,"y":0.84304932715495773}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:04Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:07Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:10Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:13Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:17Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:20Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:23Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:26Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:29Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:32Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:35Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:38Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:41Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:44Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:20:47Z"}
+{"event":"stop_file_detected","round":"round-036","time":"2026-11-09T18:20:50Z"}
+{"event":"session_started","round":"round-036","search_budget_seconds":32,"time":"2026-11-09T18:23:24Z","until_epoch":1794268493}
+{"event":"dismiss_home_achievement","round":"round-036","time":"2026-11-09T18:23:24Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-036","time":"2026-11-09T18:23:27Z"}
+{"event":"click","label":"• 免广告","purpose":"watch_ad_for_two_hour_unlimited_challenges","round":"round-036","time":"2026-11-09T18:23:30Z","x":0.48011363472016311,"y":0.61136023923380711}
+{"event":"ad_started","progress_text":"玩一玩 最强大脑 21小时36分 排行榜 开. •• 无限挑战次数 院士 无限脑力 无限 观看3次视频，获取2小时 无限挑战机会。 • 免广告 0\/3 不，谢谢 闯关模式 开始游戏 录取分数一130分 当前 128 安眠小游戏 我在哪 新 仅 藏","round":"round-036","time":"2026-11-09T18:23:30Z"}
+{"event":"click","label":"关闭","purpose":"close_completed_ad_and_claim_reward","round":"round-036","time":"2026-11-09T18:24:06Z","x":0.89346590973011364,"y":0.11509715986547087}
+{"event":"ad_closed_after_reward","round":"round-036","time":"2026-11-09T18:24:07Z","watched_seconds":36.535436034202576}
+{"event":"click","label":"• 免广告","purpose":"watch_ad_for_two_hour_unlimited_challenges","round":"round-036","time":"2026-11-09T18:24:09Z","x":0.48011363472405788,"y":0.61136023925546867}
+{"event":"ad_started","progress_text":"玩一玩 最强大脑 21小时35分 排行榜 开. •• 无限挑战次数 院士 无限脑力 无限 观看3次视频，获取2小时 无限挑战机会。 • 免广告 1\/3 不，谢谢 闯关模式 开始游戏 录取分数一130分 当前 128 安眠小游戏 我在哪 新 仅 藏","round":"round-036","time":"2026-11-09T18:24:10Z"}
+{"event":"click","label":"关闭","purpose":"close_completed_ad_and_claim_reward","round":"round-036","time":"2026-11-09T18:24:46Z","x":0.89346590973011364,"y":0.11509715986547087}
+{"event":"ad_closed_after_reward","round":"round-036","time":"2026-11-09T18:24:46Z","watched_seconds":36.714370012283325}
+{"event":"click","label":"• 免广告","purpose":"watch_ad_for_two_hour_unlimited_challenges","round":"round-036","time":"2026-11-09T18:24:49Z","x":0.48011363472015678,"y":0.6113602392337667}
+{"event":"ad_started","progress_text":"玩一玩 最强大脑 21小时35分 排行榜 开. ••• 无限挑战次数 院士 无限脑力 无限 观看3次视频，获取2小时 无限挑战机会。 • 免广告 2\/3 不，谢谢 闯关模式 开始游戏 录取分数一130分 当前 128 安眠小游戏 我在哪 新 仅 藏","round":"round-036","time":"2026-11-09T18:24:49Z"}
+{"event":"click","label":"关闭","purpose":"close_completed_ad_and_claim_reward","round":"round-036","time":"2026-11-09T18:25:26Z","x":0.89346590973011364,"y":0.11509715986547087}
+{"event":"ad_closed_after_reward","round":"round-036","time":"2026-11-09T18:25:26Z","watched_seconds":36.565362930297852}
+{"event":"unlimited_renewed","evidence":"\/Users\/shiyuntian\/code-reading\/wechat-game-assistant\/runs\/session-20261110-005453\/ads\/renew-1794248607","remaining_seconds":7197,"round":"round-036","time":"2026-11-09T18:25:29Z"}
+{"event":"click","label":"开始游戏","purpose":"start_next_round","round":"round-037","time":"2026-11-09T18:25:29Z","x":0.49857954472327443,"y":0.91330343805015779}
+{"event":"play_exited","exit_code":0,"round":"round-037","time":"2026-11-09T18:26:33Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-037","time":"2026-11-09T18:27:34Z"}
+{"event":"settled","plan_completed":true,"round":"round-037","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:27:37Z","settlement_score":122,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为122 再次挑战 让好友也挑战一 1 最强大脑 21h32m 返回主界面","time":"2026-11-09T18:27:37Z","verified_moves":55,"verified_score":122}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-038","time":"2026-11-09T18:27:37Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-038","time":"2026-11-09T18:28:52Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-038","time":"2026-11-09T18:29:45Z"}
+{"event":"settled","plan_completed":true,"round":"round-038","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:29:48Z","settlement_score":138,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为138 再次挑战 让好友也挑战一 1 最强大脑 S21h30m 返回主界面","time":"2026-11-09T18:29:48Z","verified_moves":64,"verified_score":138}
+{"event":"drained_after_settlement","round":"round-038","time":"2026-11-09T18:29:48Z"}
+{"event":"session_started","round":"round-038","search_budget_seconds":32,"time":"2026-11-09T18:30:43Z","until_epoch":1794268493}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-039","time":"2026-11-09T18:30:44Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-039","time":"2026-11-09T18:31:56Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-039","time":"2026-11-09T18:32:51Z"}
+{"event":"settled","plan_completed":true,"round":"round-039","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:32:55Z","settlement_score":123,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为123 再次挑战 让好友也挑战一 1 最强大脑 21h27m 返回主界面","time":"2026-11-09T18:32:55Z","verified_moves":56,"verified_score":123}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-040","time":"2026-11-09T18:32:55Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-040","time":"2026-11-09T18:34:05Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-040","time":"2026-11-09T18:35:02Z"}
+{"event":"settled","plan_completed":true,"round":"round-040","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:35:06Z","settlement_score":115,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数据分析师 智力总分数为115 再次挑战 让好友也挑战一 1 最强大脑 21h24m 返回主界面","time":"2026-11-09T18:35:06Z","verified_moves":51,"verified_score":115}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-041","time":"2026-11-09T18:35:06Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-041","time":"2026-11-09T18:36:23Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-041","time":"2026-11-09T18:37:13Z"}
+{"event":"settled","plan_completed":true,"round":"round-041","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:37:16Z","settlement_score":138,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为138 再次挑战 让好友也挑战一 1 最强大脑 21h22m 返回主界面","time":"2026-11-09T18:37:16Z","verified_moves":65,"verified_score":138}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-042","time":"2026-11-09T18:37:16Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-042","time":"2026-11-09T18:38:29Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-042","time":"2026-11-09T18:39:22Z"}
+{"event":"settled","plan_completed":true,"round":"round-042","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:39:25Z","settlement_score":121,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为121 再次挑战 让好友也挑战一 1 最强大脑 21h20m 返回主界面","time":"2026-11-09T18:39:25Z","verified_moves":56,"verified_score":121}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-043","time":"2026-11-09T18:39:25Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-043","time":"2026-11-09T18:40:44Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-043","time":"2026-11-09T18:41:32Z"}
+{"event":"settled","plan_completed":true,"round":"round-043","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:41:35Z","settlement_score":145,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为145 再次挑战 让好友也挑战一 1 最强大脑 S21h18m 返回主界面","time":"2026-11-09T18:41:35Z","verified_moves":67,"verified_score":145}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-044","time":"2026-11-09T18:41:35Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-044","time":"2026-11-09T18:42:50Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-044","time":"2026-11-09T18:43:42Z"}
+{"event":"settled","plan_completed":true,"round":"round-044","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:43:46Z","settlement_score":130,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为130 再次挑战 让好友也挑战一 1 最强大脑 S21h16m 返回主界面","time":"2026-11-09T18:43:46Z","verified_moves":59,"verified_score":130}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-045","time":"2026-11-09T18:43:46Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-045","time":"2026-11-09T18:45:02Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-045","time":"2026-11-09T18:45:52Z"}
+{"event":"settled","plan_completed":true,"round":"round-045","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:45:55Z","settlement_score":136,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为136 再次挑战 让好友也挑战一 1 \/最强大脑 521h14m 返回主界面","time":"2026-11-09T18:45:55Z","verified_moves":63,"verified_score":136}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-046","time":"2026-11-09T18:45:55Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-046","time":"2026-11-09T18:47:10Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-046","time":"2026-11-09T18:48:01Z"}
+{"event":"settled","plan_completed":true,"round":"round-046","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:48:04Z","settlement_score":131,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为 131 再次挑战 让好友也挑战一 1 最强大脑 S21h11m 返回主界面","time":"2026-11-09T18:48:04Z","verified_moves":61,"verified_score":131}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-047","time":"2026-11-09T18:48:04Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-047","time":"2026-11-09T18:49:23Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-047","time":"2026-11-09T18:50:11Z"}
+{"event":"settled","plan_completed":true,"round":"round-047","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:50:14Z","settlement_score":147,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为147 再次挑战 让好友也挑战一 1 \/最强大脑 21h9m 返回主界面","time":"2026-11-09T18:50:14Z","verified_moves":67,"verified_score":147}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-048","time":"2026-11-09T18:50:14Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-048","time":"2026-11-09T18:51:31Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-048","time":"2026-11-09T18:52:21Z"}
+{"event":"settled","plan_completed":true,"round":"round-048","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:52:24Z","settlement_score":138,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为138 再次挑战 让好友也挑战一 1 最强大脑 21h7m 返回主界面","time":"2026-11-09T18:52:24Z","verified_moves":64,"verified_score":138}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-049","time":"2026-11-09T18:52:24Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-049","time":"2026-11-09T18:53:34Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-049","time":"2026-11-09T18:54:30Z"}
+{"event":"settled","plan_completed":true,"round":"round-049","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:54:33Z","settlement_score":118,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数据分析师 智力总分数为118 再次挑战 让好友也挑战一 1 最强大脑 21h5m 返回主界面","time":"2026-11-09T18:54:33Z","verified_moves":53,"verified_score":118}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-050","time":"2026-11-09T18:54:33Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-050","time":"2026-11-09T18:55:34Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-050","time":"2026-11-09T18:56:39Z"}
+{"event":"settled","plan_completed":true,"round":"round-050","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:56:42Z","settlement_score":113,"settlement_text":"0I 开.•• ◎ 128 本轮智力等级 技术大牛、 智力总分数为113 再次挑战 让好友也挑战一 1 最强大脑 21h3m 返回主界面","time":"2026-11-09T18:56:42Z","verified_moves":49,"verified_score":113}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-051","time":"2026-11-09T18:56:42Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-051","time":"2026-11-09T18:57:46Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-051","time":"2026-11-09T18:58:50Z"}
+{"event":"settled","plan_completed":true,"round":"round-051","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T18:58:52Z","settlement_score":120,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为120 再次挑战 让好友也挑战一 1 最强大脑 21hlm 返回主界面","time":"2026-11-09T18:58:52Z","verified_moves":54,"verified_score":120}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-052","time":"2026-11-09T18:58:52Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-052","time":"2026-11-09T18:59:57Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-052","time":"2026-11-09T19:00:59Z"}
+{"event":"settled","plan_completed":true,"round":"round-052","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:01:02Z","settlement_score":127,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为127 再次挑战 让好友也挑战一 1 最强大脑 520h59m 返回主界面","time":"2026-11-09T19:01:02Z","verified_moves":57,"verified_score":127}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-053","time":"2026-11-09T19:01:02Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-053","time":"2026-11-09T19:02:08Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-053","time":"2026-11-09T19:03:09Z"}
+{"event":"settled","plan_completed":true,"round":"round-053","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:03:12Z","settlement_score":135,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为135 再次挑战 让好友也挑战一 1 最强大脑 520h56m 返回主界面","time":"2026-11-09T19:03:12Z","verified_moves":60,"verified_score":135}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-054","time":"2026-11-09T19:03:12Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-054","time":"2026-11-09T19:04:22Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-054","time":"2026-11-09T19:05:18Z"}
+{"event":"settled","plan_completed":true,"round":"round-054","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:05:21Z","settlement_score":146,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为146 再次挑战 让好友也挑战一 1 最强大脑 S20h54m 返回主界面","time":"2026-11-09T19:05:21Z","verified_moves":69,"verified_score":146}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-055","time":"2026-11-09T19:05:21Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-055","time":"2026-11-09T19:06:27Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-055","time":"2026-11-09T19:07:28Z"}
+{"event":"settled","plan_completed":true,"round":"round-055","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:07:31Z","settlement_score":124,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为124 再次挑战 让好友也挑战一 1 最强大脑 520h52m 返回主界面","time":"2026-11-09T19:07:31Z","verified_moves":58,"verified_score":124}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-056","time":"2026-11-09T19:07:31Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-056","time":"2026-11-09T19:08:42Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-056","time":"2026-11-09T19:09:38Z"}
+{"event":"settled","plan_completed":true,"round":"round-056","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:09:41Z","settlement_score":149,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为149 再次挑战 让好友也挑战一 1 最强大脑 520h50m 返回主界面","time":"2026-11-09T19:09:41Z","verified_moves":70,"verified_score":149}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-057","time":"2026-11-09T19:09:41Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-057","time":"2026-11-09T19:10:50Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-057","time":"2026-11-09T19:11:48Z"}
+{"event":"settled","plan_completed":true,"round":"round-057","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:11:51Z","settlement_score":135,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为135 再次挑战 让好友也挑战一 1 最强大脑 S20h48m 返回主界面","time":"2026-11-09T19:11:51Z","verified_moves":65,"verified_score":135}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-058","time":"2026-11-09T19:11:51Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-058","time":"2026-11-09T19:13:00Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-058","time":"2026-11-09T19:13:57Z"}
+{"event":"settled","plan_completed":true,"round":"round-058","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:14:00Z","settlement_score":139,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为139 再次挑战 让好友也挑战一 1 最强大脑 S20h46m 返回主界面","time":"2026-11-09T19:14:00Z","verified_moves":64,"verified_score":139}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-059","time":"2026-11-09T19:14:00Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-059","time":"2026-11-09T19:15:13Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-059","time":"2026-11-09T19:16:06Z"}
+{"event":"manual_dismiss_new_appearance","round":"round-059","time":"2026-11-09T19:17:16Z","choice":"取消","evidence":"round-059/appearance-prompt.png"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-059","time":"2026-11-09T19:17:18Z"}
+{"event":"click","label":"确定","purpose":"dismiss_tournament_result","round":"round-059","time":"2026-11-09T19:17:21Z","x":0.50142045477627839,"y":0.88490283983557538}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-059","time":"2026-11-09T19:17:24Z"}
+{"event":"click","label":"确定","purpose":"dismiss_certificate","round":"round-059","time":"2026-11-09T19:17:27Z","x":0.47159090978084417,"y":0.86472346810805034}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-059","time":"2026-11-09T19:17:30Z"}
+{"event":"click","label":"知道了","purpose":"dismiss_achievement","round":"round-059","time":"2026-11-09T19:17:33Z","x":0.48579545334595958,"y":0.87817638273542586}
+{"event":"settled","plan_completed":true,"round":"round-059","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:17:36Z","settlement_score":156,"settlement_text":"JU 开. ••• 128 解锁新形象 本轮智力等级 诺奖获得者 智力总分数为156 再次挑战 让好友也挑战一 1 最强大脑 V20h43m 返回主界面","time":"2026-11-09T19:17:36Z","verified_moves":74,"verified_score":156}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-060","time":"2026-11-09T19:17:36Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-060","time":"2026-11-09T19:18:40Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-060","time":"2026-11-09T19:19:43Z"}
+{"event":"settled","plan_completed":true,"round":"round-060","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:19:46Z","settlement_score":119,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数据分析师 智力总分数为119 再次挑战 让好友也挑战一 1 最强大脑 S20h40m 返回主界面","time":"2026-11-09T19:19:46Z","verified_moves":54,"verified_score":119}
+{"event":"drained_after_settlement","round":"round-060","time":"2026-11-09T19:19:46Z"}
+{"event":"session_started","round":"round-060","search_budget_seconds":32,"time":"2026-11-09T19:19:58Z","until_epoch":1794268493}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-061","time":"2026-11-09T19:19:59Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-061","time":"2026-11-09T19:21:05Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-061","time":"2026-11-09T19:22:05Z"}
+{"event":"settled","plan_completed":true,"round":"round-061","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:22:08Z","settlement_score":115,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数据分析师 智力总分数为115 再次挑战 让好友也挑战一 1 最强大脑 520h37m 返回主界面","time":"2026-11-09T19:22:08Z","verified_moves":52,"verified_score":115}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-062","time":"2026-11-09T19:22:08Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-062","time":"2026-11-09T19:23:12Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-062","time":"2026-11-09T19:24:14Z"}
+{"event":"settled","plan_completed":true,"round":"round-062","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:24:17Z","settlement_score":113,"settlement_text":"0I 开.•• ◎ 128 本轮智力等级 技术大牛、 智力总分数为113 再次挑战 让好友也挑战一 1 最强大脑 $20h35m 返回主界面","time":"2026-11-09T19:24:17Z","verified_moves":50,"verified_score":113}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-063","time":"2026-11-09T19:24:17Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-063","time":"2026-11-09T19:25:29Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-063","time":"2026-11-09T19:26:24Z"}
+{"event":"settled","plan_completed":true,"round":"round-063","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:26:27Z","settlement_score":139,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为139 再次挑战 让好友也挑战一 1 最强大脑 V20h33m 返回主界面","time":"2026-11-09T19:26:27Z","verified_moves":65,"verified_score":139}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-064","time":"2026-11-09T19:26:27Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-064","time":"2026-11-09T19:27:38Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-064","time":"2026-11-09T19:28:34Z"}
+{"event":"settled","plan_completed":true,"round":"round-064","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:28:37Z","settlement_score":143,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为143 再次挑战 让好友也挑战一 1 最强大脑 S20h31m 返回主界面","time":"2026-11-09T19:28:37Z","verified_moves":68,"verified_score":143}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-065","time":"2026-11-09T19:28:37Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-065","time":"2026-11-09T19:29:45Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-065","time":"2026-11-09T19:30:44Z"}
+{"event":"settled","plan_completed":true,"round":"round-065","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:30:47Z","settlement_score":137,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为137 再次挑战 让好友也挑战一 1 最强大脑 $20h29m 返回主界面","time":"2026-11-09T19:30:47Z","verified_moves":62,"verified_score":137}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-066","time":"2026-11-09T19:30:47Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-066","time":"2026-11-09T19:31:56Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-066","time":"2026-11-09T19:32:54Z"}
+{"event":"settled","plan_completed":true,"round":"round-066","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:32:57Z","settlement_score":142,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为142 再次挑战 让好友也挑战一 1 最强大脑 S20h27m 返回主界面","time":"2026-11-09T19:32:57Z","verified_moves":67,"verified_score":142}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-067","time":"2026-11-09T19:32:57Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-067","time":"2026-11-09T19:34:04Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-067","time":"2026-11-09T19:35:04Z"}
+{"event":"settled","plan_completed":true,"round":"round-067","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:35:08Z","settlement_score":130,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为130 再次挑战 让好友也挑战一 1 最强大脑 20h24m 返回主界面","time":"2026-11-09T19:35:08Z","verified_moves":58,"verified_score":130}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-068","time":"2026-11-09T19:35:08Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-068","time":"2026-11-09T19:36:22Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-068","time":"2026-11-09T19:37:14Z"}
+{"event":"settled","plan_completed":true,"round":"round-068","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:37:17Z","settlement_score":145,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为145 再次挑战 让好友也挑战一 1 最强大脑 S20h22m 返回主界面","time":"2026-11-09T19:37:17Z","verified_moves":67,"verified_score":145}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-069","time":"2026-11-09T19:37:17Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-069","time":"2026-11-09T19:38:34Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-069","time":"2026-11-09T19:39:25Z"}
+{"event":"settled","plan_completed":true,"round":"round-069","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:39:27Z","settlement_score":147,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为147 再次挑战 让好友也挑战一 1 最强大脑 S20h20m 返回主界面","time":"2026-11-09T19:39:27Z","verified_moves":69,"verified_score":147}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-070","time":"2026-11-09T19:39:27Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-070","time":"2026-11-09T19:40:36Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-070","time":"2026-11-09T19:41:34Z"}
+{"event":"settled","plan_completed":true,"round":"round-070","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:41:37Z","settlement_score":136,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为136 再次挑战 让好友也挑战一 1 最强大脑 S20h18m 返回主界面","time":"2026-11-09T19:41:37Z","verified_moves":61,"verified_score":136}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-071","time":"2026-11-09T19:41:37Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-071","time":"2026-11-09T19:42:53Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-071","time":"2026-11-09T19:43:43Z"}
+{"event":"settled","plan_completed":true,"round":"round-071","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:43:46Z","settlement_score":148,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为148 再次挑战 让好友也挑战一 1 最强大脑 $20h16m 返回主界面","time":"2026-11-09T19:43:46Z","verified_moves":70,"verified_score":148}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-072","time":"2026-11-09T19:43:46Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-072","time":"2026-11-09T19:45:04Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-072","time":"2026-11-09T19:45:53Z"}
+{"event":"settled","plan_completed":true,"round":"round-072","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:45:56Z","settlement_score":144,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为144 再次挑战 让好友也挑战一 1 最强大脑 S20h14m 返回主界面","time":"2026-11-09T19:45:56Z","verified_moves":68,"verified_score":144}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-073","time":"2026-11-09T19:45:56Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-073","time":"2026-11-09T19:47:09Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-073","time":"2026-11-09T19:48:02Z"}
+{"event":"settled","plan_completed":true,"round":"round-073","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:48:05Z","settlement_score":130,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为130 再次挑战 让好友也挑战一 1 最强大脑 S20h11m 返回主界面","time":"2026-11-09T19:48:05Z","verified_moves":59,"verified_score":130}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-074","time":"2026-11-09T19:48:05Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-074","time":"2026-11-09T19:49:26Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-074","time":"2026-11-09T19:50:12Z"}
+{"event":"settled","plan_completed":true,"round":"round-074","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:50:16Z","settlement_score":152,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为152 再次挑战 让好友也挑战一 1 \/最强大脑 20h9m 返回主界面","time":"2026-11-09T19:50:16Z","verified_moves":73,"verified_score":152}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-075","time":"2026-11-09T19:50:16Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-075","time":"2026-11-09T19:51:30Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-075","time":"2026-11-09T19:52:22Z"}
+{"event":"settled","plan_completed":true,"round":"round-075","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:52:25Z","settlement_score":127,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为127 再次挑战 让好友也挑战一 1 最强大脑 207m 返回主界面","time":"2026-11-09T19:52:25Z","verified_moves":58,"verified_score":127}
+{"event":"drained_after_settlement","round":"round-075","time":"2026-11-09T19:52:25Z"}
+{"event":"session_started","round":"round-075","search_budget_seconds":32,"time":"2026-11-09T19:55:04Z","until_epoch":1794268493}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-076","time":"2026-11-09T19:55:05Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-076","time":"2026-11-09T19:56:23Z"}
+{"event":"stop_file_detected","round":"round-076","time":"2026-11-09T19:56:25Z"}
+{"event":"early_finish_probe","time":"2026-11-09T19:56:29Z","round":"round-076","verified_score":140,"elapsed_since_start":84.690208,"resulting_text":"0I 4 9 8 8 7 5 4 开. 当前智商 140 提示 确定要放弃挑战吗？ 放弃挑战 再试试 • 128 8 5 7 4"}
+{"event":"session_started","round":"round-076","search_budget_seconds":32,"time":"2026-11-09T19:58:17Z","until_epoch":1794268493}
+{"event":"settled","plan_completed":true,"round":"round-076","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T19:58:18Z","settlement_score":140,"settlement_text":"UU 开.•• 128 本轮智力等级 提示 理论物理学家 找吗？ 智力总分数为140 再次挑战 1 最强大脑 20h2m 返回主界面","time":"2026-11-09T19:58:18Z","verified_moves":65,"verified_score":140}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-077","time":"2026-11-09T19:58:18Z","x":0.49999999857954547,"y":0.73766816152632453}
+{"event":"play_exited","exit_code":1,"round":"round-077","time":"2026-11-09T19:58:25Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-077","time":"2026-11-09T20:00:24Z"}
+{"event":"settled","round":"round-077","score_confirmed":true,"settled_at":"2026-11-09T20:00:27Z","settlement_score":0,"settlement_text":"开.•• ◎ 128 本轮智力等级 提示 新生儿 确 马？ 智力总分数为0 再次挑战 1 \/最强大脑 S 19h59m 返回主界面","time":"2026-11-09T20:00:27Z"}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-078","time":"2026-11-09T20:00:27Z","x":0.49999999857954547,"y":0.73766816152632453}
+{"event":"play_exited","exit_code":1,"round":"round-078","time":"2026-11-09T20:00:34Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-078","time":"2026-11-09T20:02:34Z"}
+{"event":"settled","round":"round-078","score_confirmed":true,"settled_at":"2026-11-09T20:02:37Z","settlement_score":0,"settlement_text":"Ji 开.•• - ◎ 128 本轮智力等级 新生儿 智力总分数为0 再次挑战 让好友也挑战一 1 \/最强大脑 S 19h57m 返回主界面","time":"2026-11-09T20:02:37Z"}
+{"event":"stop_file_detected","round":"round-078","time":"2026-11-09T20:02:41Z"}
+{"event":"session_started","round":"round-078","search_budget_seconds":32,"time":"2026-11-09T20:02:42Z","until_epoch":1794268493}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-079","time":"2026-11-09T20:02:43Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-079","time":"2026-11-09T20:04:03Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-079","time":"2026-11-09T20:04:48Z"}
+{"event":"settled","plan_completed":true,"round":"round-079","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:04:52Z","settlement_score":150,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为150 再次挑战 让好友也挑战一 1 \/最强大脑 19h55m 返回主界面","time":"2026-11-09T20:04:52Z","verified_moves":70,"verified_score":150}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-080","time":"2026-11-09T20:04:52Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-080","time":"2026-11-09T20:06:11Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-080","time":"2026-11-09T20:06:59Z"}
+{"event":"settled","plan_completed":true,"round":"round-080","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:07:02Z","settlement_score":144,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为144 再次挑战 让好友也挑战一 1 \/最强大脑 19h53m 返回主界面","time":"2026-11-09T20:07:02Z","verified_moves":68,"verified_score":144}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-081","time":"2026-11-09T20:07:02Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-081","time":"2026-11-09T20:08:15Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-081","time":"2026-11-09T20:09:10Z"}
+{"event":"settled","plan_completed":true,"round":"round-081","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:09:13Z","settlement_score":125,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为125 再次挑战 让好友也挑战一 1 最强大脑 S19h50m 返回主界面","time":"2026-11-09T20:09:13Z","verified_moves":57,"verified_score":125}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-082","time":"2026-11-09T20:09:13Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-082","time":"2026-11-09T20:10:30Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-082","time":"2026-11-09T20:11:21Z"}
+{"event":"settled","plan_completed":true,"round":"round-082","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:11:24Z","settlement_score":136,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为136 再次挑战 让好友也挑战一 1 最强大脑 19h48m 返回主界面","time":"2026-11-09T20:11:24Z","verified_moves":63,"verified_score":136}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-083","time":"2026-11-09T20:11:24Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-083","time":"2026-11-09T20:12:44Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-083","time":"2026-11-09T20:13:32Z"}
+{"event":"settled","plan_completed":true,"round":"round-083","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:13:35Z","settlement_score":152,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为152 再次挑战 让好友也挑战一 1 最强大脑 19h46m 返回主界面","time":"2026-11-09T20:13:35Z","verified_moves":72,"verified_score":152}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-084","time":"2026-11-09T20:13:35Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-084","time":"2026-11-09T20:14:47Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-084","time":"2026-11-09T20:15:43Z"}
+{"event":"settled","plan_completed":true,"round":"round-084","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:15:46Z","settlement_score":128,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工趕师 智力总分数为128 再次挑战 让好友也挑战一 1 最强大脑 19h44m 返回主界面","time":"2026-11-09T20:15:46Z","verified_moves":60,"verified_score":128}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-085","time":"2026-11-09T20:15:46Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-085","time":"2026-11-09T20:17:03Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-085","time":"2026-11-09T20:17:54Z"}
+{"event":"settled","plan_completed":true,"round":"round-085","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:17:57Z","settlement_score":138,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为138 再次挑战 让好友也挑战一 1 最强大脑 19h42m 返回主界面","time":"2026-11-09T20:17:57Z","verified_moves":65,"verified_score":138}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-086","time":"2026-11-09T20:17:57Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-086","time":"2026-11-09T20:19:14Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-086","time":"2026-11-09T20:20:04Z"}
+{"event":"settled","plan_completed":true,"round":"round-086","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:20:08Z","settlement_score":150,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为150 再次挑战 让好友也挑战一 1 最强大脑 19h39m 返回主界面","time":"2026-11-09T20:20:08Z","verified_moves":69,"verified_score":150}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-087","time":"2026-11-09T20:20:08Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-087","time":"2026-11-09T20:21:24Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-087","time":"2026-11-09T20:22:14Z"}
+{"event":"settled","plan_completed":true,"round":"round-087","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:22:18Z","settlement_score":145,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为145 再次挑战 让好友也挑战一 1 \/最强大脑 19h37m 返回主界面","time":"2026-11-09T20:22:18Z","verified_moves":65,"verified_score":145}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-088","time":"2026-11-09T20:22:18Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-088","time":"2026-11-09T20:23:40Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-088","time":"2026-11-09T20:24:25Z"}
+{"event":"settled","plan_completed":true,"round":"round-088","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:24:28Z","settlement_score":150,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为150 再次挑战 让好友也挑战一 1 \/最强大脑 19h35m 返回主界面","time":"2026-11-09T20:24:28Z","verified_moves":72,"verified_score":150}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-089","time":"2026-11-09T20:24:28Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-089","time":"2026-11-09T20:25:41Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-089","time":"2026-11-09T20:26:36Z"}
+{"event":"settled","plan_completed":true,"round":"round-089","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:26:39Z","settlement_score":121,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为121 再次挑战 让好友也挑战一 1 最强大脑 19h33m 返回主界面","time":"2026-11-09T20:26:39Z","verified_moves":56,"verified_score":121}
+{"event":"click","label":"返回主界面","purpose":"check_and_renew_unlimited_challenges","round":"round-089","time":"2026-11-09T20:26:39Z","x":0.51988636196338378,"y":0.84304932715495773}
+{"event":"dismiss_home_achievement","round":"round-089","time":"2026-11-09T20:26:42Z"}
+{"event":"open_unlimited_challenge_dialog","round":"round-089","time":"2026-11-09T20:26:46Z"}
+{"event":"click","label":"• 免广告","purpose":"watch_ad_for_two_hour_unlimited_challenges","round":"round-089","time":"2026-11-09T20:26:49Z","x":0.48011363472016311,"y":0.61136023923380711}
+{"event":"ad_started","progress_text":"玩一玩 最强大脑 19小时33分 排行榜 开. •• 无限挑战次数 院士 无限脑力 无限 观看3次视频，获取2小时 无限挑战机会。 • 免广告 0\/3 不，谢谢 间关模式 开始游戏 T7UGF 茶Y7且日 128 安眠小游戏 我在哪 新 藏","round":"round-089","time":"2026-11-09T20:26:49Z"}
+{"event":"click","label":"关闭","purpose":"close_completed_ad_and_claim_reward","round":"round-089","time":"2026-11-09T20:27:26Z","x":0.89204545511363631,"y":0.11584454402092675}
+{"event":"ad_closed_after_reward","round":"round-089","time":"2026-11-09T20:27:26Z","watched_seconds":36.36641800403595}
+{"event":"click","label":"• 免广告","purpose":"watch_ad_for_two_hour_unlimited_challenges","round":"round-089","time":"2026-11-09T20:27:29Z","x":0.48011363472405788,"y":0.61136023925546867}
+{"event":"ad_started","progress_text":"玩一玩 最强大脑 19小时32分 排行榜 开. ••• 无限挑战次数 院士 无限脑力 无限 观看3次视频，获取2小时 无限挑战机会。 • 免广告 1\/3 不，谢谢 闫关模弍 开始游戏 T7UGF 茶Y7且日 128 安眠小游戏 我在哪 新 藏","round":"round-089","time":"2026-11-09T20:27:29Z"}
+{"event":"click","label":"关闭","purpose":"close_completed_ad_and_claim_reward","round":"round-089","time":"2026-11-09T20:28:05Z","x":0.89346590973011364,"y":0.11509715986547087}
+{"event":"ad_closed_after_reward","round":"round-089","time":"2026-11-09T20:28:05Z","watched_seconds":36.244938969612122}
+{"event":"click","label":"• 免广告","purpose":"watch_ad_for_two_hour_unlimited_challenges","round":"round-089","time":"2026-11-09T20:28:08Z","x":0.48011363472015678,"y":0.6113602392337667}
+{"event":"ad_started","progress_text":"玩一玩 最强大脑 19小时31分 排行榜 开. •• 无限挑战次数 院士 无限脑力 无限 观看3次视频，获取2小时 无限挑战机会。 • 免广告 2\/3 不，谢谢 前圓关模或0 开始游戏 T7UGF 茶Y7且日 128 安眠小游戏 我在哪 新 藏","round":"round-089","time":"2026-11-09T20:28:09Z"}
+{"event":"click","label":"关闭","purpose":"close_completed_ad_and_claim_reward","round":"round-089","time":"2026-11-09T20:28:42Z","x":0.89346590963879857,"y":0.11509715985479396}
+{"event":"ad_closed_after_reward","round":"round-089","time":"2026-11-09T20:28:43Z","watched_seconds":34.122985005378723}
+{"event":"unlimited_renewed","evidence":"\/Users\/shiyuntian\/code-reading\/wechat-game-assistant\/runs\/session-20261110-005453\/ads\/renew-1794256006","remaining_seconds":7197,"round":"round-089","time":"2026-11-09T20:28:46Z"}
+{"event":"click","label":"开始游戏","purpose":"start_next_round","round":"round-090","time":"2026-11-09T20:28:46Z","x":0.49857954469514854,"y":0.91330343804760261}
+{"event":"play_exited","exit_code":0,"round":"round-090","time":"2026-11-09T20:30:02Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-090","time":"2026-11-09T20:30:52Z"}
+{"event":"settled","plan_completed":true,"round":"round-090","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:30:55Z","settlement_score":141,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为141 再次挑战 让好友也挑战一 1 最强大脑 19h29m 返回主界面","time":"2026-11-09T20:30:55Z","verified_moves":64,"verified_score":141}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-091","time":"2026-11-09T20:30:55Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-091","time":"2026-11-09T20:32:04Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-091","time":"2026-11-09T20:33:02Z"}
+{"event":"settled","plan_completed":true,"round":"round-091","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:33:05Z","settlement_score":117,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数据分析师 智力总分数为117 再次挑战 让好友也挑战一 1 \/最强大脑 19h26m 返回主界面","time":"2026-11-09T20:33:05Z","verified_moves":51,"verified_score":117}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-092","time":"2026-11-09T20:33:05Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-092","time":"2026-11-09T20:34:24Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-092","time":"2026-11-09T20:35:12Z"}
+{"event":"settled","plan_completed":true,"round":"round-092","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:35:15Z","settlement_score":150,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为150 再次挑战 让好友也挑战一 1 最强大脑 19h24m 返回主界面","time":"2026-11-09T20:35:15Z","verified_moves":70,"verified_score":150}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-093","time":"2026-11-09T20:35:15Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-093","time":"2026-11-09T20:36:32Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-093","time":"2026-11-09T20:37:22Z"}
+{"event":"settled","plan_completed":true,"round":"round-093","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:37:25Z","settlement_score":152,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为152 再次挑战 让好友也挑战一 1 \/最强大脑 19h22m 返回主界面","time":"2026-11-09T20:37:25Z","verified_moves":71,"verified_score":152}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-094","time":"2026-11-09T20:37:25Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-094","time":"2026-11-09T20:38:43Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-094","time":"2026-11-09T20:39:31Z"}
+{"event":"settled","plan_completed":true,"round":"round-094","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:39:34Z","settlement_score":140,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为140 再次挑战 让好友也挑战一 1 最强大脑 19h20m 返回主界面","time":"2026-11-09T20:39:34Z","verified_moves":67,"verified_score":140}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-095","time":"2026-11-09T20:39:34Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-095","time":"2026-11-09T20:40:53Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-095","time":"2026-11-09T20:41:41Z"}
+{"event":"settled","plan_completed":true,"round":"round-095","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:41:44Z","settlement_score":145,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为145 再次挑战 让好友也挑战一 1 \/最强大脑 S19h18m 返回主界面","time":"2026-11-09T20:41:44Z","verified_moves":69,"verified_score":145}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-096","time":"2026-11-09T20:41:44Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-096","time":"2026-11-09T20:42:56Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-096","time":"2026-11-09T20:43:51Z"}
+{"event":"settled","plan_completed":true,"round":"round-096","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:43:54Z","settlement_score":128,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为128 再次挑战 让好友也挑战一 1 \/最强大脑 19h16m 返回主界面","time":"2026-11-09T20:43:54Z","verified_moves":57,"verified_score":128}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-097","time":"2026-11-09T20:43:54Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-097","time":"2026-11-09T20:45:11Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-097","time":"2026-11-09T20:46:01Z"}
+{"event":"settled","plan_completed":true,"round":"round-097","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:46:04Z","settlement_score":145,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为145 再次挑战 让好友也挑战一 1 最强大脑 S19h14m 返回主界面","time":"2026-11-09T20:46:04Z","verified_moves":67,"verified_score":145}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-098","time":"2026-11-09T20:46:04Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-098","time":"2026-11-09T20:47:16Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-098","time":"2026-11-09T20:48:11Z"}
+{"event":"settled","plan_completed":true,"round":"round-098","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:48:14Z","settlement_score":128,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为128 再次挑战 让好友也挑战一 1 \/最强大脑 19h11m 返回主界面","time":"2026-11-09T20:48:14Z","verified_moves":59,"verified_score":128}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-099","time":"2026-11-09T20:48:14Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-099","time":"2026-11-09T20:49:31Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-099","time":"2026-11-09T20:50:20Z"}
+{"event":"settled","plan_completed":true,"round":"round-099","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:50:24Z","settlement_score":148,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为148 再次挑战 让好友也挑战一 1 \/最强大脑 19h9m 返回主界面","time":"2026-11-09T20:50:24Z","verified_moves":69,"verified_score":148}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-100","time":"2026-11-09T20:50:24Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-100","time":"2026-11-09T20:51:37Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-100","time":"2026-11-09T20:52:29Z"}
+{"event":"settled","plan_completed":true,"round":"round-100","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:52:32Z","settlement_score":127,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为127 再次挑战 让好友也挑战一 1 最强大脑 19h7m 返回主界面","time":"2026-11-09T20:52:32Z","verified_moves":59,"verified_score":127}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-101","time":"2026-11-09T20:52:32Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-101","time":"2026-11-09T20:53:47Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-101","time":"2026-11-09T20:54:39Z"}
+{"event":"settled","plan_completed":true,"round":"round-101","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:54:42Z","settlement_score":132,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为132 再次挑战 让好友也挑战一 1 \/最强大脑 19h5m 返回主界面","time":"2026-11-09T20:54:42Z","verified_moves":60,"verified_score":132}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-102","time":"2026-11-09T20:54:42Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-102","time":"2026-11-09T20:56:01Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-102","time":"2026-11-09T20:56:48Z"}
+{"event":"settled","plan_completed":true,"round":"round-102","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:56:52Z","settlement_score":146,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为146 再次挑战 让好友也挑战一 1 最强大脑 19h3m 返回主界面","time":"2026-11-09T20:56:52Z","verified_moves":70,"verified_score":146}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-103","time":"2026-11-09T20:56:52Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-103","time":"2026-11-09T20:58:06Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-103","time":"2026-11-09T20:58:58Z"}
+{"event":"settled","plan_completed":true,"round":"round-103","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T20:59:01Z","settlement_score":137,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为137 再次挑战 让好友也挑战一 1 最强大脑 19hlm 返回主界面","time":"2026-11-09T20:59:01Z","verified_moves":61,"verified_score":137}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-104","time":"2026-11-09T20:59:01Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-104","time":"2026-11-09T21:00:15Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-104","time":"2026-11-09T21:01:09Z"}
+{"event":"settled","plan_completed":true,"round":"round-104","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:01:12Z","settlement_score":133,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为133 再次挑战 让好友也挑战一 1 \/最强大脑 18h58m 返回主界面","time":"2026-11-09T21:01:12Z","verified_moves":60,"verified_score":133}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-105","time":"2026-11-09T21:01:12Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-105","time":"2026-11-09T21:02:32Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-105","time":"2026-11-09T21:03:19Z"}
+{"event":"settled","plan_completed":true,"round":"round-105","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:03:23Z","settlement_score":154,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为154 再次挑战 让好友也挑战一 1 \/最强大脑 S18h56m 返回主界面","time":"2026-11-09T21:03:23Z","verified_moves":71,"verified_score":154}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-106","time":"2026-11-09T21:03:23Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-106","time":"2026-11-09T21:04:40Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-106","time":"2026-11-09T21:05:30Z"}
+{"event":"settled","plan_completed":true,"round":"round-106","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:05:33Z","settlement_score":145,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为145 再次挑战 让好友也挑战一 1 最强大脑 S18h54m 返回主界面","time":"2026-11-09T21:05:33Z","verified_moves":67,"verified_score":145}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-107","time":"2026-11-09T21:05:33Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-107","time":"2026-11-09T21:06:46Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-107","time":"2026-11-09T21:07:40Z"}
+{"event":"settled","plan_completed":true,"round":"round-107","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:07:44Z","settlement_score":126,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为126 再次挑战 让好友也挑战一 1 最强大脑 S18h52m 返回主界面","time":"2026-11-09T21:07:44Z","verified_moves":57,"verified_score":126}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-108","time":"2026-11-09T21:07:44Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-108","time":"2026-11-09T21:08:56Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-108","time":"2026-11-09T21:09:51Z"}
+{"event":"settled","plan_completed":true,"round":"round-108","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:09:54Z","settlement_score":124,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为124 再次挑战 让好友也挑战一 1 \/最强大脑 18h50m 返回主界面","time":"2026-11-09T21:09:54Z","verified_moves":57,"verified_score":124}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-109","time":"2026-11-09T21:09:54Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-109","time":"2026-11-09T21:11:04Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-109","time":"2026-11-09T21:12:01Z"}
+{"event":"settled","plan_completed":true,"round":"round-109","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:12:04Z","settlement_score":114,"settlement_text":"0I 开.•• ◎ 128 本轮智力等级 技术大牛 智力总分数为114 再次挑战 让好友也挑战一 1 \/最强大脑 18h48m 返回主界面","time":"2026-11-09T21:12:04Z","verified_moves":52,"verified_score":114}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-110","time":"2026-11-09T21:12:04Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-110","time":"2026-11-09T21:13:18Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-110","time":"2026-11-09T21:14:10Z"}
+{"event":"settled","plan_completed":true,"round":"round-110","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:14:13Z","settlement_score":127,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为127 再次挑战 让好友也挑战一 1 \/最强大脑 18h45m 返回主界面","time":"2026-11-09T21:14:13Z","verified_moves":59,"verified_score":127}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-111","time":"2026-11-09T21:14:13Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-111","time":"2026-11-09T21:15:30Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-111","time":"2026-11-09T21:16:20Z"}
+{"event":"settled","plan_completed":true,"round":"round-111","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:16:23Z","settlement_score":137,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为137 再次挑战 让好友也挑战一 1 \/最强大脑 18h43m 返回主界面","time":"2026-11-09T21:16:23Z","verified_moves":64,"verified_score":137}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-112","time":"2026-11-09T21:16:23Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-112","time":"2026-11-09T21:17:39Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-112","time":"2026-11-09T21:18:30Z"}
+{"event":"settled","plan_completed":true,"round":"round-112","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:18:33Z","settlement_score":137,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为137 再次挑战 让好友也挑战一 1 最强大脑 518h41m 返回主界面","time":"2026-11-09T21:18:33Z","verified_moves":64,"verified_score":137}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-113","time":"2026-11-09T21:18:33Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-113","time":"2026-11-09T21:19:55Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-113","time":"2026-11-09T21:20:40Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-113","time":"2026-11-09T21:20:43Z"}
+{"event":"click","label":"确定","purpose":"dismiss_tournament_result","round":"round-113","time":"2026-11-09T21:20:46Z","x":0.50142045477627839,"y":0.88490283983557538}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-113","time":"2026-11-09T21:20:50Z"}
+{"event":"click","label":"确定","purpose":"dismiss_certificate","round":"round-113","time":"2026-11-09T21:20:53Z","x":0.47159090978084417,"y":0.86472346810805034}
+{"event":"settled","plan_completed":true,"round":"round-113","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:20:56Z","settlement_score":159,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为159 再次挑战 让好友也挑战一 1 最强大脑 S18h39m 返回主界面","time":"2026-11-09T21:20:56Z","verified_moves":74,"verified_score":159}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-114","time":"2026-11-09T21:20:56Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-114","time":"2026-11-09T21:22:08Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-114","time":"2026-11-09T21:23:03Z"}
+{"event":"settled","plan_completed":true,"round":"round-114","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:23:06Z","settlement_score":121,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为121 再次挑战 让好友也挑战一 1 \/最强大脑 S18h36m 返回主界面","time":"2026-11-09T21:23:06Z","verified_moves":57,"verified_score":121}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-115","time":"2026-11-09T21:23:06Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-115","time":"2026-11-09T21:24:19Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-115","time":"2026-11-09T21:25:14Z"}
+{"event":"settled","plan_completed":true,"round":"round-115","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:25:17Z","settlement_score":125,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为125 再次挑战 让好友也挑战一 1 \/最强大脑 18h34m 返回主界面","time":"2026-11-09T21:25:17Z","verified_moves":59,"verified_score":125}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-116","time":"2026-11-09T21:25:17Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-116","time":"2026-11-09T21:26:37Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-116","time":"2026-11-09T21:27:25Z"}
+{"event":"settled","plan_completed":true,"round":"round-116","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:27:28Z","settlement_score":151,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为 151 再次挑战 让好友也挑战一 1 \/最强大脑 518h32m 返回主界面","time":"2026-11-09T21:27:28Z","verified_moves":71,"verified_score":151}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-117","time":"2026-11-09T21:27:28Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-117","time":"2026-11-09T21:28:42Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-117","time":"2026-11-09T21:29:34Z"}
+{"event":"settled","plan_completed":true,"round":"round-117","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:29:37Z","settlement_score":131,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为 131 再次挑战 让好友也挑战一 1 \/最强大脑 S18h30m 返回主界面","time":"2026-11-09T21:29:37Z","verified_moves":62,"verified_score":131}
+{"event":"drained_after_settlement","round":"round-117","time":"2026-11-09T21:29:37Z"}
+{"event":"session_started","round":"round-117","search_budget_seconds":32,"time":"2026-11-09T21:30:13Z","until_epoch":1794268493}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-118","time":"2026-11-09T21:30:13Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-118","time":"2026-11-09T21:31:28Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-118","time":"2026-11-09T21:32:20Z"}
+{"event":"settled","plan_completed":true,"round":"round-118","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:32:23Z","settlement_score":134,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为134 再次挑战 让好友也挑战一 1 \/最强大脑 18h27m 返回主界面","time":"2026-11-09T21:32:23Z","verified_moves":61,"verified_score":134}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-119","time":"2026-11-09T21:32:23Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-119","time":"2026-11-09T21:33:34Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-119","time":"2026-11-09T21:34:31Z"}
+{"event":"settled","plan_completed":true,"round":"round-119","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:34:34Z","settlement_score":121,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为121 再次挑战 让好友也挑战一 1 \/最强大脑 18h25m 返回主界面","time":"2026-11-09T21:34:34Z","verified_moves":55,"verified_score":121}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-120","time":"2026-11-09T21:34:34Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-120","time":"2026-11-09T21:35:44Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-120","time":"2026-11-09T21:36:42Z"}
+{"event":"settled","plan_completed":true,"round":"round-120","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:36:45Z","settlement_score":122,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为122 再次挑战 让好友也挑战一 1 \/最强大脑 18h23m 返回主界面","time":"2026-11-09T21:36:45Z","verified_moves":55,"verified_score":122}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-121","time":"2026-11-09T21:36:45Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-121","time":"2026-11-09T21:37:56Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-121","time":"2026-11-09T21:38:51Z"}
+{"event":"settled","plan_completed":true,"round":"round-121","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:38:54Z","settlement_score":121,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为121 再次挑战 让好友也挑战一 1 最强大脑 18h21m 返回主界面","time":"2026-11-09T21:38:54Z","verified_moves":55,"verified_score":121}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-122","time":"2026-11-09T21:38:54Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-122","time":"2026-11-09T21:40:09Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-122","time":"2026-11-09T21:41:01Z"}
+{"event":"settled","plan_completed":true,"round":"round-122","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:41:05Z","settlement_score":140,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为140 再次挑战 让好友也挑战一 1 \/最强大脑 S18h19m 返回主界面","time":"2026-11-09T21:41:05Z","verified_moves":64,"verified_score":140}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-123","time":"2026-11-09T21:41:05Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-123","time":"2026-11-09T21:42:22Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-123","time":"2026-11-09T21:43:12Z"}
+{"event":"settled","plan_completed":true,"round":"round-123","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:43:15Z","settlement_score":145,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为145 再次挑战 让好友也挑战一 1 \/最强大脑 $18h16m 返回主界面","time":"2026-11-09T21:43:15Z","verified_moves":67,"verified_score":145}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-124","time":"2026-11-09T21:43:15Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-124","time":"2026-11-09T21:44:31Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-124","time":"2026-11-09T21:45:23Z"}
+{"event":"settled","plan_completed":true,"round":"round-124","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:45:26Z","settlement_score":148,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为148 再次挑战 让好友也挑战一 1 \/最强大脑 S18h14m 返回主界面","time":"2026-11-09T21:45:26Z","verified_moves":70,"verified_score":148}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-125","time":"2026-11-09T21:45:26Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-125","time":"2026-11-09T21:46:46Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-125","time":"2026-11-09T21:47:33Z"}
+{"event":"settled","plan_completed":true,"round":"round-125","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:47:37Z","settlement_score":149,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为149 再次挑战 让好友也挑战一 1 \/最强大脑 S18h12m 返回主界面","time":"2026-11-09T21:47:37Z","verified_moves":71,"verified_score":149}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-126","time":"2026-11-09T21:47:37Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-126","time":"2026-11-09T21:48:46Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-126","time":"2026-11-09T21:49:43Z"}
+{"event":"settled","plan_completed":true,"round":"round-126","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:49:46Z","settlement_score":116,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数据分析师 智力总分数为116 再次挑战 让好友也挑战一 1 \/最强大脑 S18h10m 返回主界面","time":"2026-11-09T21:49:46Z","verified_moves":52,"verified_score":116}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-127","time":"2026-11-09T21:49:46Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-127","time":"2026-11-09T21:50:58Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-127","time":"2026-11-09T21:51:52Z"}
+{"event":"settled","plan_completed":true,"round":"round-127","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:51:56Z","settlement_score":119,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数据分析师 智力总分数为119 再次挑战 让好友也挑战一 1 \/最强大脑 18h8m 返回主界面","time":"2026-11-09T21:51:56Z","verified_moves":55,"verified_score":119}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-128","time":"2026-11-09T21:51:56Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-128","time":"2026-11-09T21:53:14Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-128","time":"2026-11-09T21:54:01Z"}
+{"event":"settled","plan_completed":true,"round":"round-128","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:54:04Z","settlement_score":146,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为146 再次挑战 让好友也挑战一 1 \/最强大脑 18h5m 返回主界面","time":"2026-11-09T21:54:04Z","verified_moves":68,"verified_score":146}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-129","time":"2026-11-09T21:54:04Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-129","time":"2026-11-09T21:55:24Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-129","time":"2026-11-09T21:56:11Z"}
+{"event":"settled","plan_completed":true,"round":"round-129","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:56:14Z","settlement_score":151,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为 151 再次挑战 让好友也挑战一 1 最强大脑 18h3m 返回主界面","time":"2026-11-09T21:56:14Z","verified_moves":70,"verified_score":151}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-130","time":"2026-11-09T21:56:14Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-130","time":"2026-11-09T21:57:29Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-130","time":"2026-11-09T21:58:21Z"}
+{"event":"settled","plan_completed":true,"round":"round-130","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T21:58:24Z","settlement_score":139,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为139 再次挑战 让好友也挑战一 1 最强大脑 18hlm 返回主界面","time":"2026-11-09T21:58:24Z","verified_moves":63,"verified_score":139}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-131","time":"2026-11-09T21:58:24Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-131","time":"2026-11-09T21:59:43Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-131","time":"2026-11-09T22:00:30Z"}
+{"event":"settled","plan_completed":true,"round":"round-131","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:00:33Z","settlement_score":145,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为145 再次挑战 让好友也挑战一 1 最强大脑 S17h59m 返回主界面","time":"2026-11-09T22:00:33Z","verified_moves":68,"verified_score":145}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-132","time":"2026-11-09T22:00:33Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-132","time":"2026-11-09T22:01:50Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-132","time":"2026-11-09T22:02:40Z"}
+{"event":"settled","plan_completed":true,"round":"round-132","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:02:43Z","settlement_score":135,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为135 再次挑战 让好友也挑战一 1 \/最强大脑 S17h57m 返回主界面","time":"2026-11-09T22:02:43Z","verified_moves":64,"verified_score":135}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-133","time":"2026-11-09T22:02:43Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-133","time":"2026-11-09T22:04:02Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-133","time":"2026-11-09T22:04:49Z"}
+{"event":"settled","plan_completed":true,"round":"round-133","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:04:52Z","settlement_score":148,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为148 再次挑战 让好友也挑战一 1 \/最强大脑 S17h55m 返回主界面","time":"2026-11-09T22:04:52Z","verified_moves":70,"verified_score":148}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-134","time":"2026-11-09T22:04:52Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-134","time":"2026-11-09T22:06:12Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-134","time":"2026-11-09T22:06:59Z"}
+{"event":"settled","plan_completed":true,"round":"round-134","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:07:02Z","settlement_score":152,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为152 再次挑战 让好友也挑战一 1 最强大脑 S17h53m 返回主界面","time":"2026-11-09T22:07:02Z","verified_moves":71,"verified_score":152}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-135","time":"2026-11-09T22:07:02Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-135","time":"2026-11-09T22:08:20Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-135","time":"2026-11-09T22:09:10Z"}
+{"event":"settled","plan_completed":true,"round":"round-135","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:09:13Z","settlement_score":150,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为150 再次挑战 让好友也挑战一 1 最强大脑 S17h50m 返回主界面","time":"2026-11-09T22:09:13Z","verified_moves":70,"verified_score":150}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-136","time":"2026-11-09T22:09:13Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-136","time":"2026-11-09T22:10:29Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-136","time":"2026-11-09T22:11:19Z"}
+{"event":"settled","plan_completed":true,"round":"round-136","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:11:22Z","settlement_score":139,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为139 再次挑战 让好友也挑战一 1 \/最强大脑 17h48m 返回主界面","time":"2026-11-09T22:11:22Z","verified_moves":65,"verified_score":139}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-137","time":"2026-11-09T22:11:22Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-137","time":"2026-11-09T22:12:39Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-137","time":"2026-11-09T22:13:29Z"}
+{"event":"settled","plan_completed":true,"round":"round-137","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:13:32Z","settlement_score":142,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为142 再次挑战 让好友也挑战一 1 \/最强大脑 S17h46m 返回主界面","time":"2026-11-09T22:13:32Z","verified_moves":67,"verified_score":142}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-138","time":"2026-11-09T22:13:32Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-138","time":"2026-11-09T22:14:43Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-138","time":"2026-11-09T22:15:40Z"}
+{"event":"settled","plan_completed":true,"round":"round-138","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:15:43Z","settlement_score":128,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为128 再次挑战 让好友也挑战一 1 最强大脑 17h44m 返回主界面","time":"2026-11-09T22:15:43Z","verified_moves":59,"verified_score":128}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-139","time":"2026-11-09T22:15:43Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-139","time":"2026-11-09T22:16:54Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-139","time":"2026-11-09T22:17:51Z"}
+{"event":"settled","plan_completed":true,"round":"round-139","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:17:54Z","settlement_score":122,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为122 再次挑战 让好友也挑战一 1 \/最强大脑 17h42m 返回主界面","time":"2026-11-09T22:17:54Z","verified_moves":56,"verified_score":122}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-140","time":"2026-11-09T22:17:54Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-140","time":"2026-11-09T22:19:10Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-140","time":"2026-11-09T22:20:01Z"}
+{"event":"settled","plan_completed":true,"round":"round-140","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:20:04Z","settlement_score":137,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为137 再次挑战 让好友也挑战一 1 \/最强大脑 17h40m 返回主界面","time":"2026-11-09T22:20:04Z","verified_moves":63,"verified_score":137}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-141","time":"2026-11-09T22:20:04Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-141","time":"2026-11-09T22:21:20Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-141","time":"2026-11-09T22:22:12Z"}
+{"event":"settled","plan_completed":true,"round":"round-141","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:22:15Z","settlement_score":137,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为137 再次挑战 让好友也挑战一 1 \/最强大脑 S17h37m 返回主界面","time":"2026-11-09T22:22:15Z","verified_moves":63,"verified_score":137}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-142","time":"2026-11-09T22:22:15Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-142","time":"2026-11-09T22:23:25Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-142","time":"2026-11-09T22:24:22Z"}
+{"event":"settled","plan_completed":true,"round":"round-142","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:24:25Z","settlement_score":123,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为123 再次挑战 让好友也挑战一 1 最强大脑 S17h35m 返回主界面","time":"2026-11-09T22:24:25Z","verified_moves":56,"verified_score":123}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-143","time":"2026-11-09T22:24:25Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-143","time":"2026-11-09T22:25:37Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-143","time":"2026-11-09T22:26:32Z"}
+{"event":"settled","plan_completed":true,"round":"round-143","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:26:35Z","settlement_score":128,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为128 再次挑战 让好友也挑战一 1 最强大脑 S17h33m 返回主界面","time":"2026-11-09T22:26:35Z","verified_moves":57,"verified_score":128}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-144","time":"2026-11-09T22:26:35Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-144","time":"2026-11-09T22:27:48Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-144","time":"2026-11-09T22:28:42Z"}
+{"event":"settled","plan_completed":true,"round":"round-144","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:28:46Z","settlement_score":132,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为132 再次挑战 让好友也挑战一 1 \/最强大脑 S17h31m 返回主界面","time":"2026-11-09T22:28:46Z","verified_moves":60,"verified_score":132}
+{"event":"click","label":"返回主界面","purpose":"check_and_renew_unlimited_challenges","round":"round-144","time":"2026-11-09T22:28:46Z","x":0.51988636196338378,"y":0.84304932715495773}
+{"event":"open_unlimited_challenge_dialog","round":"round-144","time":"2026-11-09T22:28:49Z"}
+{"event":"click","label":"• 免广告","purpose":"watch_ad_for_two_hour_unlimited_challenges","round":"round-144","time":"2026-11-09T22:29:11Z","x":0.48011363472016311,"y":0.61136023923380711}
+{"event":"ad_started","progress_text":"玩一玩 最强大脑 17小时30分 排行榜 开. •• 无限挑战次数 院士 无限脑力 无限 观看3次视频，获取2小时 无限挑战机会。 • 免广告 0\/3 不，谢谢 闾关模式 开始游戏 T7UGH 100 128 安眠小游戏 我在哪 新 藏","round":"round-144","time":"2026-11-09T22:29:11Z"}
+{"event":"click","label":"24关闭","purpose":"close_completed_ad_and_claim_reward","round":"round-144","time":"2026-11-09T22:29:44Z","x":0.86363636461038951,"y":0.10911808671791584}
+{"event":"ad_closed_after_reward","round":"round-144","time":"2026-11-09T22:29:45Z","watched_seconds":33.218690991401672}
+{"event":"click","label":"• 免广告","purpose":"watch_ad_for_two_hour_unlimited_challenges","round":"round-144","time":"2026-11-09T22:29:48Z","x":0.48011363472405788,"y":0.61136023925546867}
+{"event":"ad_started","progress_text":"玩一玩 最强大脑 17小时30分 排行榜 开. •• 无限挑战次数 院士 无限脑力 无限 观看3次视频，获取2小时 无限挑战机会。 • 免广告 1\/3 不，谢谢 间关模式 开始游戏 T7UGH 100 128 安眠小游戏 我在哪 新","round":"round-144","time":"2026-11-09T22:29:48Z"}
+{"event":"click","label":"关闭","purpose":"close_completed_ad_and_claim_reward","round":"round-144","time":"2026-11-09T22:30:24Z","x":0.89346590973011364,"y":0.11509715986547087}
+{"event":"ad_closed_after_reward","round":"round-144","time":"2026-11-09T22:30:24Z","watched_seconds":36.125837922096252}
+{"event":"click","label":"• 免广告","purpose":"watch_ad_for_two_hour_unlimited_challenges","round":"round-144","time":"2026-11-09T22:30:32Z","x":0.48011363472015678,"y":0.6113602392337667}
+{"event":"ad_started","progress_text":"玩一玩 最强大脑 17小时29分 排行榜 开. •• 无限挑战次数 院士 无限脑力 无限 观看3次视频，获取2小时 无限挑战机会。 • 免广告 2\/3 不，谢谢 闾关模式 开始游戏 T7UGH 100 128 安眠小游戏 我在哪 新","round":"round-144","time":"2026-11-09T22:30:32Z"}
+{"event":"click","label":"关闭","purpose":"close_completed_ad_and_claim_reward","round":"round-144","time":"2026-11-09T22:31:08Z","x":0.89346590973011364,"y":0.11509715986547087}
+{"event":"ad_closed_after_reward","round":"round-144","time":"2026-11-09T22:31:08Z","watched_seconds":36.245813012123108}
+{"event":"unlimited_renewed","evidence":"\/Users\/shiyuntian\/code-reading\/wechat-game-assistant\/runs\/session-20261110-005453\/ads\/renew-1794263329","remaining_seconds":7197,"round":"round-144","time":"2026-11-09T22:31:11Z"}
+{"event":"click","label":"开始游戏","purpose":"start_next_round","round":"round-145","time":"2026-11-09T22:31:11Z","x":0.49857954472327443,"y":0.91330343805015779}
+{"event":"play_exited","exit_code":0,"round":"round-145","time":"2026-11-09T22:32:34Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-145","time":"2026-11-09T22:33:18Z"}
+{"event":"settled","plan_completed":true,"round":"round-145","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:33:21Z","settlement_score":158,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为158 再次挑战 让好友也挑战一 1 最强大脑 S17h26m 返回主界面","time":"2026-11-09T22:33:21Z","verified_moves":74,"verified_score":158}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-146","time":"2026-11-09T22:33:21Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-146","time":"2026-11-09T22:34:28Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-146","time":"2026-11-09T22:35:27Z"}
+{"event":"settled","plan_completed":true,"round":"round-146","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:35:30Z","settlement_score":101,"settlement_text":"0I 开.•• 128 本轮智力等级 初级码农 智力总分数为101 再次挑战 让好友也挑战一 1 \/最强大脑 17h24m 返回主界面","time":"2026-11-09T22:35:30Z","verified_moves":45,"verified_score":101}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-147","time":"2026-11-09T22:35:30Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-147","time":"2026-11-09T22:36:47Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-147","time":"2026-11-09T22:37:36Z"}
+{"event":"settled","plan_completed":true,"round":"round-147","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:37:39Z","settlement_score":139,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为139 再次挑战 让好友也挑战一 1 \/最强大脑 17h22m 返回主界面","time":"2026-11-09T22:37:39Z","verified_moves":66,"verified_score":139}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-148","time":"2026-11-09T22:37:39Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-148","time":"2026-11-09T22:38:55Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-148","time":"2026-11-09T22:39:46Z"}
+{"event":"settled","plan_completed":true,"round":"round-148","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:39:50Z","settlement_score":139,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为139 再次挑战 让好友也挑战一 1 最强大脑 S17h20m 返回主界面","time":"2026-11-09T22:39:50Z","verified_moves":64,"verified_score":139}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-149","time":"2026-11-09T22:39:50Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-149","time":"2026-11-09T22:41:05Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-149","time":"2026-11-09T22:41:55Z"}
+{"event":"settled","plan_completed":true,"round":"round-149","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:41:58Z","settlement_score":136,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为136 再次挑战 让好友也挑战一 1 最强大脑 S17h18m 返回主界面","time":"2026-11-09T22:41:58Z","verified_moves":63,"verified_score":136}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-150","time":"2026-11-09T22:41:58Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-150","time":"2026-11-09T22:43:16Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-150","time":"2026-11-09T22:44:05Z"}
+{"event":"settled","plan_completed":true,"round":"round-150","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:44:09Z","settlement_score":136,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为136 再次挑战 让好友也挑战一 1 最强大脑 S17h15m 返回主界面","time":"2026-11-09T22:44:09Z","verified_moves":64,"verified_score":136}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-151","time":"2026-11-09T22:44:09Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-151","time":"2026-11-09T22:45:26Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-151","time":"2026-11-09T22:46:15Z"}
+{"event":"settled","plan_completed":true,"round":"round-151","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:46:18Z","settlement_score":145,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为145 再次挑战 让好友也挑战一 1 \/最强大脑 S17h13m 返回主界面","time":"2026-11-09T22:46:18Z","verified_moves":68,"verified_score":145}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-152","time":"2026-11-09T22:46:18Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-152","time":"2026-11-09T22:47:37Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-152","time":"2026-11-09T22:48:26Z"}
+{"event":"settled","plan_completed":true,"round":"round-152","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:48:29Z","settlement_score":150,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为150 再次挑战 让好友也挑战一 1 \/最强大脑 S17h11m 返回主界面","time":"2026-11-09T22:48:29Z","verified_moves":69,"verified_score":150}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-153","time":"2026-11-09T22:48:29Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-153","time":"2026-11-09T22:49:50Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-153","time":"2026-11-09T22:50:35Z"}
+{"event":"settled","plan_completed":true,"round":"round-153","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:50:38Z","settlement_score":157,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为157 再次挑战 让好友也挑战一 1 \/最强大脑 17h9m 返回主界面","time":"2026-11-09T22:50:38Z","verified_moves":74,"verified_score":157}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-154","time":"2026-11-09T22:50:38Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-154","time":"2026-11-09T22:51:51Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-154","time":"2026-11-09T22:52:45Z"}
+{"event":"settled","plan_completed":true,"round":"round-154","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:52:48Z","settlement_score":130,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为130 再次挑战 让好友也挑战一 1 \/最强大脑 17h7m 返回主界面","time":"2026-11-09T22:52:48Z","verified_moves":59,"verified_score":130}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-155","time":"2026-11-09T22:52:48Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-155","time":"2026-11-09T22:54:08Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-155","time":"2026-11-09T22:54:55Z"}
+{"event":"settled","plan_completed":true,"round":"round-155","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:54:58Z","settlement_score":150,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为150 再次挑战 让好友也挑战一 1 \/最强大脑 17h5m 返回主界面","time":"2026-11-09T22:54:58Z","verified_moves":71,"verified_score":150}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-156","time":"2026-11-09T22:54:58Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-156","time":"2026-11-09T22:56:18Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-156","time":"2026-11-09T22:57:05Z"}
+{"event":"settled","plan_completed":true,"round":"round-156","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:57:08Z","settlement_score":154,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为154 再次挑战 让好友也挑战一 1 最强大脑 17h2m 返回主界面","time":"2026-11-09T22:57:08Z","verified_moves":74,"verified_score":154}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-157","time":"2026-11-09T22:57:08Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-157","time":"2026-11-09T22:58:25Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-157","time":"2026-11-09T22:59:14Z"}
+{"event":"settled","plan_completed":true,"round":"round-157","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T22:59:17Z","settlement_score":140,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为140 再次挑战 让好友也挑战一 1 最强大脑 17h0m 返回主界面","time":"2026-11-09T22:59:17Z","verified_moves":65,"verified_score":140}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-158","time":"2026-11-09T22:59:17Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-158","time":"2026-11-09T23:00:34Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-158","time":"2026-11-09T23:01:23Z"}
+{"event":"settled","plan_completed":true,"round":"round-158","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:01:26Z","settlement_score":141,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为141 再次挑战 让好友也挑战一 1 最强大脑 S16h58m 返回主界面","time":"2026-11-09T23:01:26Z","verified_moves":67,"verified_score":141}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-159","time":"2026-11-09T23:01:26Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-159","time":"2026-11-09T23:02:47Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-159","time":"2026-11-09T23:03:34Z"}
+{"event":"settled","plan_completed":true,"round":"round-159","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:03:37Z","settlement_score":149,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为149 再次挑战 让好友也挑战一 1 最强大脑 $16h56m 返回主界面","time":"2026-11-09T23:03:37Z","verified_moves":72,"verified_score":149}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-160","time":"2026-11-09T23:03:37Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-160","time":"2026-11-09T23:04:55Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-160","time":"2026-11-09T23:05:45Z"}
+{"event":"settled","plan_completed":true,"round":"round-160","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:05:48Z","settlement_score":147,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为147 再次挑战 让好友也挑战一 1 \/最强大脑 516h54m 返回主界面","time":"2026-11-09T23:05:48Z","verified_moves":69,"verified_score":147}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-161","time":"2026-11-09T23:05:48Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-161","time":"2026-11-09T23:07:09Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-161","time":"2026-11-09T23:07:56Z"}
+{"event":"settled","plan_completed":true,"round":"round-161","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:07:59Z","settlement_score":158,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为158 再次挑战 让好友也挑战一 1 最强大脑 16h52m 返回主界面","time":"2026-11-09T23:07:59Z","verified_moves":75,"verified_score":158}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-162","time":"2026-11-09T23:07:59Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-162","time":"2026-11-09T23:09:16Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-162","time":"2026-11-09T23:10:06Z"}
+{"event":"settled","plan_completed":true,"round":"round-162","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:10:09Z","settlement_score":147,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为147 再次挑战 让好友也挑战一 1 最强大脑 16h49m 返回主界面","time":"2026-11-09T23:10:09Z","verified_moves":68,"verified_score":147}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-163","time":"2026-11-09T23:10:09Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-163","time":"2026-11-09T23:11:31Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-163","time":"2026-11-09T23:12:15Z"}
+{"event":"settled","plan_completed":true,"round":"round-163","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:12:18Z","settlement_score":156,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为156 再次挑战 让好友也挑战一 1 \/最强大脑 S16h47m 返回主界面","time":"2026-11-09T23:12:18Z","verified_moves":75,"verified_score":156}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-164","time":"2026-11-09T23:12:18Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-164","time":"2026-11-09T23:13:32Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-164","time":"2026-11-09T23:14:26Z"}
+{"event":"settled","plan_completed":true,"round":"round-164","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:14:29Z","settlement_score":132,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为132 再次挑战 让好友也挑战一 1 \/最强大脑 S16h45m 返回主界面","time":"2026-11-09T23:14:29Z","verified_moves":60,"verified_score":132}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-165","time":"2026-11-09T23:14:29Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-165","time":"2026-11-09T23:15:49Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-165","time":"2026-11-09T23:16:36Z"}
+{"event":"settled","plan_completed":true,"round":"round-165","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:16:39Z","settlement_score":149,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为149 再次挑战 让好友也挑战一 1 最强大脑 16h43m 返回主界面","time":"2026-11-09T23:16:39Z","verified_moves":71,"verified_score":149}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-166","time":"2026-11-09T23:16:39Z","x":0.49857954416193195,"y":0.73841554568011958}
+{"event":"play_exited","exit_code":0,"round":"round-166","time":"2026-11-09T23:17:55Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-166","time":"2026-11-09T23:18:45Z"}
+{"event":"settled","plan_completed":true,"round":"round-166","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:18:48Z","settlement_score":136,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为136 再次挑战 让好友也挑战一 1 最强大脑 S16h41m 返回主界面","time":"2026-11-09T23:18:48Z","verified_moves":65,"verified_score":136}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-167","time":"2026-11-09T23:18:48Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-167","time":"2026-11-09T23:20:03Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-167","time":"2026-11-09T23:20:54Z"}
+{"event":"settled","plan_completed":true,"round":"round-167","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:20:58Z","settlement_score":141,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为141 再次挑战 让好友也挑战一 1 最强大脑 S16h39m 返回主界面","time":"2026-11-09T23:20:58Z","verified_moves":62,"verified_score":141}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-168","time":"2026-11-09T23:20:58Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-168","time":"2026-11-09T23:22:09Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-168","time":"2026-11-09T23:23:03Z"}
+{"event":"settled","plan_completed":true,"round":"round-168","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:23:06Z","settlement_score":124,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 数学家 =2 智力总分数为124 再次挑战 让好友也挑战一 1 最强大脑 516h36m 返回主界面","time":"2026-11-09T23:23:06Z","verified_moves":56,"verified_score":124}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-169","time":"2026-11-09T23:23:06Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-169","time":"2026-11-09T23:24:14Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-169","time":"2026-11-09T23:25:13Z"}
+{"event":"settled","plan_completed":true,"round":"round-169","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:25:16Z","settlement_score":109,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 软件工程师 智力总分数为109 再次挑战 让好友也挑战一 1 \/最强大脑 516h34m 返回主界面","time":"2026-11-09T23:25:16Z","verified_moves":50,"verified_score":109}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-170","time":"2026-11-09T23:25:16Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-170","time":"2026-11-09T23:26:27Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-170","time":"2026-11-09T23:27:24Z"}
+{"event":"settled","plan_completed":true,"round":"round-170","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:27:27Z","settlement_score":125,"settlement_text":"Ji 开.•• ◎ 128 本轮智力等级 工程师 智力总分数为125 再次挑战 让好友也挑战一 1 最强大脑 16h32m 返回主界面","time":"2026-11-09T23:27:27Z","verified_moves":56,"verified_score":125}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-171","time":"2026-11-09T23:27:27Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-171","time":"2026-11-09T23:28:44Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-171","time":"2026-11-09T23:29:34Z"}
+{"event":"settled","plan_completed":true,"round":"round-171","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:29:37Z","settlement_score":139,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为139 再次挑战 让好友也挑战一 1 最强大脑 S16h30m 返回主界面","time":"2026-11-09T23:29:37Z","verified_moves":66,"verified_score":139}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-172","time":"2026-11-09T23:29:37Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-172","time":"2026-11-09T23:30:56Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-172","time":"2026-11-09T23:31:45Z"}
+{"event":"settled","plan_completed":true,"round":"round-172","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:31:48Z","settlement_score":148,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为148 再次挑战 让好友也挑战一 1 \/最强大脑 16h28m 返回主界面","time":"2026-11-09T23:31:48Z","verified_moves":70,"verified_score":148}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-173","time":"2026-11-09T23:31:48Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-173","time":"2026-11-09T23:33:02Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-173","time":"2026-11-09T23:33:54Z"}
+{"event":"settled","plan_completed":true,"round":"round-173","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:33:57Z","settlement_score":141,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为141 再次挑战 让好友也挑战一 1 最强大脑 16h26m 返回主界面","time":"2026-11-09T23:33:57Z","verified_moves":64,"verified_score":141}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-174","time":"2026-11-09T23:33:57Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-174","time":"2026-11-09T23:35:16Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-174","time":"2026-11-09T23:36:03Z"}
+{"event":"settled","plan_completed":true,"round":"round-174","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:36:06Z","settlement_score":141,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为141 再次挑战 让好友也挑战一 1 \/最强大脑 16h23m 返回主界面","time":"2026-11-09T23:36:06Z","verified_moves":68,"verified_score":141}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-175","time":"2026-11-09T23:36:06Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-175","time":"2026-11-09T23:37:25Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-175","time":"2026-11-09T23:38:14Z"}
+{"event":"settled","plan_completed":true,"round":"round-175","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:38:17Z","settlement_score":146,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为146 再次挑战 让好友也挑战一 1 \/最强大脑 16h21m 返回主界面","time":"2026-11-09T23:38:17Z","verified_moves":69,"verified_score":146}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-176","time":"2026-11-09T23:38:17Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-176","time":"2026-11-09T23:39:38Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-176","time":"2026-11-09T23:40:23Z"}
+{"event":"settled","plan_completed":true,"round":"round-176","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:40:26Z","settlement_score":153,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 诺奖获得者 智力总分数为153 再次挑战 让好友也挑战一 1 \/最强大脑 S16h19m 返回主界面","time":"2026-11-09T23:40:26Z","verified_moves":73,"verified_score":153}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-177","time":"2026-11-09T23:40:26Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-177","time":"2026-11-09T23:41:43Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-177","time":"2026-11-09T23:42:32Z"}
+{"event":"settled","plan_completed":true,"round":"round-177","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:42:35Z","settlement_score":142,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为142 再次挑战 让好友也挑战一 1 \/最强大脑 S16h17m 返回主界面","time":"2026-11-09T23:42:35Z","verified_moves":66,"verified_score":142}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-178","time":"2026-11-09T23:42:35Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-178","time":"2026-11-09T23:43:52Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-178","time":"2026-11-09T23:44:41Z"}
+{"event":"settled","plan_completed":true,"round":"round-178","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:44:44Z","settlement_score":144,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为144 再次挑战 让好友也挑战一 1 \/最强大脑 S16h15m 返回主界面","time":"2026-11-09T23:44:44Z","verified_moves":65,"verified_score":144}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-179","time":"2026-11-09T23:44:44Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-179","time":"2026-11-09T23:46:02Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-179","time":"2026-11-09T23:46:51Z"}
+{"event":"settled","plan_completed":true,"round":"round-179","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:46:54Z","settlement_score":140,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为140 再次挑战 让好友也挑战一 1 \/最强大脑 S16h13m 返回主界面","time":"2026-11-09T23:46:54Z","verified_moves":66,"verified_score":140}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-180","time":"2026-11-09T23:46:54Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-180","time":"2026-11-09T23:48:10Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-180","time":"2026-11-09T23:49:00Z"}
+{"event":"settled","plan_completed":true,"round":"round-180","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:49:03Z","settlement_score":136,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 实验物理学家 智力总分数为136 再次挑战 让好友也挑战一 1 \/最强大脑 S16h11m 返回主界面","time":"2026-11-09T23:49:03Z","verified_moves":64,"verified_score":136}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-181","time":"2026-11-09T23:49:03Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-181","time":"2026-11-09T23:50:17Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-181","time":"2026-11-09T23:51:09Z"}
+{"event":"settled","plan_completed":true,"round":"round-181","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:51:13Z","settlement_score":131,"settlement_text":"JU 开.•• ◎ 128 本轮智力等级 宇航员 智力总分数为 131 再次挑战 让好友也挑战一 1 \/最强大脑 16h8m 返回主界面","time":"2026-11-09T23:51:13Z","verified_moves":62,"verified_score":131}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-182","time":"2026-11-09T23:51:13Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-182","time":"2026-11-09T23:52:29Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-182","time":"2026-11-09T23:53:19Z"}
+{"event":"settled","plan_completed":true,"round":"round-182","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:53:22Z","settlement_score":141,"settlement_text":"UU 开. ••• ◎ 128 本轮智力等级 理论物理学家 智力总分数为141 再次挑战 让好友也挑战一 1 最强大脑 16h6m 返回主界面","time":"2026-11-09T23:53:22Z","verified_moves":65,"verified_score":141}
+{"event":"click","label":"再次挑战","purpose":"start_next_round","round":"round-183","time":"2026-11-09T23:53:22Z","x":0.49857954427944207,"y":0.73841554568555523}
+{"event":"play_exited","exit_code":0,"round":"round-183","time":"2026-11-09T23:54:40Z"}
+{"event":"skip_settlement_animation","label":"点击任意位置跳过动画","round":"round-183","time":"2026-11-09T23:55:29Z"}
+{"event":"settled","plan_completed":true,"round":"round-183","score_confirmed":true,"score_matches_execution":true,"settled_at":"2026-11-09T23:55:33Z","settlement_score":149,"settlement_text":"JU 开. •• ◎ 128 本轮智力等级 科学院院士 智力总分数为149 再次挑战 让好友也挑战一 1 \/最强大脑 16h4m 返回主界面","time":"2026-11-09T23:55:33Z","verified_moves":70,"verified_score":149}
+{"best":159,"completed":183,"event":"session_finished","round":"round-183","time":"2026-11-09T23:55:33Z"}

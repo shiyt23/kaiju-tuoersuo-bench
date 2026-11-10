@@ -1,0 +1,11 @@
+{
+  "boards": 8,
+  "budget_seconds": 32,
+  "repair_mean": 137.75,
+  "fastrepair_mean": 137.75,
+  "wins": 0,
+  "ties": 8,
+  "losses": 0,
+  "mean_trial_ratio": 1.1056429552142601,
+  "decision": "启用插值版fastrepair：8组得分持平，候选路径数平均增加约10.6%；固定10000次搜索得到相同路径。"
+}

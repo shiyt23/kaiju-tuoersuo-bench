@@ -1,0 +1,182 @@
+{
+  "cases": 5,
+  "seeded_runs": 25,
+  "all_passed": true,
+  "rows": [
+    {
+      "case": 0,
+      "seed": 1,
+      "score": 2,
+      "seconds": 0.000992125,
+      "proven_optimal": true
+    },
+    {
+      "case": 0,
+      "seed": 2,
+      "score": 2,
+      "seconds": 0.000876833,
+      "proven_optimal": true
+    },
+    {
+      "case": 0,
+      "seed": 3,
+      "score": 2,
+      "seconds": 0.000642708,
+      "proven_optimal": true
+    },
+    {
+      "case": 0,
+      "seed": 4,
+      "score": 2,
+      "seconds": 0.00061275,
+      "proven_optimal": true
+    },
+    {
+      "case": 0,
+      "seed": 5,
+      "score": 2,
+      "seconds": 0.000551917,
+      "proven_optimal": true
+    },
+    {
+      "case": 1,
+      "seed": 1,
+      "score": 0,
+      "seconds": 0.250038,
+      "proven_optimal": false
+    },
+    {
+      "case": 1,
+      "seed": 2,
+      "score": 0,
+      "seconds": 0.25002,
+      "proven_optimal": false
+    },
+    {
+      "case": 1,
+      "seed": 3,
+      "score": 0,
+      "seconds": 0.250032,
+      "proven_optimal": false
+    },
+    {
+      "case": 1,
+      "seed": 4,
+      "score": 0,
+      "seconds": 0.250037,
+      "proven_optimal": false
+    },
+    {
+      "case": 1,
+      "seed": 5,
+      "score": 0,
+      "seconds": 0.25002,
+      "proven_optimal": false
+    },
+    {
+      "case": 2,
+      "seed": 1,
+      "score": 4,
+      "seconds": 0.000509125,
+      "proven_optimal": true
+    },
+    {
+      "case": 2,
+      "seed": 2,
+      "score": 4,
+      "seconds": 0.000504459,
+      "proven_optimal": true
+    },
+    {
+      "case": 2,
+      "seed": 3,
+      "score": 4,
+      "seconds": 0.000496791,
+      "proven_optimal": true
+    },
+    {
+      "case": 2,
+      "seed": 4,
+      "score": 4,
+      "seconds": 0.000499458,
+      "proven_optimal": true
+    },
+    {
+      "case": 2,
+      "seed": 5,
+      "score": 4,
+      "seconds": 0.000499666,
+      "proven_optimal": true
+    },
+    {
+      "case": 3,
+      "seed": 1,
+      "score": 0,
+      "seconds": 0.000483541,
+      "proven_optimal": true
+    },
+    {
+      "case": 3,
+      "seed": 2,
+      "score": 0,
+      "seconds": 0.000553167,
+      "proven_optimal": true
+    },
+    {
+      "case": 3,
+      "seed": 3,
+      "score": 0,
+      "seconds": 0.0004985,
+      "proven_optimal": true
+    },
+    {
+      "case": 3,
+      "seed": 4,
+      "score": 0,
+      "seconds": 0.000590667,
+      "proven_optimal": true
+    },
+    {
+      "case": 3,
+      "seed": 5,
+      "score": 0,
+      "seconds": 0.000663667,
+      "proven_optimal": true
+    },
+    {
+      "case": 4,
+      "seed": 1,
+      "score": 0,
+      "seconds": 0.000649625,
+      "proven_optimal": true
+    },
+    {
+      "case": 4,
+      "seed": 2,
+      "score": 0,
+      "seconds": 0.000490333,
+      "proven_optimal": true
+    },
+    {
+      "case": 4,
+      "seed": 3,
+      "score": 0,
+      "seconds": 0.000647,
+      "proven_optimal": true
+    },
+    {
+      "case": 4,
+      "seed": 4,
+      "score": 0,
+      "seconds": 0.000689584,
+      "proven_optimal": true
+    },
+    {
+      "case": 4,
+      "seed": 5,
+      "score": 0,
+      "seconds": 0.000659291,
+      "proven_optimal": true
+    }
+  ]
+}

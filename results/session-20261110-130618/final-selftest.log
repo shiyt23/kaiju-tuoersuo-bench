@@ -1,0 +1,7 @@
+Solver checks passed.
+Synthetic Vision OCR check passed (16/16 digits, 0.19 seconds).
+Synthetic Vision OCR check passed (160/160 digits, 0.37 seconds).
+Planner checks passed: 30 exhaustive move-set comparisons and invalid-plan rejection.
+Checkpoint checks passed: applied/unapplied action recovery, idempotence, unexpected-board rejection, and malformed-board rejection.
+Real screenshot regressions passed: 320/320 cells.
+Sparse-board OCR and paper-occupancy regression passed.

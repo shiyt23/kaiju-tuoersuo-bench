@@ -1,0 +1,10 @@
+{
+  "boards": 8,
+  "all_independently_validated": true,
+  "budget_seconds": 32,
+  "baseline_mean": 135.5,
+  "repair_mean": 137.25,
+  "wins": 5,
+  "ties": 3,
+  "losses": 0
+}

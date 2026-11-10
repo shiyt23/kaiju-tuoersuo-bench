@@ -1,0 +1,11 @@
+{
+  "boards": 8,
+  "budget_seconds": 32,
+  "repair_mean": 136.25,
+  "fastrepair_mean": 135.75,
+  "wins": 3,
+  "ties": 1,
+  "losses": 4,
+  "mean_trial_ratio": 1.1272071794446454,
+  "decision": "暂不启用，尝试保留原随机数序列的插值实现后重新对照。"
+}

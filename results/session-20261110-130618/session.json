@@ -1,0 +1,18 @@
+{
+  "started_at": "2026-11-10T05:06:18Z",
+  "minimum_end_at": "2026-11-10T05:52:14Z",
+  "minimum_duration_seconds": 2756,
+  "search_budget_seconds": 60,
+  "target": 160,
+  "status": "completed",
+  "previous_best_verified_score": 159,
+  "authorization": "持续40分钟冲击160分；允许自主调整搜索预算、优化算法；开始观看3次广告并关闭领奖。",
+  "requested_restart_at": "2026-11-10T05:12:14Z",
+  "search_policy": "Skip boards failing sound necessary full-clear conditions; search eligible boards for up to 60 seconds.",
+  "finished_at": "2026-11-10T05:52:16Z",
+  "actual_duration_seconds": 2758,
+  "actual_seconds_since_restart": 2402,
+  "controller_exit_code": 0,
+  "best_fully_verified_score": 155,
+  "full_clear_achieved": false
+}

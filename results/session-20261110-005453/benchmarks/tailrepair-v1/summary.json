@@ -1,0 +1,10 @@
+{
+  "boards": 6,
+  "budget_seconds": 32,
+  "fastrepair_mean": 144.66666666666666,
+  "tailrepair_mean": 146.5,
+  "wins": 3,
+  "ties": 1,
+  "losses": 2,
+  "decision": "作为并行组合中的部分候选策略，继续测试；不单独替换全部实战搜索。"
+}

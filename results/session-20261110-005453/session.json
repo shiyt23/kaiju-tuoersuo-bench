@@ -1,0 +1,15 @@
+{
+  "started_at": "2026-11-09T16:54:53Z",
+  "minimum_end_at": "2026-11-09T23:54:53Z",
+  "minimum_duration_seconds": 25200,
+  "search_budget_seconds": 32,
+  "target": 150,
+  "status": "completed",
+  "previous_best_verified_score": 146,
+  "authorization": "用户将连续挑战延长至至少7小时；无限挑战到期后看3次广告并关闭领取奖励；每局留痕；可优化策略。",
+  "finished_at": "2026-11-09T23:55:33Z",
+  "actual_duration_seconds": 25240,
+  "controller_exit_code": 0,
+  "rounds_settled": 183,
+  "best_fully_verified_score": 159
+}

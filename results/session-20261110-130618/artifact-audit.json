@@ -1,0 +1,50 @@
+{
+  "checked_at": "2026-11-10T05:53:40Z",
+  "rounds_seen": 79,
+  "settled_rounds_checked": 7,
+  "required_files_per_settled_round": [
+    "execution.log",
+    "settlement.png",
+    "settlement.ocr.json",
+    "result.json"
+  ],
+  "fully_verified_rounds_checked": 6,
+  "required_files_per_verified_round": [
+    "initial-board.txt",
+    "initial.png",
+    "plan.json",
+    "checkpoint.json",
+    "execution.log",
+    "settlement.png",
+    "result.json"
+  ],
+  "intentionally_skipped_rounds_checked": 72,
+  "independently_verified_skip_obstructions": {
+    "digit_sum_not_divisible_by_ten": 59,
+    "digit_sum_exceeds_pair_capacity": 31,
+    "not_enough_ones_for_nines": 28,
+    "not_enough_complements_for_sevens": 1,
+    "insufficient_small_digit_sum_3": 3,
+    "insufficient_small_digit_sum_4": 3,
+    "too_few_tiles_after_pair_cancellation": 4,
+    "not_enough_complements_for_eights": 3,
+    "insufficient_small_digit_sum_2": 3
+  },
+  "search_budget_restart_plans_checked": 1,
+  "unverified_settlements": [
+    {
+      "round": "round-001",
+      "score": 0,
+      "errors": [
+        "Error: Game is no longer foreground or its window moved; stopping mouse input."
+      ]
+    }
+  ],
+  "empty_round_directories": [
+
+  ],
+  "issues": [
+
+  ],
+  "passed": true
+}

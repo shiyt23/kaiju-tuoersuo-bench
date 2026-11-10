@@ -1,0 +1,8 @@
+{
+  "verified_at": "2026-11-09T21:22:57Z",
+  "initial_cells": 160,
+  "initial_digit_sum": 748,
+  "score_upper_bound": 159,
+  "verified_score": 159,
+  "reason": "Every move removes digit sum ten; the initial sum is not divisible by ten, so at least one tile must remain. The verified 159-point path attains this bound."
+}

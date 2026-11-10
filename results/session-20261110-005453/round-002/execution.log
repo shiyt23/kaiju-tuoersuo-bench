@@ -1,0 +1,5 @@
+Error: Observed board differs from expected board; stopping rather than clicking with stale data.
+Recognized 160 digits. Searching for at least 150 points...
+Validated plan: 145 points, 66 moves, 124102 search trials in 8.00 seconds.
+Executing verified plan. Switching to another application stops mouse input.
+Error: Game is no longer foreground or its window moved; stopping mouse input.

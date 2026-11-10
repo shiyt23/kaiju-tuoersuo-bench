@@ -1,0 +1,19 @@
+{
+  "recorded_at": "2026-11-09T23:57:24Z",
+  "strategy": "portfolio8",
+  "search_budget_seconds": 32,
+  "files": {
+    "Solver.cpp": "8124b5cd4d38942216bd7a46654a3d7ac8e88b3712d30a846d22ea6fa3af8dce",
+    "Planner.swift": "580cff0a45d76dc1f47c3242579f0258cafa049f92400be5693a27e2e7df435d",
+    "GameRun.swift": "0d1814f9d8447bacdf30ec20937737d7f53560001e740e0dd5cd9dcb347e51a9",
+    "GameAssistant.swift": "a7b1671608ee9baeadf30aa7d24ceedec09fab2917e92f19934c62f557cbc4ab",
+    "BoardVerification.swift": "10e6574c5fd31f313ed9ac2d3ec2a64af5c31cdbbd95b1f480693716f85e5a03",
+    "Session.swift": "e22952ff2d7cac36eb558a746db41485523b4fc60e75ef2f7601d7d76cf6ae32",
+    "build.sh": "d861f6b32361ff32467e43dc57372f19d448b0ba799038f2e13d7ac67d69d4f5",
+    "report.rb": "608324341f79b952d0e8253359bc6274f4b9f96c3667b6cb09450ce7ce606774",
+    "audit.rb": "240557daeec259898059baffc2d0882429e621c0c99f3aaf06bf944599106bda",
+    "README.md": "0137ede7394d7602e284cc0f3b2b5413e90daccf9bf9bd81cacbb3faa1bbfb98",
+    "Solver": "46df78756b4bf3f271614bdf6fbf875c6b78afe992a3dc1dcae28f9dd2797573",
+    "GameAssistant": "061cecea7ac49a1e5b5d0a2c64ee93daaeb0a4dba97ee380bf8d1103317ea006"
+  }
+}

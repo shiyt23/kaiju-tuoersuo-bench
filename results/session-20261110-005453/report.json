@@ -1,0 +1,3346 @@
+{
+  "updated_at": "2026-11-09T23:55:53Z",
+  "rounds_started": 183,
+  "rounds_settled": 183,
+  "fully_verified_rounds": 179,
+  "best_fully_verified_score": 159,
+  "best_rounds": [
+    "round-113"
+  ],
+  "scores_above_123": 149,
+  "requested_duration_seconds": 25200,
+  "observed_duration_seconds": 25240,
+  "minimum_end_at": "2026-11-09T23:54:53Z",
+  "finished_at": "2026-11-09T23:55:33Z",
+  "completed_rewarded_ads": 9,
+  "unlimited_renewals": [
+    {
+      "event": "unlimited_renewed",
+      "evidence": "results/session-20261110-005453/ads/renew-1794248607",
+      "remaining_seconds": 7197,
+      "round": "round-036",
+      "time": "2026-11-09T18:25:29Z"
+    },
+    {
+      "event": "unlimited_renewed",
+      "evidence": "results/session-20261110-005453/ads/renew-1794256006",
+      "remaining_seconds": 7197,
+      "round": "round-089",
+      "time": "2026-11-09T20:28:46Z"
+    },
+    {
+      "event": "unlimited_renewed",
+      "evidence": "results/session-20261110-005453/ads/renew-1794263329",
+      "remaining_seconds": 7197,
+      "round": "round-144",
+      "time": "2026-11-09T22:31:11Z"
+    }
+  ],
+  "mean_fully_verified_score": 136.46,
+  "current_state": {
+    "best_since_start": 159,
+    "completed_since_start": 183,
+    "current_round": "results/session-20261110-005453/round-183",
+    "next_index": 184,
+    "status": "completed",
+    "until_epoch": 1794268493,
+    "updated_at": "2026-11-09T23:55:33Z"
+  },
+  "rounds": [
+    {
+      "round": "round-001",
+      "started_at": null,
+      "strategy": "baseline",
+      "seed": null,
+      "search_seconds": null,
+      "planned_score": null,
+      "verified_score": null,
+      "verified_moves": null,
+      "plan_completed": false,
+      "settlement_score": 0,
+      "settled_at": "2026-11-09T16:58:51Z",
+      "fully_verified": false,
+      "errors": [
+        "Error: Initial grid was not completely recognized (0/160). Start on a full board and check grid bounds."
+      ],
+      "evidence": "round-001/settlement.png"
+    },
+    {
+      "round": "round-002",
+      "started_at": "2026-11-09T16:58:51Z",
+      "strategy": "baseline",
+      "seed": 102,
+      "search_seconds": 8.00003,
+      "planned_score": 145,
+      "verified_score": 0,
+      "verified_moves": 0,
+      "plan_completed": false,
+      "settlement_score": 0,
+      "settled_at": "2026-11-09T17:01:55Z",
+      "fully_verified": false,
+      "errors": [
+        "Error: Observed board differs from expected board; stopping rather than clicking with stale data.",
+        "Error: Game is no longer foreground or its window moved; stopping mouse input."
+      ],
+      "evidence": "round-002/settlement.png"
+    },
+    {
+      "round": "round-003",
+      "started_at": "2026-11-09T17:01:55Z",
+      "strategy": "baseline",
+      "seed": 103,
+      "search_seconds": 32.0001,
+      "planned_score": 124,
+      "verified_score": 124,
+      "verified_moves": 56,
+      "plan_completed": true,
+      "settlement_score": 124,
+      "settled_at": "2026-11-09T17:04:04Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-003/settlement.png"
+    },
+    {
+      "round": "round-004",
+      "started_at": "2026-11-09T17:04:04Z",
+      "strategy": "baseline",
+      "seed": 104,
+      "search_seconds": 32.0001,
+      "planned_score": 135,
+      "verified_score": 135,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 135,
+      "settled_at": "2026-11-09T17:06:14Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-004/settlement.png"
+    },
+    {
+      "round": "round-005",
+      "started_at": "2026-11-09T17:06:14Z",
+      "strategy": "baseline",
+      "seed": 105,
+      "search_seconds": 32,
+      "planned_score": 139,
+      "verified_score": 139,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 139,
+      "settled_at": "2026-11-09T17:08:25Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-005/settlement.png"
+    },
+    {
+      "round": "round-006",
+      "started_at": "2026-11-09T17:08:25Z",
+      "strategy": "baseline",
+      "seed": 106,
+      "search_seconds": 32.0001,
+      "planned_score": 125,
+      "verified_score": 125,
+      "verified_moves": 55,
+      "plan_completed": true,
+      "settlement_score": 125,
+      "settled_at": "2026-11-09T17:10:35Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-006/settlement.png"
+    },
+    {
+      "round": "round-007",
+      "started_at": "2026-11-09T17:10:35Z",
+      "strategy": "baseline",
+      "seed": 107,
+      "search_seconds": 32,
+      "planned_score": 124,
+      "verified_score": 124,
+      "verified_moves": 58,
+      "plan_completed": true,
+      "settlement_score": 124,
+      "settled_at": "2026-11-09T17:12:46Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-007/settlement.png"
+    },
+    {
+      "round": "round-008",
+      "started_at": "2026-11-09T17:12:46Z",
+      "strategy": "baseline",
+      "seed": 108,
+      "search_seconds": 32,
+      "planned_score": 138,
+      "verified_score": 138,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 138,
+      "settled_at": "2026-11-09T17:14:55Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-008/settlement.png"
+    },
+    {
+      "round": "round-009",
+      "started_at": "2026-11-09T17:14:55Z",
+      "strategy": "repair",
+      "seed": 109,
+      "search_seconds": 32.0001,
+      "planned_score": 141,
+      "verified_score": 141,
+      "verified_moves": 66,
+      "plan_completed": true,
+      "settlement_score": 141,
+      "settled_at": "2026-11-09T17:17:05Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-009/settlement.png"
+    },
+    {
+      "round": "round-010",
+      "started_at": "2026-11-09T17:17:05Z",
+      "strategy": "repair",
+      "seed": 110,
+      "search_seconds": 32.0001,
+      "planned_score": 144,
+      "verified_score": 144,
+      "verified_moves": 68,
+      "plan_completed": true,
+      "settlement_score": 144,
+      "settled_at": "2026-11-09T17:19:14Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-010/settlement.png"
+    },
+    {
+      "round": "round-011",
+      "started_at": "2026-11-09T17:19:14Z",
+      "strategy": "repair",
+      "seed": 111,
+      "search_seconds": 32,
+      "planned_score": 134,
+      "verified_score": 134,
+      "verified_moves": 61,
+      "plan_completed": true,
+      "settlement_score": 134,
+      "settled_at": "2026-11-09T17:21:23Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-011/settlement.png"
+    },
+    {
+      "round": "round-012",
+      "started_at": "2026-11-09T17:21:23Z",
+      "strategy": "repair",
+      "seed": 112,
+      "search_seconds": 32,
+      "planned_score": 121,
+      "verified_score": 121,
+      "verified_moves": 53,
+      "plan_completed": true,
+      "settlement_score": 121,
+      "settled_at": "2026-11-09T17:23:32Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-012/settlement.png"
+    },
+    {
+      "round": "round-013",
+      "started_at": "2026-11-09T17:23:32Z",
+      "strategy": "repair",
+      "seed": 113,
+      "search_seconds": 32.0001,
+      "planned_score": 120,
+      "verified_score": 120,
+      "verified_moves": 53,
+      "plan_completed": true,
+      "settlement_score": 120,
+      "settled_at": "2026-11-09T17:25:41Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-013/settlement.png"
+    },
+    {
+      "round": "round-014",
+      "started_at": "2026-11-09T17:25:41Z",
+      "strategy": "repair",
+      "seed": 114,
+      "search_seconds": 32,
+      "planned_score": 133,
+      "verified_score": 133,
+      "verified_moves": 60,
+      "plan_completed": true,
+      "settlement_score": 133,
+      "settled_at": "2026-11-09T17:27:50Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-014/settlement.png"
+    },
+    {
+      "round": "round-015",
+      "started_at": "2026-11-09T17:27:50Z",
+      "strategy": "repair",
+      "seed": 115,
+      "search_seconds": 32.0001,
+      "planned_score": 147,
+      "verified_score": 147,
+      "verified_moves": 67,
+      "plan_completed": true,
+      "settlement_score": 147,
+      "settled_at": "2026-11-09T17:32:42Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-015/settlement.png"
+    },
+    {
+      "round": "round-016",
+      "started_at": "2026-11-09T17:32:42Z",
+      "strategy": "repair",
+      "seed": 116,
+      "search_seconds": 32,
+      "planned_score": 139,
+      "verified_score": 139,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 139,
+      "settled_at": "2026-11-09T17:34:53Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-016/settlement.png"
+    },
+    {
+      "round": "round-017",
+      "started_at": "2026-11-09T17:34:53Z",
+      "strategy": "repair",
+      "seed": 117,
+      "search_seconds": 32,
+      "planned_score": 149,
+      "verified_score": 149,
+      "verified_moves": 68,
+      "plan_completed": true,
+      "settlement_score": 149,
+      "settled_at": "2026-11-09T17:37:14Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-017/settlement.png"
+    },
+    {
+      "round": "round-018",
+      "started_at": "2026-11-09T17:37:14Z",
+      "strategy": "repair",
+      "seed": 118,
+      "search_seconds": 32,
+      "planned_score": 122,
+      "verified_score": 122,
+      "verified_moves": 57,
+      "plan_completed": true,
+      "settlement_score": 122,
+      "settled_at": "2026-11-09T17:39:24Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-018/settlement.png"
+    },
+    {
+      "round": "round-019",
+      "started_at": "2026-11-09T17:39:24Z",
+      "strategy": "repair",
+      "seed": 119,
+      "search_seconds": 32,
+      "planned_score": 142,
+      "verified_score": 142,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 142,
+      "settled_at": "2026-11-09T17:41:34Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-019/settlement.png"
+    },
+    {
+      "round": "round-020",
+      "started_at": "2026-11-09T17:41:34Z",
+      "strategy": "repair",
+      "seed": 120,
+      "search_seconds": 32,
+      "planned_score": 128,
+      "verified_score": 128,
+      "verified_moves": 59,
+      "plan_completed": true,
+      "settlement_score": 128,
+      "settled_at": "2026-11-09T17:43:44Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-020/settlement.png"
+    },
+    {
+      "round": "round-021",
+      "started_at": "2026-11-09T17:43:44Z",
+      "strategy": "repair",
+      "seed": 121,
+      "search_seconds": 32,
+      "planned_score": 149,
+      "verified_score": 149,
+      "verified_moves": 72,
+      "plan_completed": true,
+      "settlement_score": 149,
+      "settled_at": "2026-11-09T17:45:55Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-021/settlement.png"
+    },
+    {
+      "round": "round-022",
+      "started_at": "2026-11-09T17:45:55Z",
+      "strategy": "repair",
+      "seed": 122,
+      "search_seconds": 32,
+      "planned_score": 118,
+      "verified_score": 118,
+      "verified_moves": 53,
+      "plan_completed": true,
+      "settlement_score": 118,
+      "settled_at": "2026-11-09T17:48:05Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-022/settlement.png"
+    },
+    {
+      "round": "round-023",
+      "started_at": "2026-11-09T17:48:05Z",
+      "strategy": "repair",
+      "seed": 123,
+      "search_seconds": 32.0001,
+      "planned_score": 139,
+      "verified_score": 139,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 139,
+      "settled_at": "2026-11-09T17:50:15Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-023/settlement.png"
+    },
+    {
+      "round": "round-024",
+      "started_at": "2026-11-09T17:50:15Z",
+      "strategy": "repair",
+      "seed": 124,
+      "search_seconds": 32,
+      "planned_score": 133,
+      "verified_score": 133,
+      "verified_moves": 61,
+      "plan_completed": true,
+      "settlement_score": 133,
+      "settled_at": "2026-11-09T17:52:24Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-024/settlement.png"
+    },
+    {
+      "round": "round-025",
+      "started_at": "2026-11-09T17:52:24Z",
+      "strategy": "repair",
+      "seed": 125,
+      "search_seconds": 32.0001,
+      "planned_score": 131,
+      "verified_score": 131,
+      "verified_moves": 59,
+      "plan_completed": true,
+      "settlement_score": 131,
+      "settled_at": "2026-11-09T17:54:33Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-025/settlement.png"
+    },
+    {
+      "round": "round-026",
+      "started_at": "2026-11-09T17:54:33Z",
+      "strategy": "repair",
+      "seed": 126,
+      "search_seconds": 32.0001,
+      "planned_score": 139,
+      "verified_score": 139,
+      "verified_moves": 66,
+      "plan_completed": true,
+      "settlement_score": 139,
+      "settled_at": "2026-11-09T17:56:42Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-026/settlement.png"
+    },
+    {
+      "round": "round-027",
+      "started_at": "2026-11-09T17:56:42Z",
+      "strategy": "repair",
+      "seed": 127,
+      "search_seconds": 32,
+      "planned_score": 133,
+      "verified_score": 133,
+      "verified_moves": 61,
+      "plan_completed": true,
+      "settlement_score": 133,
+      "settled_at": "2026-11-09T17:58:51Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-027/settlement.png"
+    },
+    {
+      "round": "round-028",
+      "started_at": "2026-11-09T17:58:51Z",
+      "strategy": "repair",
+      "seed": 128,
+      "search_seconds": 32,
+      "planned_score": 145,
+      "verified_score": 145,
+      "verified_moves": 67,
+      "plan_completed": true,
+      "settlement_score": 145,
+      "settled_at": "2026-11-09T18:02:39Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-028/settlement.png"
+    },
+    {
+      "round": "round-029",
+      "started_at": "2026-11-09T18:02:39Z",
+      "strategy": "fastrepair",
+      "seed": 129,
+      "search_seconds": 32.0001,
+      "planned_score": 125,
+      "verified_score": 125,
+      "verified_moves": 57,
+      "plan_completed": true,
+      "settlement_score": 125,
+      "settled_at": "2026-11-09T18:04:48Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-029/settlement.png"
+    },
+    {
+      "round": "round-030",
+      "started_at": "2026-11-09T18:04:48Z",
+      "strategy": "fastrepair",
+      "seed": 130,
+      "search_seconds": 32.0001,
+      "planned_score": 149,
+      "verified_score": 149,
+      "verified_moves": 70,
+      "plan_completed": true,
+      "settlement_score": 149,
+      "settled_at": "2026-11-09T18:06:59Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-030/settlement.png"
+    },
+    {
+      "round": "round-031",
+      "started_at": "2026-11-09T18:06:59Z",
+      "strategy": "fastrepair",
+      "seed": 131,
+      "search_seconds": 32,
+      "planned_score": 121,
+      "verified_score": 121,
+      "verified_moves": 57,
+      "plan_completed": true,
+      "settlement_score": 121,
+      "settled_at": "2026-11-09T18:09:10Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-031/settlement.png"
+    },
+    {
+      "round": "round-032",
+      "started_at": "2026-11-09T18:09:10Z",
+      "strategy": "fastrepair",
+      "seed": 132,
+      "search_seconds": 32.0001,
+      "planned_score": 123,
+      "verified_score": 123,
+      "verified_moves": 57,
+      "plan_completed": true,
+      "settlement_score": 123,
+      "settled_at": "2026-11-09T18:11:20Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-032/settlement.png"
+    },
+    {
+      "round": "round-033",
+      "started_at": "2026-11-09T18:11:20Z",
+      "strategy": "fastrepair",
+      "seed": 133,
+      "search_seconds": 32.0001,
+      "planned_score": 148,
+      "verified_score": 148,
+      "verified_moves": 67,
+      "plan_completed": true,
+      "settlement_score": 148,
+      "settled_at": "2026-11-09T18:13:29Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-033/settlement.png"
+    },
+    {
+      "round": "round-034",
+      "started_at": "2026-11-09T18:13:29Z",
+      "strategy": "fastrepair",
+      "seed": 134,
+      "search_seconds": 32.0001,
+      "planned_score": 127,
+      "verified_score": 127,
+      "verified_moves": 58,
+      "plan_completed": true,
+      "settlement_score": 127,
+      "settled_at": "2026-11-09T18:15:39Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-034/settlement.png"
+    },
+    {
+      "round": "round-035",
+      "started_at": "2026-11-09T18:15:39Z",
+      "strategy": "fastrepair",
+      "seed": 135,
+      "search_seconds": 32,
+      "planned_score": 145,
+      "verified_score": 145,
+      "verified_moves": 68,
+      "plan_completed": true,
+      "settlement_score": 145,
+      "settled_at": "2026-11-09T18:17:49Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-035/settlement.png"
+    },
+    {
+      "round": "round-036",
+      "started_at": "2026-11-09T18:17:49Z",
+      "strategy": "fastrepair",
+      "seed": 136,
+      "search_seconds": 32.0001,
+      "planned_score": 116,
+      "verified_score": 116,
+      "verified_moves": 53,
+      "plan_completed": true,
+      "settlement_score": 116,
+      "settled_at": "2026-11-09T18:19:58Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-036/settlement.png"
+    },
+    {
+      "round": "round-037",
+      "started_at": "2026-11-09T18:25:29Z",
+      "strategy": "fastrepair",
+      "seed": 137,
+      "search_seconds": 32.0001,
+      "planned_score": 122,
+      "verified_score": 122,
+      "verified_moves": 55,
+      "plan_completed": true,
+      "settlement_score": 122,
+      "settled_at": "2026-11-09T18:27:37Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-037/settlement.png"
+    },
+    {
+      "round": "round-038",
+      "started_at": "2026-11-09T18:27:37Z",
+      "strategy": "fastrepair",
+      "seed": 138,
+      "search_seconds": 32,
+      "planned_score": 138,
+      "verified_score": 138,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 138,
+      "settled_at": "2026-11-09T18:29:48Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-038/settlement.png"
+    },
+    {
+      "round": "round-039",
+      "started_at": "2026-11-09T18:30:44Z",
+      "strategy": "portfolio",
+      "seed": 139,
+      "search_seconds": 31.9501,
+      "planned_score": 123,
+      "verified_score": 123,
+      "verified_moves": 56,
+      "plan_completed": true,
+      "settlement_score": 123,
+      "settled_at": "2026-11-09T18:32:55Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-039/settlement.png"
+    },
+    {
+      "round": "round-040",
+      "started_at": "2026-11-09T18:32:55Z",
+      "strategy": "portfolio",
+      "seed": 140,
+      "search_seconds": 31.9501,
+      "planned_score": 115,
+      "verified_score": 115,
+      "verified_moves": 51,
+      "plan_completed": true,
+      "settlement_score": 115,
+      "settled_at": "2026-11-09T18:35:06Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-040/settlement.png"
+    },
+    {
+      "round": "round-041",
+      "started_at": "2026-11-09T18:35:06Z",
+      "strategy": "portfolio",
+      "seed": 141,
+      "search_seconds": 31.9501,
+      "planned_score": 138,
+      "verified_score": 138,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 138,
+      "settled_at": "2026-11-09T18:37:16Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-041/settlement.png"
+    },
+    {
+      "round": "round-042",
+      "started_at": "2026-11-09T18:37:16Z",
+      "strategy": "portfolio",
+      "seed": 142,
+      "search_seconds": 31.9501,
+      "planned_score": 121,
+      "verified_score": 121,
+      "verified_moves": 56,
+      "plan_completed": true,
+      "settlement_score": 121,
+      "settled_at": "2026-11-09T18:39:25Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-042/settlement.png"
+    },
+    {
+      "round": "round-043",
+      "started_at": "2026-11-09T18:39:25Z",
+      "strategy": "portfolio",
+      "seed": 143,
+      "search_seconds": 31.9503,
+      "planned_score": 145,
+      "verified_score": 145,
+      "verified_moves": 67,
+      "plan_completed": true,
+      "settlement_score": 145,
+      "settled_at": "2026-11-09T18:41:35Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-043/settlement.png"
+    },
+    {
+      "round": "round-044",
+      "started_at": "2026-11-09T18:41:35Z",
+      "strategy": "portfolio",
+      "seed": 144,
+      "search_seconds": 31.9501,
+      "planned_score": 130,
+      "verified_score": 130,
+      "verified_moves": 59,
+      "plan_completed": true,
+      "settlement_score": 130,
+      "settled_at": "2026-11-09T18:43:46Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-044/settlement.png"
+    },
+    {
+      "round": "round-045",
+      "started_at": "2026-11-09T18:43:46Z",
+      "strategy": "portfolio",
+      "seed": 145,
+      "search_seconds": 31.9501,
+      "planned_score": 136,
+      "verified_score": 136,
+      "verified_moves": 63,
+      "plan_completed": true,
+      "settlement_score": 136,
+      "settled_at": "2026-11-09T18:45:55Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-045/settlement.png"
+    },
+    {
+      "round": "round-046",
+      "started_at": "2026-11-09T18:45:55Z",
+      "strategy": "portfolio",
+      "seed": 146,
+      "search_seconds": 31.9501,
+      "planned_score": 131,
+      "verified_score": 131,
+      "verified_moves": 61,
+      "plan_completed": true,
+      "settlement_score": 131,
+      "settled_at": "2026-11-09T18:48:04Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-046/settlement.png"
+    },
+    {
+      "round": "round-047",
+      "started_at": "2026-11-09T18:48:04Z",
+      "strategy": "portfolio",
+      "seed": 147,
+      "search_seconds": 31.9526,
+      "planned_score": 147,
+      "verified_score": 147,
+      "verified_moves": 67,
+      "plan_completed": true,
+      "settlement_score": 147,
+      "settled_at": "2026-11-09T18:50:14Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-047/settlement.png"
+    },
+    {
+      "round": "round-048",
+      "started_at": "2026-11-09T18:50:14Z",
+      "strategy": "portfolio",
+      "seed": 148,
+      "search_seconds": 31.9501,
+      "planned_score": 138,
+      "verified_score": 138,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 138,
+      "settled_at": "2026-11-09T18:52:24Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-048/settlement.png"
+    },
+    {
+      "round": "round-049",
+      "started_at": "2026-11-09T18:52:24Z",
+      "strategy": "portfolio",
+      "seed": 149,
+      "search_seconds": 31.9501,
+      "planned_score": 118,
+      "verified_score": 118,
+      "verified_moves": 53,
+      "plan_completed": true,
+      "settlement_score": 118,
+      "settled_at": "2026-11-09T18:54:33Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-049/settlement.png"
+    },
+    {
+      "round": "round-050",
+      "started_at": "2026-11-09T18:54:33Z",
+      "strategy": "portfolio",
+      "seed": 150,
+      "search_seconds": 31.9501,
+      "planned_score": 113,
+      "verified_score": 113,
+      "verified_moves": 49,
+      "plan_completed": true,
+      "settlement_score": 113,
+      "settled_at": "2026-11-09T18:56:42Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-050/settlement.png"
+    },
+    {
+      "round": "round-051",
+      "started_at": "2026-11-09T18:56:42Z",
+      "strategy": "portfolio",
+      "seed": 151,
+      "search_seconds": 31.9501,
+      "planned_score": 120,
+      "verified_score": 120,
+      "verified_moves": 54,
+      "plan_completed": true,
+      "settlement_score": 120,
+      "settled_at": "2026-11-09T18:58:52Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-051/settlement.png"
+    },
+    {
+      "round": "round-052",
+      "started_at": "2026-11-09T18:58:52Z",
+      "strategy": "portfolio",
+      "seed": 152,
+      "search_seconds": 31.9501,
+      "planned_score": 127,
+      "verified_score": 127,
+      "verified_moves": 57,
+      "plan_completed": true,
+      "settlement_score": 127,
+      "settled_at": "2026-11-09T19:01:02Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-052/settlement.png"
+    },
+    {
+      "round": "round-053",
+      "started_at": "2026-11-09T19:01:02Z",
+      "strategy": "portfolio",
+      "seed": 153,
+      "search_seconds": 31.9501,
+      "planned_score": 135,
+      "verified_score": 135,
+      "verified_moves": 60,
+      "plan_completed": true,
+      "settlement_score": 135,
+      "settled_at": "2026-11-09T19:03:12Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-053/settlement.png"
+    },
+    {
+      "round": "round-054",
+      "started_at": "2026-11-09T19:03:12Z",
+      "strategy": "portfolio",
+      "seed": 154,
+      "search_seconds": 31.9505,
+      "planned_score": 146,
+      "verified_score": 146,
+      "verified_moves": 69,
+      "plan_completed": true,
+      "settlement_score": 146,
+      "settled_at": "2026-11-09T19:05:21Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-054/settlement.png"
+    },
+    {
+      "round": "round-055",
+      "started_at": "2026-11-09T19:05:21Z",
+      "strategy": "portfolio",
+      "seed": 155,
+      "search_seconds": 31.9501,
+      "planned_score": 124,
+      "verified_score": 124,
+      "verified_moves": 58,
+      "plan_completed": true,
+      "settlement_score": 124,
+      "settled_at": "2026-11-09T19:07:31Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-055/settlement.png"
+    },
+    {
+      "round": "round-056",
+      "started_at": "2026-11-09T19:07:31Z",
+      "strategy": "portfolio",
+      "seed": 156,
+      "search_seconds": 31.9521,
+      "planned_score": 149,
+      "verified_score": 149,
+      "verified_moves": 70,
+      "plan_completed": true,
+      "settlement_score": 149,
+      "settled_at": "2026-11-09T19:09:41Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-056/settlement.png"
+    },
+    {
+      "round": "round-057",
+      "started_at": "2026-11-09T19:09:41Z",
+      "strategy": "portfolio",
+      "seed": 157,
+      "search_seconds": 31.9501,
+      "planned_score": 135,
+      "verified_score": 135,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 135,
+      "settled_at": "2026-11-09T19:11:51Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-057/settlement.png"
+    },
+    {
+      "round": "round-058",
+      "started_at": "2026-11-09T19:11:51Z",
+      "strategy": "portfolio",
+      "seed": 158,
+      "search_seconds": 31.9501,
+      "planned_score": 139,
+      "verified_score": 139,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 139,
+      "settled_at": "2026-11-09T19:14:00Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-058/settlement.png"
+    },
+    {
+      "round": "round-059",
+      "started_at": "2026-11-09T19:14:00Z",
+      "strategy": "portfolio",
+      "seed": 159,
+      "search_seconds": 31.9555,
+      "planned_score": 156,
+      "verified_score": 156,
+      "verified_moves": 74,
+      "plan_completed": true,
+      "settlement_score": 156,
+      "settled_at": "2026-11-09T19:17:36Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-059/settlement.png"
+    },
+    {
+      "round": "round-060",
+      "started_at": "2026-11-09T19:17:36Z",
+      "strategy": "portfolio",
+      "seed": 160,
+      "search_seconds": 31.9501,
+      "planned_score": 119,
+      "verified_score": 119,
+      "verified_moves": 54,
+      "plan_completed": true,
+      "settlement_score": 119,
+      "settled_at": "2026-11-09T19:19:46Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-060/settlement.png"
+    },
+    {
+      "round": "round-061",
+      "started_at": "2026-11-09T19:19:59Z",
+      "strategy": "portfolio",
+      "seed": 161,
+      "search_seconds": 31.9501,
+      "planned_score": 115,
+      "verified_score": 115,
+      "verified_moves": 52,
+      "plan_completed": true,
+      "settlement_score": 115,
+      "settled_at": "2026-11-09T19:22:08Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-061/settlement.png"
+    },
+    {
+      "round": "round-062",
+      "started_at": "2026-11-09T19:22:08Z",
+      "strategy": "portfolio",
+      "seed": 162,
+      "search_seconds": 31.9501,
+      "planned_score": 113,
+      "verified_score": 113,
+      "verified_moves": 50,
+      "plan_completed": true,
+      "settlement_score": 113,
+      "settled_at": "2026-11-09T19:24:17Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-062/settlement.png"
+    },
+    {
+      "round": "round-063",
+      "started_at": "2026-11-09T19:24:17Z",
+      "strategy": "portfolio",
+      "seed": 163,
+      "search_seconds": 31.9501,
+      "planned_score": 139,
+      "verified_score": 139,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 139,
+      "settled_at": "2026-11-09T19:26:27Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-063/settlement.png"
+    },
+    {
+      "round": "round-064",
+      "started_at": "2026-11-09T19:26:27Z",
+      "strategy": "portfolio",
+      "seed": 164,
+      "search_seconds": 31.9503,
+      "planned_score": 143,
+      "verified_score": 143,
+      "verified_moves": 68,
+      "plan_completed": true,
+      "settlement_score": 143,
+      "settled_at": "2026-11-09T19:28:37Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-064/settlement.png"
+    },
+    {
+      "round": "round-065",
+      "started_at": "2026-11-09T19:28:37Z",
+      "strategy": "portfolio",
+      "seed": 165,
+      "search_seconds": 31.9501,
+      "planned_score": 137,
+      "verified_score": 137,
+      "verified_moves": 62,
+      "plan_completed": true,
+      "settlement_score": 137,
+      "settled_at": "2026-11-09T19:30:47Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-065/settlement.png"
+    },
+    {
+      "round": "round-066",
+      "started_at": "2026-11-09T19:30:47Z",
+      "strategy": "portfolio",
+      "seed": 166,
+      "search_seconds": 31.9501,
+      "planned_score": 142,
+      "verified_score": 142,
+      "verified_moves": 67,
+      "plan_completed": true,
+      "settlement_score": 142,
+      "settled_at": "2026-11-09T19:32:57Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-066/settlement.png"
+    },
+    {
+      "round": "round-067",
+      "started_at": "2026-11-09T19:32:57Z",
+      "strategy": "portfolio",
+      "seed": 167,
+      "search_seconds": 31.9501,
+      "planned_score": 130,
+      "verified_score": 130,
+      "verified_moves": 58,
+      "plan_completed": true,
+      "settlement_score": 130,
+      "settled_at": "2026-11-09T19:35:08Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-067/settlement.png"
+    },
+    {
+      "round": "round-068",
+      "started_at": "2026-11-09T19:35:08Z",
+      "strategy": "portfolio",
+      "seed": 168,
+      "search_seconds": 31.9503,
+      "planned_score": 145,
+      "verified_score": 145,
+      "verified_moves": 67,
+      "plan_completed": true,
+      "settlement_score": 145,
+      "settled_at": "2026-11-09T19:37:17Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-068/settlement.png"
+    },
+    {
+      "round": "round-069",
+      "started_at": "2026-11-09T19:37:17Z",
+      "strategy": "portfolio",
+      "seed": 169,
+      "search_seconds": 31.9505,
+      "planned_score": 147,
+      "verified_score": 147,
+      "verified_moves": 69,
+      "plan_completed": true,
+      "settlement_score": 147,
+      "settled_at": "2026-11-09T19:39:27Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-069/settlement.png"
+    },
+    {
+      "round": "round-070",
+      "started_at": "2026-11-09T19:39:27Z",
+      "strategy": "portfolio",
+      "seed": 170,
+      "search_seconds": 31.9501,
+      "planned_score": 136,
+      "verified_score": 136,
+      "verified_moves": 61,
+      "plan_completed": true,
+      "settlement_score": 136,
+      "settled_at": "2026-11-09T19:41:37Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-070/settlement.png"
+    },
+    {
+      "round": "round-071",
+      "started_at": "2026-11-09T19:41:37Z",
+      "strategy": "portfolio",
+      "seed": 171,
+      "search_seconds": 31.9508,
+      "planned_score": 148,
+      "verified_score": 148,
+      "verified_moves": 70,
+      "plan_completed": true,
+      "settlement_score": 148,
+      "settled_at": "2026-11-09T19:43:46Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-071/settlement.png"
+    },
+    {
+      "round": "round-072",
+      "started_at": "2026-11-09T19:43:46Z",
+      "strategy": "portfolio",
+      "seed": 172,
+      "search_seconds": 31.9504,
+      "planned_score": 144,
+      "verified_score": 144,
+      "verified_moves": 68,
+      "plan_completed": true,
+      "settlement_score": 144,
+      "settled_at": "2026-11-09T19:45:56Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-072/settlement.png"
+    },
+    {
+      "round": "round-073",
+      "started_at": "2026-11-09T19:45:56Z",
+      "strategy": "portfolio",
+      "seed": 173,
+      "search_seconds": 31.9501,
+      "planned_score": 130,
+      "verified_score": 130,
+      "verified_moves": 59,
+      "plan_completed": true,
+      "settlement_score": 130,
+      "settled_at": "2026-11-09T19:48:05Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-073/settlement.png"
+    },
+    {
+      "round": "round-074",
+      "started_at": "2026-11-09T19:48:05Z",
+      "strategy": "portfolio",
+      "seed": 174,
+      "search_seconds": 31.9569,
+      "planned_score": 152,
+      "verified_score": 152,
+      "verified_moves": 73,
+      "plan_completed": true,
+      "settlement_score": 152,
+      "settled_at": "2026-11-09T19:50:16Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-074/settlement.png"
+    },
+    {
+      "round": "round-075",
+      "started_at": "2026-11-09T19:50:16Z",
+      "strategy": "portfolio",
+      "seed": 175,
+      "search_seconds": 31.9501,
+      "planned_score": 127,
+      "verified_score": 127,
+      "verified_moves": 58,
+      "plan_completed": true,
+      "settlement_score": 127,
+      "settled_at": "2026-11-09T19:52:25Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-075/settlement.png"
+    },
+    {
+      "round": "round-076",
+      "started_at": "2026-11-09T19:55:05Z",
+      "strategy": "portfolio8",
+      "seed": 176,
+      "search_seconds": 31.9501,
+      "planned_score": 140,
+      "verified_score": 140,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 140,
+      "settled_at": "2026-11-09T19:58:18Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-076/settlement.png"
+    },
+    {
+      "round": "round-077",
+      "started_at": "2026-11-09T19:58:18Z",
+      "strategy": "portfolio8",
+      "seed": 177,
+      "search_seconds": null,
+      "planned_score": null,
+      "verified_score": null,
+      "verified_moves": null,
+      "plan_completed": false,
+      "settlement_score": 0,
+      "settled_at": "2026-11-09T20:00:27Z",
+      "fully_verified": false,
+      "errors": [
+        "Error: No complete initial board appeared within four seconds; saved screenshot for review."
+      ],
+      "evidence": "round-077/settlement.png"
+    },
+    {
+      "round": "round-078",
+      "started_at": "2026-11-09T20:00:27Z",
+      "strategy": "portfolio8",
+      "seed": 178,
+      "search_seconds": null,
+      "planned_score": null,
+      "verified_score": null,
+      "verified_moves": null,
+      "plan_completed": false,
+      "settlement_score": 0,
+      "settled_at": "2026-11-09T20:02:37Z",
+      "fully_verified": false,
+      "errors": [
+        "Error: No complete initial board appeared within four seconds; saved screenshot for review."
+      ],
+      "evidence": "round-078/settlement.png"
+    },
+    {
+      "round": "round-079",
+      "started_at": "2026-11-09T20:02:43Z",
+      "strategy": "portfolio8",
+      "seed": 179,
+      "search_seconds": 31.9518,
+      "planned_score": 150,
+      "verified_score": 150,
+      "verified_moves": 70,
+      "plan_completed": true,
+      "settlement_score": 150,
+      "settled_at": "2026-11-09T20:04:52Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-079/settlement.png"
+    },
+    {
+      "round": "round-080",
+      "started_at": "2026-11-09T20:04:52Z",
+      "strategy": "portfolio8",
+      "seed": 180,
+      "search_seconds": 31.9506,
+      "planned_score": 144,
+      "verified_score": 144,
+      "verified_moves": 68,
+      "plan_completed": true,
+      "settlement_score": 144,
+      "settled_at": "2026-11-09T20:07:02Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-080/settlement.png"
+    },
+    {
+      "round": "round-081",
+      "started_at": "2026-11-09T20:07:02Z",
+      "strategy": "portfolio8",
+      "seed": 181,
+      "search_seconds": 31.9501,
+      "planned_score": 125,
+      "verified_score": 125,
+      "verified_moves": 57,
+      "plan_completed": true,
+      "settlement_score": 125,
+      "settled_at": "2026-11-09T20:09:13Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-081/settlement.png"
+    },
+    {
+      "round": "round-082",
+      "started_at": "2026-11-09T20:09:13Z",
+      "strategy": "portfolio8",
+      "seed": 182,
+      "search_seconds": 31.9501,
+      "planned_score": 136,
+      "verified_score": 136,
+      "verified_moves": 63,
+      "plan_completed": true,
+      "settlement_score": 136,
+      "settled_at": "2026-11-09T20:11:24Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-082/settlement.png"
+    },
+    {
+      "round": "round-083",
+      "started_at": "2026-11-09T20:11:24Z",
+      "strategy": "portfolio8",
+      "seed": 183,
+      "search_seconds": 31.9502,
+      "planned_score": 152,
+      "verified_score": 152,
+      "verified_moves": 72,
+      "plan_completed": true,
+      "settlement_score": 152,
+      "settled_at": "2026-11-09T20:13:35Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-083/settlement.png"
+    },
+    {
+      "round": "round-084",
+      "started_at": "2026-11-09T20:13:35Z",
+      "strategy": "portfolio8",
+      "seed": 184,
+      "search_seconds": 31.9501,
+      "planned_score": 128,
+      "verified_score": 128,
+      "verified_moves": 60,
+      "plan_completed": true,
+      "settlement_score": 128,
+      "settled_at": "2026-11-09T20:15:46Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-084/settlement.png"
+    },
+    {
+      "round": "round-085",
+      "started_at": "2026-11-09T20:15:46Z",
+      "strategy": "portfolio8",
+      "seed": 185,
+      "search_seconds": 31.9501,
+      "planned_score": 138,
+      "verified_score": 138,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 138,
+      "settled_at": "2026-11-09T20:17:57Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-085/settlement.png"
+    },
+    {
+      "round": "round-086",
+      "started_at": "2026-11-09T20:17:57Z",
+      "strategy": "portfolio8",
+      "seed": 186,
+      "search_seconds": 31.9522,
+      "planned_score": 150,
+      "verified_score": 150,
+      "verified_moves": 69,
+      "plan_completed": true,
+      "settlement_score": 150,
+      "settled_at": "2026-11-09T20:20:08Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-086/settlement.png"
+    },
+    {
+      "round": "round-087",
+      "started_at": "2026-11-09T20:20:08Z",
+      "strategy": "portfolio8",
+      "seed": 187,
+      "search_seconds": 31.9505,
+      "planned_score": 145,
+      "verified_score": 145,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 145,
+      "settled_at": "2026-11-09T20:22:18Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-087/settlement.png"
+    },
+    {
+      "round": "round-088",
+      "started_at": "2026-11-09T20:22:18Z",
+      "strategy": "portfolio8",
+      "seed": 188,
+      "search_seconds": 31.9563,
+      "planned_score": 150,
+      "verified_score": 150,
+      "verified_moves": 72,
+      "plan_completed": true,
+      "settlement_score": 150,
+      "settled_at": "2026-11-09T20:24:28Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-088/settlement.png"
+    },
+    {
+      "round": "round-089",
+      "started_at": "2026-11-09T20:24:28Z",
+      "strategy": "portfolio8",
+      "seed": 189,
+      "search_seconds": 31.9501,
+      "planned_score": 121,
+      "verified_score": 121,
+      "verified_moves": 56,
+      "plan_completed": true,
+      "settlement_score": 121,
+      "settled_at": "2026-11-09T20:26:39Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-089/settlement.png"
+    },
+    {
+      "round": "round-090",
+      "started_at": "2026-11-09T20:28:46Z",
+      "strategy": "portfolio8",
+      "seed": 190,
+      "search_seconds": 31.9501,
+      "planned_score": 141,
+      "verified_score": 141,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 141,
+      "settled_at": "2026-11-09T20:30:55Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-090/settlement.png"
+    },
+    {
+      "round": "round-091",
+      "started_at": "2026-11-09T20:30:55Z",
+      "strategy": "portfolio8",
+      "seed": 191,
+      "search_seconds": 31.9501,
+      "planned_score": 117,
+      "verified_score": 117,
+      "verified_moves": 51,
+      "plan_completed": true,
+      "settlement_score": 117,
+      "settled_at": "2026-11-09T20:33:05Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-091/settlement.png"
+    },
+    {
+      "round": "round-092",
+      "started_at": "2026-11-09T20:33:05Z",
+      "strategy": "portfolio8",
+      "seed": 192,
+      "search_seconds": 31.952,
+      "planned_score": 150,
+      "verified_score": 150,
+      "verified_moves": 70,
+      "plan_completed": true,
+      "settlement_score": 150,
+      "settled_at": "2026-11-09T20:35:15Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-092/settlement.png"
+    },
+    {
+      "round": "round-093",
+      "started_at": "2026-11-09T20:35:15Z",
+      "strategy": "portfolio8",
+      "seed": 193,
+      "search_seconds": 31.9509,
+      "planned_score": 152,
+      "verified_score": 152,
+      "verified_moves": 71,
+      "plan_completed": true,
+      "settlement_score": 152,
+      "settled_at": "2026-11-09T20:37:25Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-093/settlement.png"
+    },
+    {
+      "round": "round-094",
+      "started_at": "2026-11-09T20:37:25Z",
+      "strategy": "portfolio8",
+      "seed": 194,
+      "search_seconds": 31.9501,
+      "planned_score": 140,
+      "verified_score": 140,
+      "verified_moves": 67,
+      "plan_completed": true,
+      "settlement_score": 140,
+      "settled_at": "2026-11-09T20:39:34Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-094/settlement.png"
+    },
+    {
+      "round": "round-095",
+      "started_at": "2026-11-09T20:39:34Z",
+      "strategy": "portfolio8",
+      "seed": 195,
+      "search_seconds": 31.9509,
+      "planned_score": 145,
+      "verified_score": 145,
+      "verified_moves": 69,
+      "plan_completed": true,
+      "settlement_score": 145,
+      "settled_at": "2026-11-09T20:41:44Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-095/settlement.png"
+    },
+    {
+      "round": "round-096",
+      "started_at": "2026-11-09T20:41:44Z",
+      "strategy": "portfolio8",
+      "seed": 196,
+      "search_seconds": 31.9501,
+      "planned_score": 128,
+      "verified_score": 128,
+      "verified_moves": 57,
+      "plan_completed": true,
+      "settlement_score": 128,
+      "settled_at": "2026-11-09T20:43:54Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-096/settlement.png"
+    },
+    {
+      "round": "round-097",
+      "started_at": "2026-11-09T20:43:54Z",
+      "strategy": "portfolio8",
+      "seed": 197,
+      "search_seconds": 31.9504,
+      "planned_score": 145,
+      "verified_score": 145,
+      "verified_moves": 67,
+      "plan_completed": true,
+      "settlement_score": 145,
+      "settled_at": "2026-11-09T20:46:04Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-097/settlement.png"
+    },
+    {
+      "round": "round-098",
+      "started_at": "2026-11-09T20:46:04Z",
+      "strategy": "portfolio8",
+      "seed": 198,
+      "search_seconds": 31.9501,
+      "planned_score": 128,
+      "verified_score": 128,
+      "verified_moves": 59,
+      "plan_completed": true,
+      "settlement_score": 128,
+      "settled_at": "2026-11-09T20:48:14Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-098/settlement.png"
+    },
+    {
+      "round": "round-099",
+      "started_at": "2026-11-09T20:48:14Z",
+      "strategy": "portfolio8",
+      "seed": 199,
+      "search_seconds": 31.952,
+      "planned_score": 148,
+      "verified_score": 148,
+      "verified_moves": 69,
+      "plan_completed": true,
+      "settlement_score": 148,
+      "settled_at": "2026-11-09T20:50:24Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-099/settlement.png"
+    },
+    {
+      "round": "round-100",
+      "started_at": "2026-11-09T20:50:24Z",
+      "strategy": "portfolio8",
+      "seed": 200,
+      "search_seconds": 31.9501,
+      "planned_score": 127,
+      "verified_score": 127,
+      "verified_moves": 59,
+      "plan_completed": true,
+      "settlement_score": 127,
+      "settled_at": "2026-11-09T20:52:32Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-100/settlement.png"
+    },
+    {
+      "round": "round-101",
+      "started_at": "2026-11-09T20:52:32Z",
+      "strategy": "portfolio8",
+      "seed": 201,
+      "search_seconds": 31.9501,
+      "planned_score": 132,
+      "verified_score": 132,
+      "verified_moves": 60,
+      "plan_completed": true,
+      "settlement_score": 132,
+      "settled_at": "2026-11-09T20:54:42Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-101/settlement.png"
+    },
+    {
+      "round": "round-102",
+      "started_at": "2026-11-09T20:54:42Z",
+      "strategy": "portfolio8",
+      "seed": 202,
+      "search_seconds": 31.9505,
+      "planned_score": 146,
+      "verified_score": 146,
+      "verified_moves": 70,
+      "plan_completed": true,
+      "settlement_score": 146,
+      "settled_at": "2026-11-09T20:56:52Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-102/settlement.png"
+    },
+    {
+      "round": "round-103",
+      "started_at": "2026-11-09T20:56:52Z",
+      "strategy": "portfolio8",
+      "seed": 203,
+      "search_seconds": 31.9501,
+      "planned_score": 137,
+      "verified_score": 137,
+      "verified_moves": 61,
+      "plan_completed": true,
+      "settlement_score": 137,
+      "settled_at": "2026-11-09T20:59:01Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-103/settlement.png"
+    },
+    {
+      "round": "round-104",
+      "started_at": "2026-11-09T20:59:01Z",
+      "strategy": "portfolio8",
+      "seed": 204,
+      "search_seconds": 31.9501,
+      "planned_score": 133,
+      "verified_score": 133,
+      "verified_moves": 60,
+      "plan_completed": true,
+      "settlement_score": 133,
+      "settled_at": "2026-11-09T21:01:12Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-104/settlement.png"
+    },
+    {
+      "round": "round-105",
+      "started_at": "2026-11-09T21:01:12Z",
+      "strategy": "portfolio8",
+      "seed": 205,
+      "search_seconds": 31.9513,
+      "planned_score": 154,
+      "verified_score": 154,
+      "verified_moves": 71,
+      "plan_completed": true,
+      "settlement_score": 154,
+      "settled_at": "2026-11-09T21:03:23Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-105/settlement.png"
+    },
+    {
+      "round": "round-106",
+      "started_at": "2026-11-09T21:03:23Z",
+      "strategy": "portfolio8",
+      "seed": 206,
+      "search_seconds": 31.9508,
+      "planned_score": 145,
+      "verified_score": 145,
+      "verified_moves": 67,
+      "plan_completed": true,
+      "settlement_score": 145,
+      "settled_at": "2026-11-09T21:05:33Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-106/settlement.png"
+    },
+    {
+      "round": "round-107",
+      "started_at": "2026-11-09T21:05:33Z",
+      "strategy": "portfolio8",
+      "seed": 207,
+      "search_seconds": 31.9501,
+      "planned_score": 126,
+      "verified_score": 126,
+      "verified_moves": 57,
+      "plan_completed": true,
+      "settlement_score": 126,
+      "settled_at": "2026-11-09T21:07:44Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-107/settlement.png"
+    },
+    {
+      "round": "round-108",
+      "started_at": "2026-11-09T21:07:44Z",
+      "strategy": "portfolio8",
+      "seed": 208,
+      "search_seconds": 31.9501,
+      "planned_score": 124,
+      "verified_score": 124,
+      "verified_moves": 57,
+      "plan_completed": true,
+      "settlement_score": 124,
+      "settled_at": "2026-11-09T21:09:54Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-108/settlement.png"
+    },
+    {
+      "round": "round-109",
+      "started_at": "2026-11-09T21:09:54Z",
+      "strategy": "portfolio8",
+      "seed": 209,
+      "search_seconds": 31.9501,
+      "planned_score": 114,
+      "verified_score": 114,
+      "verified_moves": 52,
+      "plan_completed": true,
+      "settlement_score": 114,
+      "settled_at": "2026-11-09T21:12:04Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-109/settlement.png"
+    },
+    {
+      "round": "round-110",
+      "started_at": "2026-11-09T21:12:04Z",
+      "strategy": "portfolio8",
+      "seed": 210,
+      "search_seconds": 31.9501,
+      "planned_score": 127,
+      "verified_score": 127,
+      "verified_moves": 59,
+      "plan_completed": true,
+      "settlement_score": 127,
+      "settled_at": "2026-11-09T21:14:13Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-110/settlement.png"
+    },
+    {
+      "round": "round-111",
+      "started_at": "2026-11-09T21:14:13Z",
+      "strategy": "portfolio8",
+      "seed": 211,
+      "search_seconds": 31.9501,
+      "planned_score": 137,
+      "verified_score": 137,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 137,
+      "settled_at": "2026-11-09T21:16:23Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-111/settlement.png"
+    },
+    {
+      "round": "round-112",
+      "started_at": "2026-11-09T21:16:23Z",
+      "strategy": "portfolio8",
+      "seed": 212,
+      "search_seconds": 31.9501,
+      "planned_score": 137,
+      "verified_score": 137,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 137,
+      "settled_at": "2026-11-09T21:18:33Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-112/settlement.png"
+    },
+    {
+      "round": "round-113",
+      "started_at": "2026-11-09T21:18:33Z",
+      "strategy": "portfolio8",
+      "seed": 213,
+      "search_seconds": 31.9541,
+      "planned_score": 159,
+      "verified_score": 159,
+      "verified_moves": 74,
+      "plan_completed": true,
+      "settlement_score": 159,
+      "settled_at": "2026-11-09T21:20:56Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-113/settlement.png"
+    },
+    {
+      "round": "round-114",
+      "started_at": "2026-11-09T21:20:56Z",
+      "strategy": "portfolio8",
+      "seed": 214,
+      "search_seconds": 31.9501,
+      "planned_score": 121,
+      "verified_score": 121,
+      "verified_moves": 57,
+      "plan_completed": true,
+      "settlement_score": 121,
+      "settled_at": "2026-11-09T21:23:06Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-114/settlement.png"
+    },
+    {
+      "round": "round-115",
+      "started_at": "2026-11-09T21:23:06Z",
+      "strategy": "portfolio8",
+      "seed": 215,
+      "search_seconds": 31.9501,
+      "planned_score": 125,
+      "verified_score": 125,
+      "verified_moves": 59,
+      "plan_completed": true,
+      "settlement_score": 125,
+      "settled_at": "2026-11-09T21:25:17Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-115/settlement.png"
+    },
+    {
+      "round": "round-116",
+      "started_at": "2026-11-09T21:25:17Z",
+      "strategy": "portfolio8",
+      "seed": 216,
+      "search_seconds": 31.9512,
+      "planned_score": 151,
+      "verified_score": 151,
+      "verified_moves": 71,
+      "plan_completed": true,
+      "settlement_score": 151,
+      "settled_at": "2026-11-09T21:27:28Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-116/settlement.png"
+    },
+    {
+      "round": "round-117",
+      "started_at": "2026-11-09T21:27:28Z",
+      "strategy": "portfolio8",
+      "seed": 217,
+      "search_seconds": 31.9501,
+      "planned_score": 131,
+      "verified_score": 131,
+      "verified_moves": 62,
+      "plan_completed": true,
+      "settlement_score": 131,
+      "settled_at": "2026-11-09T21:29:37Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-117/settlement.png"
+    },
+    {
+      "round": "round-118",
+      "started_at": "2026-11-09T21:30:13Z",
+      "strategy": "portfolio8",
+      "seed": 218,
+      "search_seconds": 31.9501,
+      "planned_score": 134,
+      "verified_score": 134,
+      "verified_moves": 61,
+      "plan_completed": true,
+      "settlement_score": 134,
+      "settled_at": "2026-11-09T21:32:23Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-118/settlement.png"
+    },
+    {
+      "round": "round-119",
+      "started_at": "2026-11-09T21:32:23Z",
+      "strategy": "portfolio8",
+      "seed": 219,
+      "search_seconds": 31.9501,
+      "planned_score": 121,
+      "verified_score": 121,
+      "verified_moves": 55,
+      "plan_completed": true,
+      "settlement_score": 121,
+      "settled_at": "2026-11-09T21:34:34Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-119/settlement.png"
+    },
+    {
+      "round": "round-120",
+      "started_at": "2026-11-09T21:34:34Z",
+      "strategy": "portfolio8",
+      "seed": 220,
+      "search_seconds": 31.9501,
+      "planned_score": 122,
+      "verified_score": 122,
+      "verified_moves": 55,
+      "plan_completed": true,
+      "settlement_score": 122,
+      "settled_at": "2026-11-09T21:36:45Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-120/settlement.png"
+    },
+    {
+      "round": "round-121",
+      "started_at": "2026-11-09T21:36:45Z",
+      "strategy": "portfolio8",
+      "seed": 221,
+      "search_seconds": 31.9501,
+      "planned_score": 121,
+      "verified_score": 121,
+      "verified_moves": 55,
+      "plan_completed": true,
+      "settlement_score": 121,
+      "settled_at": "2026-11-09T21:38:54Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-121/settlement.png"
+    },
+    {
+      "round": "round-122",
+      "started_at": "2026-11-09T21:38:54Z",
+      "strategy": "portfolio8",
+      "seed": 222,
+      "search_seconds": 31.9501,
+      "planned_score": 140,
+      "verified_score": 140,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 140,
+      "settled_at": "2026-11-09T21:41:05Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-122/settlement.png"
+    },
+    {
+      "round": "round-123",
+      "started_at": "2026-11-09T21:41:05Z",
+      "strategy": "portfolio8",
+      "seed": 223,
+      "search_seconds": 31.9503,
+      "planned_score": 145,
+      "verified_score": 145,
+      "verified_moves": 67,
+      "plan_completed": true,
+      "settlement_score": 145,
+      "settled_at": "2026-11-09T21:43:15Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-123/settlement.png"
+    },
+    {
+      "round": "round-124",
+      "started_at": "2026-11-09T21:43:15Z",
+      "strategy": "portfolio8",
+      "seed": 224,
+      "search_seconds": 31.9504,
+      "planned_score": 148,
+      "verified_score": 148,
+      "verified_moves": 70,
+      "plan_completed": true,
+      "settlement_score": 148,
+      "settled_at": "2026-11-09T21:45:26Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-124/settlement.png"
+    },
+    {
+      "round": "round-125",
+      "started_at": "2026-11-09T21:45:26Z",
+      "strategy": "portfolio8",
+      "seed": 225,
+      "search_seconds": 31.9509,
+      "planned_score": 149,
+      "verified_score": 149,
+      "verified_moves": 71,
+      "plan_completed": true,
+      "settlement_score": 149,
+      "settled_at": "2026-11-09T21:47:37Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-125/settlement.png"
+    },
+    {
+      "round": "round-126",
+      "started_at": "2026-11-09T21:47:37Z",
+      "strategy": "portfolio8",
+      "seed": 226,
+      "search_seconds": 31.9501,
+      "planned_score": 116,
+      "verified_score": 116,
+      "verified_moves": 52,
+      "plan_completed": true,
+      "settlement_score": 116,
+      "settled_at": "2026-11-09T21:49:46Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-126/settlement.png"
+    },
+    {
+      "round": "round-127",
+      "started_at": "2026-11-09T21:49:46Z",
+      "strategy": "portfolio8",
+      "seed": 227,
+      "search_seconds": 31.9501,
+      "planned_score": 119,
+      "verified_score": 119,
+      "verified_moves": 55,
+      "plan_completed": true,
+      "settlement_score": 119,
+      "settled_at": "2026-11-09T21:51:56Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-127/settlement.png"
+    },
+    {
+      "round": "round-128",
+      "started_at": "2026-11-09T21:51:56Z",
+      "strategy": "portfolio8",
+      "seed": 228,
+      "search_seconds": 31.9504,
+      "planned_score": 146,
+      "verified_score": 146,
+      "verified_moves": 68,
+      "plan_completed": true,
+      "settlement_score": 146,
+      "settled_at": "2026-11-09T21:54:04Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-128/settlement.png"
+    },
+    {
+      "round": "round-129",
+      "started_at": "2026-11-09T21:54:04Z",
+      "strategy": "portfolio8",
+      "seed": 229,
+      "search_seconds": 31.957,
+      "planned_score": 151,
+      "verified_score": 151,
+      "verified_moves": 70,
+      "plan_completed": true,
+      "settlement_score": 151,
+      "settled_at": "2026-11-09T21:56:14Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-129/settlement.png"
+    },
+    {
+      "round": "round-130",
+      "started_at": "2026-11-09T21:56:14Z",
+      "strategy": "portfolio8",
+      "seed": 230,
+      "search_seconds": 31.9501,
+      "planned_score": 139,
+      "verified_score": 139,
+      "verified_moves": 63,
+      "plan_completed": true,
+      "settlement_score": 139,
+      "settled_at": "2026-11-09T21:58:24Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-130/settlement.png"
+    },
+    {
+      "round": "round-131",
+      "started_at": "2026-11-09T21:58:24Z",
+      "strategy": "portfolio8",
+      "seed": 231,
+      "search_seconds": 31.9502,
+      "planned_score": 145,
+      "verified_score": 145,
+      "verified_moves": 68,
+      "plan_completed": true,
+      "settlement_score": 145,
+      "settled_at": "2026-11-09T22:00:33Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-131/settlement.png"
+    },
+    {
+      "round": "round-132",
+      "started_at": "2026-11-09T22:00:33Z",
+      "strategy": "portfolio8",
+      "seed": 232,
+      "search_seconds": 31.9501,
+      "planned_score": 135,
+      "verified_score": 135,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 135,
+      "settled_at": "2026-11-09T22:02:43Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-132/settlement.png"
+    },
+    {
+      "round": "round-133",
+      "started_at": "2026-11-09T22:02:43Z",
+      "strategy": "portfolio8",
+      "seed": 233,
+      "search_seconds": 31.9526,
+      "planned_score": 148,
+      "verified_score": 148,
+      "verified_moves": 70,
+      "plan_completed": true,
+      "settlement_score": 148,
+      "settled_at": "2026-11-09T22:04:52Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-133/settlement.png"
+    },
+    {
+      "round": "round-134",
+      "started_at": "2026-11-09T22:04:52Z",
+      "strategy": "portfolio8",
+      "seed": 234,
+      "search_seconds": 31.956,
+      "planned_score": 152,
+      "verified_score": 152,
+      "verified_moves": 71,
+      "plan_completed": true,
+      "settlement_score": 152,
+      "settled_at": "2026-11-09T22:07:02Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-134/settlement.png"
+    },
+    {
+      "round": "round-135",
+      "started_at": "2026-11-09T22:07:02Z",
+      "strategy": "portfolio8",
+      "seed": 235,
+      "search_seconds": 31.9509,
+      "planned_score": 150,
+      "verified_score": 150,
+      "verified_moves": 70,
+      "plan_completed": true,
+      "settlement_score": 150,
+      "settled_at": "2026-11-09T22:09:13Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-135/settlement.png"
+    },
+    {
+      "round": "round-136",
+      "started_at": "2026-11-09T22:09:13Z",
+      "strategy": "portfolio8",
+      "seed": 236,
+      "search_seconds": 31.9501,
+      "planned_score": 139,
+      "verified_score": 139,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 139,
+      "settled_at": "2026-11-09T22:11:22Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-136/settlement.png"
+    },
+    {
+      "round": "round-137",
+      "started_at": "2026-11-09T22:11:22Z",
+      "strategy": "portfolio8",
+      "seed": 237,
+      "search_seconds": 31.9502,
+      "planned_score": 142,
+      "verified_score": 142,
+      "verified_moves": 67,
+      "plan_completed": true,
+      "settlement_score": 142,
+      "settled_at": "2026-11-09T22:13:32Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-137/settlement.png"
+    },
+    {
+      "round": "round-138",
+      "started_at": "2026-11-09T22:13:32Z",
+      "strategy": "portfolio8",
+      "seed": 238,
+      "search_seconds": 31.9501,
+      "planned_score": 128,
+      "verified_score": 128,
+      "verified_moves": 59,
+      "plan_completed": true,
+      "settlement_score": 128,
+      "settled_at": "2026-11-09T22:15:43Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-138/settlement.png"
+    },
+    {
+      "round": "round-139",
+      "started_at": "2026-11-09T22:15:43Z",
+      "strategy": "portfolio8",
+      "seed": 239,
+      "search_seconds": 31.9501,
+      "planned_score": 122,
+      "verified_score": 122,
+      "verified_moves": 56,
+      "plan_completed": true,
+      "settlement_score": 122,
+      "settled_at": "2026-11-09T22:17:54Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-139/settlement.png"
+    },
+    {
+      "round": "round-140",
+      "started_at": "2026-11-09T22:17:54Z",
+      "strategy": "portfolio8",
+      "seed": 240,
+      "search_seconds": 31.9501,
+      "planned_score": 137,
+      "verified_score": 137,
+      "verified_moves": 63,
+      "plan_completed": true,
+      "settlement_score": 137,
+      "settled_at": "2026-11-09T22:20:04Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-140/settlement.png"
+    },
+    {
+      "round": "round-141",
+      "started_at": "2026-11-09T22:20:04Z",
+      "strategy": "portfolio8",
+      "seed": 241,
+      "search_seconds": 31.9501,
+      "planned_score": 137,
+      "verified_score": 137,
+      "verified_moves": 63,
+      "plan_completed": true,
+      "settlement_score": 137,
+      "settled_at": "2026-11-09T22:22:15Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-141/settlement.png"
+    },
+    {
+      "round": "round-142",
+      "started_at": "2026-11-09T22:22:15Z",
+      "strategy": "portfolio8",
+      "seed": 242,
+      "search_seconds": 31.9501,
+      "planned_score": 123,
+      "verified_score": 123,
+      "verified_moves": 56,
+      "plan_completed": true,
+      "settlement_score": 123,
+      "settled_at": "2026-11-09T22:24:25Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-142/settlement.png"
+    },
+    {
+      "round": "round-143",
+      "started_at": "2026-11-09T22:24:25Z",
+      "strategy": "portfolio8",
+      "seed": 243,
+      "search_seconds": 31.9501,
+      "planned_score": 128,
+      "verified_score": 128,
+      "verified_moves": 57,
+      "plan_completed": true,
+      "settlement_score": 128,
+      "settled_at": "2026-11-09T22:26:35Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-143/settlement.png"
+    },
+    {
+      "round": "round-144",
+      "started_at": "2026-11-09T22:26:35Z",
+      "strategy": "portfolio8",
+      "seed": 244,
+      "search_seconds": 31.9501,
+      "planned_score": 132,
+      "verified_score": 132,
+      "verified_moves": 60,
+      "plan_completed": true,
+      "settlement_score": 132,
+      "settled_at": "2026-11-09T22:28:46Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-144/settlement.png"
+    },
+    {
+      "round": "round-145",
+      "started_at": "2026-11-09T22:31:11Z",
+      "strategy": "portfolio8",
+      "seed": 245,
+      "search_seconds": 31.9556,
+      "planned_score": 158,
+      "verified_score": 158,
+      "verified_moves": 74,
+      "plan_completed": true,
+      "settlement_score": 158,
+      "settled_at": "2026-11-09T22:33:21Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-145/settlement.png"
+    },
+    {
+      "round": "round-146",
+      "started_at": "2026-11-09T22:33:21Z",
+      "strategy": "portfolio8",
+      "seed": 246,
+      "search_seconds": 31.9501,
+      "planned_score": 101,
+      "verified_score": 101,
+      "verified_moves": 45,
+      "plan_completed": true,
+      "settlement_score": 101,
+      "settled_at": "2026-11-09T22:35:30Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-146/settlement.png"
+    },
+    {
+      "round": "round-147",
+      "started_at": "2026-11-09T22:35:30Z",
+      "strategy": "portfolio8",
+      "seed": 247,
+      "search_seconds": 31.9501,
+      "planned_score": 139,
+      "verified_score": 139,
+      "verified_moves": 66,
+      "plan_completed": true,
+      "settlement_score": 139,
+      "settled_at": "2026-11-09T22:37:39Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-147/settlement.png"
+    },
+    {
+      "round": "round-148",
+      "started_at": "2026-11-09T22:37:39Z",
+      "strategy": "portfolio8",
+      "seed": 248,
+      "search_seconds": 31.9501,
+      "planned_score": 139,
+      "verified_score": 139,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 139,
+      "settled_at": "2026-11-09T22:39:50Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-148/settlement.png"
+    },
+    {
+      "round": "round-149",
+      "started_at": "2026-11-09T22:39:50Z",
+      "strategy": "portfolio8",
+      "seed": 249,
+      "search_seconds": 31.9501,
+      "planned_score": 136,
+      "verified_score": 136,
+      "verified_moves": 63,
+      "plan_completed": true,
+      "settlement_score": 136,
+      "settled_at": "2026-11-09T22:41:58Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-149/settlement.png"
+    },
+    {
+      "round": "round-150",
+      "started_at": "2026-11-09T22:41:58Z",
+      "strategy": "portfolio8",
+      "seed": 250,
+      "search_seconds": 31.9501,
+      "planned_score": 136,
+      "verified_score": 136,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 136,
+      "settled_at": "2026-11-09T22:44:09Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-150/settlement.png"
+    },
+    {
+      "round": "round-151",
+      "started_at": "2026-11-09T22:44:09Z",
+      "strategy": "portfolio8",
+      "seed": 251,
+      "search_seconds": 31.9501,
+      "planned_score": 145,
+      "verified_score": 145,
+      "verified_moves": 68,
+      "plan_completed": true,
+      "settlement_score": 145,
+      "settled_at": "2026-11-09T22:46:18Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-151/settlement.png"
+    },
+    {
+      "round": "round-152",
+      "started_at": "2026-11-09T22:46:18Z",
+      "strategy": "portfolio8",
+      "seed": 252,
+      "search_seconds": 31.954,
+      "planned_score": 150,
+      "verified_score": 150,
+      "verified_moves": 69,
+      "plan_completed": true,
+      "settlement_score": 150,
+      "settled_at": "2026-11-09T22:48:29Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-152/settlement.png"
+    },
+    {
+      "round": "round-153",
+      "started_at": "2026-11-09T22:48:29Z",
+      "strategy": "portfolio8",
+      "seed": 253,
+      "search_seconds": 31.958,
+      "planned_score": 157,
+      "verified_score": 157,
+      "verified_moves": 74,
+      "plan_completed": true,
+      "settlement_score": 157,
+      "settled_at": "2026-11-09T22:50:38Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-153/settlement.png"
+    },
+    {
+      "round": "round-154",
+      "started_at": "2026-11-09T22:50:38Z",
+      "strategy": "portfolio8",
+      "seed": 254,
+      "search_seconds": 31.9501,
+      "planned_score": 130,
+      "verified_score": 130,
+      "verified_moves": 59,
+      "plan_completed": true,
+      "settlement_score": 130,
+      "settled_at": "2026-11-09T22:52:48Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-154/settlement.png"
+    },
+    {
+      "round": "round-155",
+      "started_at": "2026-11-09T22:52:48Z",
+      "strategy": "portfolio8",
+      "seed": 255,
+      "search_seconds": 31.9525,
+      "planned_score": 150,
+      "verified_score": 150,
+      "verified_moves": 71,
+      "plan_completed": true,
+      "settlement_score": 150,
+      "settled_at": "2026-11-09T22:54:58Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-155/settlement.png"
+    },
+    {
+      "round": "round-156",
+      "started_at": "2026-11-09T22:54:58Z",
+      "strategy": "portfolio8",
+      "seed": 256,
+      "search_seconds": 31.9569,
+      "planned_score": 154,
+      "verified_score": 154,
+      "verified_moves": 74,
+      "plan_completed": true,
+      "settlement_score": 154,
+      "settled_at": "2026-11-09T22:57:08Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-156/settlement.png"
+    },
+    {
+      "round": "round-157",
+      "started_at": "2026-11-09T22:57:08Z",
+      "strategy": "portfolio8",
+      "seed": 257,
+      "search_seconds": 31.9501,
+      "planned_score": 140,
+      "verified_score": 140,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 140,
+      "settled_at": "2026-11-09T22:59:17Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-157/settlement.png"
+    },
+    {
+      "round": "round-158",
+      "started_at": "2026-11-09T22:59:17Z",
+      "strategy": "portfolio8",
+      "seed": 258,
+      "search_seconds": 31.9501,
+      "planned_score": 141,
+      "verified_score": 141,
+      "verified_moves": 67,
+      "plan_completed": true,
+      "settlement_score": 141,
+      "settled_at": "2026-11-09T23:01:26Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-158/settlement.png"
+    },
+    {
+      "round": "round-159",
+      "started_at": "2026-11-09T23:01:26Z",
+      "strategy": "portfolio8",
+      "seed": 259,
+      "search_seconds": 31.9513,
+      "planned_score": 149,
+      "verified_score": 149,
+      "verified_moves": 72,
+      "plan_completed": true,
+      "settlement_score": 149,
+      "settled_at": "2026-11-09T23:03:37Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-159/settlement.png"
+    },
+    {
+      "round": "round-160",
+      "started_at": "2026-11-09T23:03:37Z",
+      "strategy": "portfolio8",
+      "seed": 260,
+      "search_seconds": 31.9508,
+      "planned_score": 147,
+      "verified_score": 147,
+      "verified_moves": 69,
+      "plan_completed": true,
+      "settlement_score": 147,
+      "settled_at": "2026-11-09T23:05:48Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-160/settlement.png"
+    },
+    {
+      "round": "round-161",
+      "started_at": "2026-11-09T23:05:48Z",
+      "strategy": "portfolio8",
+      "seed": 261,
+      "search_seconds": 31.9546,
+      "planned_score": 158,
+      "verified_score": 158,
+      "verified_moves": 75,
+      "plan_completed": true,
+      "settlement_score": 158,
+      "settled_at": "2026-11-09T23:07:59Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-161/settlement.png"
+    },
+    {
+      "round": "round-162",
+      "started_at": "2026-11-09T23:07:59Z",
+      "strategy": "portfolio8",
+      "seed": 262,
+      "search_seconds": 31.9516,
+      "planned_score": 147,
+      "verified_score": 147,
+      "verified_moves": 68,
+      "plan_completed": true,
+      "settlement_score": 147,
+      "settled_at": "2026-11-09T23:10:09Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-162/settlement.png"
+    },
+    {
+      "round": "round-163",
+      "started_at": "2026-11-09T23:10:09Z",
+      "strategy": "portfolio8",
+      "seed": 263,
+      "search_seconds": 31.9521,
+      "planned_score": 156,
+      "verified_score": 156,
+      "verified_moves": 75,
+      "plan_completed": true,
+      "settlement_score": 156,
+      "settled_at": "2026-11-09T23:12:18Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-163/settlement.png"
+    },
+    {
+      "round": "round-164",
+      "started_at": "2026-11-09T23:12:18Z",
+      "strategy": "portfolio8",
+      "seed": 264,
+      "search_seconds": 31.9501,
+      "planned_score": 132,
+      "verified_score": 132,
+      "verified_moves": 60,
+      "plan_completed": true,
+      "settlement_score": 132,
+      "settled_at": "2026-11-09T23:14:29Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-164/settlement.png"
+    },
+    {
+      "round": "round-165",
+      "started_at": "2026-11-09T23:14:29Z",
+      "strategy": "portfolio8",
+      "seed": 265,
+      "search_seconds": 31.9511,
+      "planned_score": 149,
+      "verified_score": 149,
+      "verified_moves": 71,
+      "plan_completed": true,
+      "settlement_score": 149,
+      "settled_at": "2026-11-09T23:16:39Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-165/settlement.png"
+    },
+    {
+      "round": "round-166",
+      "started_at": "2026-11-09T23:16:39Z",
+      "strategy": "portfolio8",
+      "seed": 266,
+      "search_seconds": 31.9501,
+      "planned_score": 136,
+      "verified_score": 136,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 136,
+      "settled_at": "2026-11-09T23:18:48Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-166/settlement.png"
+    },
+    {
+      "round": "round-167",
+      "started_at": "2026-11-09T23:18:48Z",
+      "strategy": "portfolio8",
+      "seed": 267,
+      "search_seconds": 31.9501,
+      "planned_score": 141,
+      "verified_score": 141,
+      "verified_moves": 62,
+      "plan_completed": true,
+      "settlement_score": 141,
+      "settled_at": "2026-11-09T23:20:58Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-167/settlement.png"
+    },
+    {
+      "round": "round-168",
+      "started_at": "2026-11-09T23:20:58Z",
+      "strategy": "portfolio8",
+      "seed": 268,
+      "search_seconds": 31.9501,
+      "planned_score": 124,
+      "verified_score": 124,
+      "verified_moves": 56,
+      "plan_completed": true,
+      "settlement_score": 124,
+      "settled_at": "2026-11-09T23:23:06Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-168/settlement.png"
+    },
+    {
+      "round": "round-169",
+      "started_at": "2026-11-09T23:23:06Z",
+      "strategy": "portfolio8",
+      "seed": 269,
+      "search_seconds": 31.9501,
+      "planned_score": 109,
+      "verified_score": 109,
+      "verified_moves": 50,
+      "plan_completed": true,
+      "settlement_score": 109,
+      "settled_at": "2026-11-09T23:25:16Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-169/settlement.png"
+    },
+    {
+      "round": "round-170",
+      "started_at": "2026-11-09T23:25:16Z",
+      "strategy": "portfolio8",
+      "seed": 270,
+      "search_seconds": 31.9501,
+      "planned_score": 125,
+      "verified_score": 125,
+      "verified_moves": 56,
+      "plan_completed": true,
+      "settlement_score": 125,
+      "settled_at": "2026-11-09T23:27:27Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-170/settlement.png"
+    },
+    {
+      "round": "round-171",
+      "started_at": "2026-11-09T23:27:27Z",
+      "strategy": "portfolio8",
+      "seed": 271,
+      "search_seconds": 31.9501,
+      "planned_score": 139,
+      "verified_score": 139,
+      "verified_moves": 66,
+      "plan_completed": true,
+      "settlement_score": 139,
+      "settled_at": "2026-11-09T23:29:37Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-171/settlement.png"
+    },
+    {
+      "round": "round-172",
+      "started_at": "2026-11-09T23:29:37Z",
+      "strategy": "portfolio8",
+      "seed": 272,
+      "search_seconds": 31.9507,
+      "planned_score": 148,
+      "verified_score": 148,
+      "verified_moves": 70,
+      "plan_completed": true,
+      "settlement_score": 148,
+      "settled_at": "2026-11-09T23:31:48Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-172/settlement.png"
+    },
+    {
+      "round": "round-173",
+      "started_at": "2026-11-09T23:31:48Z",
+      "strategy": "portfolio8",
+      "seed": 273,
+      "search_seconds": 31.9501,
+      "planned_score": 141,
+      "verified_score": 141,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 141,
+      "settled_at": "2026-11-09T23:33:57Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-173/settlement.png"
+    },
+    {
+      "round": "round-174",
+      "started_at": "2026-11-09T23:33:57Z",
+      "strategy": "portfolio8",
+      "seed": 274,
+      "search_seconds": 31.9501,
+      "planned_score": 141,
+      "verified_score": 141,
+      "verified_moves": 68,
+      "plan_completed": true,
+      "settlement_score": 141,
+      "settled_at": "2026-11-09T23:36:06Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-174/settlement.png"
+    },
+    {
+      "round": "round-175",
+      "started_at": "2026-11-09T23:36:06Z",
+      "strategy": "portfolio8",
+      "seed": 275,
+      "search_seconds": 31.9507,
+      "planned_score": 146,
+      "verified_score": 146,
+      "verified_moves": 69,
+      "plan_completed": true,
+      "settlement_score": 146,
+      "settled_at": "2026-11-09T23:38:17Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-175/settlement.png"
+    },
+    {
+      "round": "round-176",
+      "started_at": "2026-11-09T23:38:17Z",
+      "strategy": "portfolio8",
+      "seed": 276,
+      "search_seconds": 31.9563,
+      "planned_score": 153,
+      "verified_score": 153,
+      "verified_moves": 73,
+      "plan_completed": true,
+      "settlement_score": 153,
+      "settled_at": "2026-11-09T23:40:26Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-176/settlement.png"
+    },
+    {
+      "round": "round-177",
+      "started_at": "2026-11-09T23:40:26Z",
+      "strategy": "portfolio8",
+      "seed": 277,
+      "search_seconds": 31.9501,
+      "planned_score": 142,
+      "verified_score": 142,
+      "verified_moves": 66,
+      "plan_completed": true,
+      "settlement_score": 142,
+      "settled_at": "2026-11-09T23:42:35Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-177/settlement.png"
+    },
+    {
+      "round": "round-178",
+      "started_at": "2026-11-09T23:42:35Z",
+      "strategy": "portfolio8",
+      "seed": 278,
+      "search_seconds": 31.9501,
+      "planned_score": 144,
+      "verified_score": 144,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 144,
+      "settled_at": "2026-11-09T23:44:44Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-178/settlement.png"
+    },
+    {
+      "round": "round-179",
+      "started_at": "2026-11-09T23:44:44Z",
+      "strategy": "portfolio8",
+      "seed": 279,
+      "search_seconds": 31.9501,
+      "planned_score": 140,
+      "verified_score": 140,
+      "verified_moves": 66,
+      "plan_completed": true,
+      "settlement_score": 140,
+      "settled_at": "2026-11-09T23:46:54Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-179/settlement.png"
+    },
+    {
+      "round": "round-180",
+      "started_at": "2026-11-09T23:46:54Z",
+      "strategy": "portfolio8",
+      "seed": 280,
+      "search_seconds": 31.9501,
+      "planned_score": 136,
+      "verified_score": 136,
+      "verified_moves": 64,
+      "plan_completed": true,
+      "settlement_score": 136,
+      "settled_at": "2026-11-09T23:49:03Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-180/settlement.png"
+    },
+    {
+      "round": "round-181",
+      "started_at": "2026-11-09T23:49:03Z",
+      "strategy": "portfolio8",
+      "seed": 281,
+      "search_seconds": 31.9501,
+      "planned_score": 131,
+      "verified_score": 131,
+      "verified_moves": 62,
+      "plan_completed": true,
+      "settlement_score": 131,
+      "settled_at": "2026-11-09T23:51:13Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-181/settlement.png"
+    },
+    {
+      "round": "round-182",
+      "started_at": "2026-11-09T23:51:13Z",
+      "strategy": "portfolio8",
+      "seed": 282,
+      "search_seconds": 31.9501,
+      "planned_score": 141,
+      "verified_score": 141,
+      "verified_moves": 65,
+      "plan_completed": true,
+      "settlement_score": 141,
+      "settled_at": "2026-11-09T23:53:22Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-182/settlement.png"
+    },
+    {
+      "round": "round-183",
+      "started_at": "2026-11-09T23:53:22Z",
+      "strategy": "portfolio8",
+      "seed": 283,
+      "search_seconds": 31.9516,
+      "planned_score": 149,
+      "verified_score": 149,
+      "verified_moves": 70,
+      "plan_completed": true,
+      "settlement_score": 149,
+      "settled_at": "2026-11-09T23:55:33Z",
+      "fully_verified": true,
+      "errors": [
+
+      ],
+      "evidence": "round-183/settlement.png"
+    }
+  ]
+}

@@ -1,0 +1,1706 @@
+{
+  "updated_at": "2026-11-09T23:56:31Z",
+  "verified_eight_worker_rounds": 106,
+  "rounds_improved_by_extra_workers": 40,
+  "mean_gain_within_same_search": 0.9811320754716981,
+  "maximum_gain": 11,
+  "interpretation": "Within each eight-worker run, compare its selected score with the best of its first four workers. This is not a separate four-worker timing benchmark.",
+  "rounds": [
+    {
+      "round": "round-076",
+      "settled_score": 140,
+      "first_four_best": 139,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        139,
+        138,
+        135,
+        138,
+        136,
+        139,
+        138,
+        140
+      ]
+    },
+    {
+      "round": "round-079",
+      "settled_score": 150,
+      "first_four_best": 150,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        142,
+        146,
+        147,
+        150,
+        145,
+        147,
+        143,
+        146
+      ]
+    },
+    {
+      "round": "round-080",
+      "settled_score": 144,
+      "first_four_best": 144,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        139,
+        143,
+        144,
+        141,
+        141,
+        142,
+        143,
+        142
+      ]
+    },
+    {
+      "round": "round-081",
+      "settled_score": 125,
+      "first_four_best": 125,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        122,
+        120,
+        120,
+        125,
+        125,
+        125,
+        125,
+        122
+      ]
+    },
+    {
+      "round": "round-082",
+      "settled_score": 136,
+      "first_four_best": 136,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        135,
+        135,
+        135,
+        136,
+        132,
+        136,
+        136,
+        134
+      ]
+    },
+    {
+      "round": "round-083",
+      "settled_score": 152,
+      "first_four_best": 145,
+      "extra_worker_gain": 7,
+      "worker_scores": [
+        145,
+        144,
+        143,
+        142,
+        142,
+        152,
+        145,
+        145
+      ]
+    },
+    {
+      "round": "round-084",
+      "settled_score": 128,
+      "first_four_best": 126,
+      "extra_worker_gain": 2,
+      "worker_scores": [
+        126,
+        126,
+        126,
+        126,
+        128,
+        125,
+        126,
+        127
+      ]
+    },
+    {
+      "round": "round-085",
+      "settled_score": 138,
+      "first_four_best": 134,
+      "extra_worker_gain": 4,
+      "worker_scores": [
+        134,
+        131,
+        133,
+        133,
+        136,
+        138,
+        136,
+        136
+      ]
+    },
+    {
+      "round": "round-086",
+      "settled_score": 150,
+      "first_four_best": 150,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        142,
+        144,
+        145,
+        150,
+        144,
+        145,
+        147,
+        143
+      ]
+    },
+    {
+      "round": "round-087",
+      "settled_score": 145,
+      "first_four_best": 143,
+      "extra_worker_gain": 2,
+      "worker_scores": [
+        143,
+        143,
+        142,
+        140,
+        138,
+        144,
+        145,
+        144
+      ]
+    },
+    {
+      "round": "round-088",
+      "settled_score": 150,
+      "first_four_best": 150,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        147,
+        145,
+        147,
+        150,
+        142,
+        143,
+        150,
+        149
+      ]
+    },
+    {
+      "round": "round-089",
+      "settled_score": 121,
+      "first_four_best": 121,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        121,
+        121,
+        121,
+        121,
+        121,
+        119,
+        121,
+        121
+      ]
+    },
+    {
+      "round": "round-090",
+      "settled_score": 141,
+      "first_four_best": 141,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        141,
+        140,
+        139,
+        139,
+        139,
+        140,
+        141,
+        140
+      ]
+    },
+    {
+      "round": "round-091",
+      "settled_score": 117,
+      "first_four_best": 117,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        115,
+        117,
+        117,
+        117,
+        115,
+        117,
+        115,
+        117
+      ]
+    },
+    {
+      "round": "round-092",
+      "settled_score": 150,
+      "first_four_best": 150,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        149,
+        148,
+        147,
+        150,
+        146,
+        145,
+        148,
+        144
+      ]
+    },
+    {
+      "round": "round-093",
+      "settled_score": 152,
+      "first_four_best": 152,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        149,
+        149,
+        148,
+        152,
+        147,
+        150,
+        147,
+        146
+      ]
+    },
+    {
+      "round": "round-094",
+      "settled_score": 140,
+      "first_four_best": 140,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        139,
+        135,
+        137,
+        140,
+        137,
+        130,
+        135,
+        135
+      ]
+    },
+    {
+      "round": "round-095",
+      "settled_score": 145,
+      "first_four_best": 143,
+      "extra_worker_gain": 2,
+      "worker_scores": [
+        143,
+        143,
+        141,
+        143,
+        143,
+        143,
+        144,
+        145
+      ]
+    },
+    {
+      "round": "round-096",
+      "settled_score": 128,
+      "first_four_best": 123,
+      "extra_worker_gain": 5,
+      "worker_scores": [
+        123,
+        121,
+        123,
+        121,
+        124,
+        121,
+        122,
+        128
+      ]
+    },
+    {
+      "round": "round-097",
+      "settled_score": 145,
+      "first_four_best": 143,
+      "extra_worker_gain": 2,
+      "worker_scores": [
+        140,
+        138,
+        143,
+        140,
+        144,
+        143,
+        136,
+        145
+      ]
+    },
+    {
+      "round": "round-098",
+      "settled_score": 128,
+      "first_four_best": 127,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        127,
+        127,
+        126,
+        126,
+        128,
+        127,
+        127,
+        127
+      ]
+    },
+    {
+      "round": "round-099",
+      "settled_score": 148,
+      "first_four_best": 147,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        147,
+        147,
+        145,
+        142,
+        146,
+        144,
+        148,
+        147
+      ]
+    },
+    {
+      "round": "round-100",
+      "settled_score": 127,
+      "first_four_best": 127,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        119,
+        125,
+        127,
+        115,
+        126,
+        111,
+        125,
+        126
+      ]
+    },
+    {
+      "round": "round-101",
+      "settled_score": 132,
+      "first_four_best": 132,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        126,
+        126,
+        126,
+        132,
+        128,
+        126,
+        127,
+        127
+      ]
+    },
+    {
+      "round": "round-102",
+      "settled_score": 146,
+      "first_four_best": 146,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        146,
+        144,
+        144,
+        144,
+        142,
+        144,
+        145,
+        142
+      ]
+    },
+    {
+      "round": "round-103",
+      "settled_score": 137,
+      "first_four_best": 137,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        137,
+        136,
+        135,
+        132,
+        137,
+        132,
+        136,
+        137
+      ]
+    },
+    {
+      "round": "round-104",
+      "settled_score": 133,
+      "first_four_best": 133,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        127,
+        132,
+        133,
+        126,
+        128,
+        128,
+        131,
+        128
+      ]
+    },
+    {
+      "round": "round-105",
+      "settled_score": 154,
+      "first_four_best": 154,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        151,
+        149,
+        147,
+        154,
+        151,
+        149,
+        151,
+        144
+      ]
+    },
+    {
+      "round": "round-106",
+      "settled_score": 145,
+      "first_four_best": 144,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        143,
+        143,
+        144,
+        144,
+        143,
+        143,
+        142,
+        145
+      ]
+    },
+    {
+      "round": "round-107",
+      "settled_score": 126,
+      "first_four_best": 125,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        125,
+        124,
+        123,
+        123,
+        125,
+        126,
+        125,
+        125
+      ]
+    },
+    {
+      "round": "round-108",
+      "settled_score": 124,
+      "first_four_best": 123,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        121,
+        121,
+        122,
+        123,
+        123,
+        123,
+        121,
+        124
+      ]
+    },
+    {
+      "round": "round-109",
+      "settled_score": 114,
+      "first_four_best": 114,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        111,
+        114,
+        111,
+        111,
+        111,
+        111,
+        111,
+        111
+      ]
+    },
+    {
+      "round": "round-110",
+      "settled_score": 127,
+      "first_four_best": 127,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        127,
+        124,
+        125,
+        124,
+        125,
+        124,
+        125,
+        125
+      ]
+    },
+    {
+      "round": "round-111",
+      "settled_score": 137,
+      "first_four_best": 136,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        132,
+        134,
+        131,
+        136,
+        130,
+        132,
+        137,
+        133
+      ]
+    },
+    {
+      "round": "round-112",
+      "settled_score": 137,
+      "first_four_best": 137,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        132,
+        137,
+        136,
+        132,
+        131,
+        135,
+        132,
+        130
+      ]
+    },
+    {
+      "round": "round-113",
+      "settled_score": 159,
+      "first_four_best": 159,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        159,
+        155,
+        156,
+        159,
+        155,
+        155,
+        159,
+        159
+      ]
+    },
+    {
+      "round": "round-114",
+      "settled_score": 121,
+      "first_four_best": 121,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        121,
+        118,
+        114,
+        118,
+        119,
+        118,
+        119,
+        118
+      ]
+    },
+    {
+      "round": "round-115",
+      "settled_score": 125,
+      "first_four_best": 122,
+      "extra_worker_gain": 3,
+      "worker_scores": [
+        122,
+        120,
+        119,
+        122,
+        119,
+        119,
+        125,
+        119
+      ]
+    },
+    {
+      "round": "round-116",
+      "settled_score": 151,
+      "first_four_best": 151,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        144,
+        150,
+        151,
+        145,
+        149,
+        145,
+        147,
+        147
+      ]
+    },
+    {
+      "round": "round-117",
+      "settled_score": 131,
+      "first_four_best": 131,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        125,
+        131,
+        128,
+        125,
+        128,
+        124,
+        127,
+        127
+      ]
+    },
+    {
+      "round": "round-118",
+      "settled_score": 134,
+      "first_four_best": 134,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        129,
+        129,
+        134,
+        131,
+        131,
+        134,
+        134,
+        134
+      ]
+    },
+    {
+      "round": "round-119",
+      "settled_score": 121,
+      "first_four_best": 121,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        121,
+        120,
+        120,
+        120,
+        120,
+        119,
+        119,
+        119
+      ]
+    },
+    {
+      "round": "round-120",
+      "settled_score": 122,
+      "first_four_best": 121,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        120,
+        120,
+        121,
+        121,
+        120,
+        119,
+        122,
+        122
+      ]
+    },
+    {
+      "round": "round-121",
+      "settled_score": 121,
+      "first_four_best": 121,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        120,
+        120,
+        121,
+        120,
+        120,
+        120,
+        120,
+        119
+      ]
+    },
+    {
+      "round": "round-122",
+      "settled_score": 140,
+      "first_four_best": 136,
+      "extra_worker_gain": 4,
+      "worker_scores": [
+        136,
+        134,
+        133,
+        130,
+        140,
+        134,
+        135,
+        137
+      ]
+    },
+    {
+      "round": "round-123",
+      "settled_score": 145,
+      "first_four_best": 145,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        142,
+        145,
+        143,
+        142,
+        142,
+        142,
+        140,
+        142
+      ]
+    },
+    {
+      "round": "round-124",
+      "settled_score": 148,
+      "first_four_best": 148,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        144,
+        144,
+        143,
+        148,
+        146,
+        143,
+        141,
+        141
+      ]
+    },
+    {
+      "round": "round-125",
+      "settled_score": 149,
+      "first_four_best": 147,
+      "extra_worker_gain": 2,
+      "worker_scores": [
+        146,
+        147,
+        145,
+        146,
+        146,
+        143,
+        149,
+        144
+      ]
+    },
+    {
+      "round": "round-126",
+      "settled_score": 116,
+      "first_four_best": 116,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        114,
+        114,
+        116,
+        115,
+        114,
+        115,
+        115,
+        115
+      ]
+    },
+    {
+      "round": "round-127",
+      "settled_score": 119,
+      "first_four_best": 119,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        117,
+        117,
+        117,
+        119,
+        117,
+        117,
+        116,
+        117
+      ]
+    },
+    {
+      "round": "round-128",
+      "settled_score": 146,
+      "first_four_best": 146,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        141,
+        146,
+        142,
+        138,
+        141,
+        145,
+        141,
+        139
+      ]
+    },
+    {
+      "round": "round-129",
+      "settled_score": 151,
+      "first_four_best": 151,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        146,
+        148,
+        151,
+        151,
+        150,
+        147,
+        146,
+        151
+      ]
+    },
+    {
+      "round": "round-130",
+      "settled_score": 139,
+      "first_four_best": 133,
+      "extra_worker_gain": 6,
+      "worker_scores": [
+        130,
+        133,
+        128,
+        127,
+        128,
+        137,
+        139,
+        137
+      ]
+    },
+    {
+      "round": "round-131",
+      "settled_score": 145,
+      "first_four_best": 145,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        139,
+        134,
+        145,
+        141,
+        137,
+        138,
+        136,
+        141
+      ]
+    },
+    {
+      "round": "round-132",
+      "settled_score": 135,
+      "first_four_best": 135,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        134,
+        135,
+        132,
+        130,
+        131,
+        132,
+        133,
+        134
+      ]
+    },
+    {
+      "round": "round-133",
+      "settled_score": 148,
+      "first_four_best": 148,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        148,
+        148,
+        144,
+        147,
+        148,
+        148,
+        148,
+        148
+      ]
+    },
+    {
+      "round": "round-134",
+      "settled_score": 152,
+      "first_four_best": 151,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        151,
+        151,
+        148,
+        151,
+        148,
+        146,
+        152,
+        150
+      ]
+    },
+    {
+      "round": "round-135",
+      "settled_score": 150,
+      "first_four_best": 139,
+      "extra_worker_gain": 11,
+      "worker_scores": [
+        137,
+        136,
+        139,
+        139,
+        138,
+        137,
+        135,
+        150
+      ]
+    },
+    {
+      "round": "round-136",
+      "settled_score": 139,
+      "first_four_best": 139,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        139,
+        136,
+        137,
+        136,
+        137,
+        136,
+        136,
+        136
+      ]
+    },
+    {
+      "round": "round-137",
+      "settled_score": 142,
+      "first_four_best": 141,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        138,
+        141,
+        141,
+        140,
+        140,
+        142,
+        137,
+        140
+      ]
+    },
+    {
+      "round": "round-138",
+      "settled_score": 128,
+      "first_four_best": 128,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        128,
+        127,
+        122,
+        127,
+        127,
+        125,
+        127,
+        128
+      ]
+    },
+    {
+      "round": "round-139",
+      "settled_score": 122,
+      "first_four_best": 122,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        121,
+        121,
+        122,
+        121,
+        121,
+        121,
+        122,
+        122
+      ]
+    },
+    {
+      "round": "round-140",
+      "settled_score": 137,
+      "first_four_best": 133,
+      "extra_worker_gain": 4,
+      "worker_scores": [
+        133,
+        127,
+        133,
+        131,
+        129,
+        132,
+        137,
+        127
+      ]
+    },
+    {
+      "round": "round-141",
+      "settled_score": 137,
+      "first_four_best": 136,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        136,
+        136,
+        136,
+        136,
+        133,
+        135,
+        133,
+        137
+      ]
+    },
+    {
+      "round": "round-142",
+      "settled_score": 123,
+      "first_four_best": 118,
+      "extra_worker_gain": 5,
+      "worker_scores": [
+        118,
+        117,
+        117,
+        118,
+        123,
+        119,
+        118,
+        118
+      ]
+    },
+    {
+      "round": "round-143",
+      "settled_score": 128,
+      "first_four_best": 128,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        127,
+        127,
+        127,
+        128,
+        127,
+        127,
+        127,
+        127
+      ]
+    },
+    {
+      "round": "round-144",
+      "settled_score": 132,
+      "first_four_best": 132,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        132,
+        128,
+        130,
+        132,
+        127,
+        130,
+        129,
+        132
+      ]
+    },
+    {
+      "round": "round-145",
+      "settled_score": 158,
+      "first_four_best": 158,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        158,
+        154,
+        156,
+        158,
+        157,
+        156,
+        157,
+        157
+      ]
+    },
+    {
+      "round": "round-146",
+      "settled_score": 101,
+      "first_four_best": 100,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        101,
+        100,
+        101
+      ]
+    },
+    {
+      "round": "round-147",
+      "settled_score": 139,
+      "first_four_best": 139,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        134,
+        136,
+        139,
+        136,
+        137,
+        137,
+        136,
+        137
+      ]
+    },
+    {
+      "round": "round-148",
+      "settled_score": 139,
+      "first_four_best": 139,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        137,
+        136,
+        139,
+        133,
+        139,
+        131,
+        138,
+        132
+      ]
+    },
+    {
+      "round": "round-149",
+      "settled_score": 136,
+      "first_four_best": 136,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        134,
+        131,
+        136,
+        136,
+        133,
+        136,
+        131,
+        132
+      ]
+    },
+    {
+      "round": "round-150",
+      "settled_score": 136,
+      "first_four_best": 136,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        131,
+        131,
+        136,
+        133,
+        133,
+        131,
+        136,
+        131
+      ]
+    },
+    {
+      "round": "round-151",
+      "settled_score": 145,
+      "first_four_best": 142,
+      "extra_worker_gain": 3,
+      "worker_scores": [
+        138,
+        139,
+        137,
+        142,
+        141,
+        140,
+        141,
+        145
+      ]
+    },
+    {
+      "round": "round-152",
+      "settled_score": 150,
+      "first_four_best": 150,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        148,
+        148,
+        149,
+        150,
+        143,
+        143,
+        143,
+        143
+      ]
+    },
+    {
+      "round": "round-153",
+      "settled_score": 157,
+      "first_four_best": 153,
+      "extra_worker_gain": 4,
+      "worker_scores": [
+        150,
+        153,
+        153,
+        153,
+        155,
+        149,
+        151,
+        157
+      ]
+    },
+    {
+      "round": "round-154",
+      "settled_score": 130,
+      "first_four_best": 130,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        129,
+        129,
+        126,
+        130,
+        126,
+        127,
+        127,
+        126
+      ]
+    },
+    {
+      "round": "round-155",
+      "settled_score": 150,
+      "first_four_best": 149,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        149,
+        149,
+        148,
+        149,
+        144,
+        149,
+        145,
+        150
+      ]
+    },
+    {
+      "round": "round-156",
+      "settled_score": 154,
+      "first_four_best": 151,
+      "extra_worker_gain": 3,
+      "worker_scores": [
+        147,
+        146,
+        149,
+        151,
+        147,
+        154,
+        148,
+        153
+      ]
+    },
+    {
+      "round": "round-157",
+      "settled_score": 140,
+      "first_four_best": 138,
+      "extra_worker_gain": 2,
+      "worker_scores": [
+        137,
+        138,
+        135,
+        136,
+        140,
+        140,
+        135,
+        137
+      ]
+    },
+    {
+      "round": "round-158",
+      "settled_score": 141,
+      "first_four_best": 139,
+      "extra_worker_gain": 2,
+      "worker_scores": [
+        136,
+        136,
+        139,
+        136,
+        141,
+        136,
+        138,
+        136
+      ]
+    },
+    {
+      "round": "round-159",
+      "settled_score": 149,
+      "first_four_best": 149,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        144,
+        142,
+        141,
+        149,
+        144,
+        143,
+        143,
+        147
+      ]
+    },
+    {
+      "round": "round-160",
+      "settled_score": 147,
+      "first_four_best": 145,
+      "extra_worker_gain": 2,
+      "worker_scores": [
+        139,
+        143,
+        141,
+        145,
+        147,
+        139,
+        145,
+        143
+      ]
+    },
+    {
+      "round": "round-161",
+      "settled_score": 158,
+      "first_four_best": 158,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        157,
+        158,
+        148,
+        158,
+        156,
+        149,
+        157,
+        153
+      ]
+    },
+    {
+      "round": "round-162",
+      "settled_score": 147,
+      "first_four_best": 146,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        146,
+        145,
+        143,
+        145,
+        145,
+        144,
+        147,
+        143
+      ]
+    },
+    {
+      "round": "round-163",
+      "settled_score": 156,
+      "first_four_best": 151,
+      "extra_worker_gain": 5,
+      "worker_scores": [
+        149,
+        151,
+        148,
+        150,
+        150,
+        156,
+        149,
+        149
+      ]
+    },
+    {
+      "round": "round-164",
+      "settled_score": 132,
+      "first_four_best": 132,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        132,
+        125,
+        128,
+        126,
+        128,
+        128,
+        128,
+        128
+      ]
+    },
+    {
+      "round": "round-165",
+      "settled_score": 149,
+      "first_four_best": 149,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        142,
+        146,
+        144,
+        149,
+        144,
+        145,
+        146,
+        148
+      ]
+    },
+    {
+      "round": "round-166",
+      "settled_score": 136,
+      "first_four_best": 136,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        133,
+        133,
+        136,
+        133,
+        135,
+        135,
+        133,
+        135
+      ]
+    },
+    {
+      "round": "round-167",
+      "settled_score": 141,
+      "first_four_best": 141,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        132,
+        132,
+        135,
+        141,
+        137,
+        131,
+        138,
+        134
+      ]
+    },
+    {
+      "round": "round-168",
+      "settled_score": 124,
+      "first_four_best": 124,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        121,
+        124,
+        121,
+        123,
+        122,
+        122,
+        123,
+        123
+      ]
+    },
+    {
+      "round": "round-169",
+      "settled_score": 109,
+      "first_four_best": 109,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        105,
+        104,
+        109,
+        109,
+        109,
+        109,
+        107,
+        109
+      ]
+    },
+    {
+      "round": "round-170",
+      "settled_score": 125,
+      "first_four_best": 125,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        120,
+        119,
+        118,
+        125,
+        120,
+        120,
+        116,
+        120
+      ]
+    },
+    {
+      "round": "round-171",
+      "settled_score": 139,
+      "first_four_best": 139,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        134,
+        139,
+        138,
+        133,
+        139,
+        134,
+        135,
+        137
+      ]
+    },
+    {
+      "round": "round-172",
+      "settled_score": 148,
+      "first_four_best": 148,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        145,
+        145,
+        147,
+        148,
+        148,
+        148,
+        147,
+        142
+      ]
+    },
+    {
+      "round": "round-173",
+      "settled_score": 141,
+      "first_four_best": 141,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        137,
+        141,
+        137,
+        136,
+        141,
+        138,
+        134,
+        137
+      ]
+    },
+    {
+      "round": "round-174",
+      "settled_score": 141,
+      "first_four_best": 141,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        137,
+        133,
+        134,
+        141,
+        134,
+        136,
+        137,
+        136
+      ]
+    },
+    {
+      "round": "round-175",
+      "settled_score": 146,
+      "first_four_best": 146,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        142,
+        140,
+        140,
+        146,
+        143,
+        140,
+        146,
+        142
+      ]
+    },
+    {
+      "round": "round-176",
+      "settled_score": 153,
+      "first_four_best": 151,
+      "extra_worker_gain": 2,
+      "worker_scores": [
+        150,
+        147,
+        151,
+        147,
+        150,
+        151,
+        150,
+        153
+      ]
+    },
+    {
+      "round": "round-177",
+      "settled_score": 142,
+      "first_four_best": 141,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        139,
+        140,
+        134,
+        141,
+        136,
+        139,
+        142,
+        141
+      ]
+    },
+    {
+      "round": "round-178",
+      "settled_score": 144,
+      "first_four_best": 144,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        142,
+        144,
+        133,
+        139,
+        137,
+        141,
+        140,
+        141
+      ]
+    },
+    {
+      "round": "round-179",
+      "settled_score": 140,
+      "first_four_best": 140,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        140,
+        138,
+        137,
+        138,
+        138,
+        136,
+        137,
+        136
+      ]
+    },
+    {
+      "round": "round-180",
+      "settled_score": 136,
+      "first_four_best": 136,
+      "extra_worker_gain": 0,
+      "worker_scores": [
+        134,
+        136,
+        130,
+        133,
+        131,
+        132,
+        133,
+        128
+      ]
+    },
+    {
+      "round": "round-181",
+      "settled_score": 131,
+      "first_four_best": 130,
+      "extra_worker_gain": 1,
+      "worker_scores": [
+        125,
+        128,
+        129,
+        130,
+        125,
+        121,
+        128,
+        131
+      ]
+    },
+    {
+      "round": "round-182",
+      "settled_score": 141,
+      "first_four_best": 138,
+      "extra_worker_gain": 3,
+      "worker_scores": [
+        137,
+        135,
+        138,
+        134,
+        138,
+        140,
+        137,
+        141
+      ]
+    },
+    {
+      "round": "round-183",
+      "settled_score": 149,
+      "first_four_best": 146,
+      "extra_worker_gain": 3,
+      "worker_scores": [
+        144,
+        144,
+        146,
+        146,
+        146,
+        144,
+        149,
+        144
+      ]
+    }
+  ]
+}

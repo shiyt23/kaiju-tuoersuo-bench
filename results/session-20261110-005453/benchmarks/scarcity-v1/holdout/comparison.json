@@ -1,0 +1,74 @@
+{
+  "baseline": "portfolio",
+  "candidate": "scarcityportfolio",
+  "paired_boards": 6,
+  "baseline_mean": 139.5,
+  "candidate_mean": 139.83333333333334,
+  "improved": 2,
+  "tied": 4,
+  "regressed": 0,
+  "max_candidate_seconds": 31.9518,
+  "mean_trials_ratio": 0.9729461684829411,
+  "pairs": [
+    {
+      "board": "results/session-20261110-005453/round-017/initial-board.txt",
+      "seed": 1901,
+      "baseline": 151,
+      "candidate": 152,
+      "delta": 1,
+      "baseline_seconds": 31.9546,
+      "candidate_seconds": 31.9518,
+      "trials_ratio": 0.9508534811660799
+    },
+    {
+      "board": "results/session-20261110-005453/round-021/initial-board.txt",
+      "seed": 1902,
+      "baseline": 151,
+      "candidate": 151,
+      "delta": 0,
+      "baseline_seconds": 31.9529,
+      "candidate_seconds": 31.9516,
+      "trials_ratio": 0.9434464775909637
+    },
+    {
+      "board": "results/session-20261110-005453/round-028/initial-board.txt",
+      "seed": 1903,
+      "baseline": 150,
+      "candidate": 150,
+      "delta": 0,
+      "baseline_seconds": 31.9515,
+      "candidate_seconds": 31.9513,
+      "trials_ratio": 0.9415020418580908
+    },
+    {
+      "board": "results/session-20261110-005453/round-034/initial-board.txt",
+      "seed": 1904,
+      "baseline": 127,
+      "candidate": 127,
+      "delta": 0,
+      "baseline_seconds": 31.9501,
+      "candidate_seconds": 31.9501,
+      "trials_ratio": 1.0472865948678245
+    },
+    {
+      "board": "results/session-20261110-005453/round-048/initial-board.txt",
+      "seed": 1905,
+      "baseline": 139,
+      "candidate": 140,
+      "delta": 1,
+      "baseline_seconds": 31.9501,
+      "candidate_seconds": 31.9501,
+      "trials_ratio": 0.9668825441605389
+    },
+    {
+      "board": "results/session-20261110-005453/round-051/initial-board.txt",
+      "seed": 1906,
+      "baseline": 119,
+      "candidate": 119,
+      "delta": 0,
+      "baseline_seconds": 31.9501,
+      "candidate_seconds": 31.9501,
+      "trials_ratio": 0.9877058712541489
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+Recognized 160 digits. Searching for at least 150 points...
+Validated plan: 95 points, 40 moves, 7707229 search trials in 31.95 seconds.
+Executing verified plan. Switching to another application stops mouse input.
+Error: Game is no longer foreground or its window moved; stopping mouse input.

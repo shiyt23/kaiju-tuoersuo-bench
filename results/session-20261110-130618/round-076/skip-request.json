@@ -1,0 +1,16 @@
+{
+  "digit_counts" : [
+    16,
+    15,
+    20,
+    15,
+    17,
+    20,
+    21,
+    20,
+    16
+  ],
+  "digit_sum" : 822,
+  "reason" : "digit_multiset_necessary_conditions_failed",
+  "requested_at" : "2026-11-10T05:51:16Z"
+}
